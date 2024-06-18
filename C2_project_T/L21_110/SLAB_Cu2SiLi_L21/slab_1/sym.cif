@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LiCu2Si
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   4.09356000
+_cell_length_b   5.78917000
+_cell_length_c   26.14030000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   LiCu2Si
+_chemical_formula_sum   'Li4 Cu8 Si4'
+_cell_volume   619.48105693
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.11745000  1.0
+  Li  Li1  1  0.00000000  0.00000000  0.96563000  1.0
+  Li  Li2  1  0.50000000  0.50000000  0.03915000  1.0
+  Li  Li3  1  0.50000000  0.50000000  0.87026000  1.0
+  Cu  Cu4  2  0.00000000  0.22534000  0.88783000  1.0
+  Cu  Cu5  2  0.00000000  0.25000000  0.03915000  1.0
+  Cu  Cu6  2  0.50000000  0.25000000  0.11745000  1.0
+  Cu  Cu7  2  0.50000000  0.25489000  0.95876000  1.0
+  Si  Si8  1  0.00000000  0.50000000  0.11745000  1.0
+  Si  Si9  1  0.00000000  0.50000000  0.95804000  1.0
+  Si  Si10  1  0.50000000  0.00000000  0.03915000  1.0
+  Si  Si11  1  0.50000000  0.00000000  0.88238500  1.0

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li4In4Pd4Au4CO
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.08394000
+_cell_length_b   7.53916000
+_cell_length_c   24.55190000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Li4In4Pd4Au4CO
+_chemical_formula_sum   'Li4 In4 Pd4 Au4 C1 O1'
+_cell_volume   1126.14156738
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.30210000  0.25002000  0.09270000  1.0
+  Li  Li1  2  0.76050000  0.24914000  0.96483000  1.0
+  In  In2  2  0.25381000  0.25079000  0.96189000  1.0
+  In  In3  2  0.80210000  0.25002000  0.09270000  1.0
+  Pd  Pd4  1  0.03473000  0.00000000  0.03090000  1.0
+  Pd  Pd5  1  0.03473000  0.50000000  0.03090000  1.0
+  Pd  Pd6  1  0.50650000  0.50000000  0.91022000  1.0
+  Pd  Pd7  1  0.50999000  0.00000000  0.91182000  1.0
+  Au  Au8  1  0.53473000  0.00000000  0.03090000  1.0
+  Au  Au9  1  0.53473000  0.50000000  0.03090000  1.0
+  Au  Au10  1  0.96665000  0.50000000  0.90480000  1.0
+  Au  Au11  1  0.97195000  0.00000000  0.90440000  1.0
+  C  C12  1  0.03367000  0.00000000  0.79825000  1.0
+  O  O13  1  0.89494000  0.00000000  0.76702000  1.0

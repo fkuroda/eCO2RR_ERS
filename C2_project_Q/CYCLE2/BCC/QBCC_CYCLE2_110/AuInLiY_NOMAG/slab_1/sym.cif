@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiYInAu
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.89380000
+_cell_length_b   4.87465000
+_cell_length_c   27.31200000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   LiYInAu
+_chemical_formula_sum   'Li4 Y4 In4 Au4'
+_cell_volume   917.81599559
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50000000  0.04462000  1.0
+  Li  Li1  1  0.49554500  0.00000000  0.95172000  1.0
+  Li  Li2  1  0.50000000  0.00000000  0.13386000  1.0
+  Li  Li3  1  0.82040500  0.50000000  0.81693000  1.0
+  Y  Y4  1  0.21245000  0.00000000  0.86532000  1.0
+  Y  Y5  1  0.25000000  0.00000000  0.04462000  1.0
+  Y  Y6  1  0.75000000  0.50000000  0.13386000  1.0
+  Y  Y7  1  0.75700000  0.50000000  0.94937000  1.0
+  In  In8  1  0.24585000  0.50000000  0.95639000  1.0
+  In  In9  1  0.25000000  0.50000000  0.13386000  1.0
+  In  In10  1  0.73281000  0.00000000  0.86202000  1.0
+  In  In11  1  0.75000000  0.00000000  0.04462000  1.0
+  Au  Au12  1  0.00000000  0.00000000  0.13386000  1.0
+  Au  Au13  1  0.47264000  0.50000000  0.86838000  1.0
+  Au  Au14  1  0.50000000  0.50000000  0.04462000  1.0
+  Au  Au15  1  0.99788000  0.00000000  0.95707000  1.0

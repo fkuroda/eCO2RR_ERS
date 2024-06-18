@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_V16Fe16CO
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   5.79956000
+_cell_length_b   8.20182000
+_cell_length_c   26.15140000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   V16Fe16CO
+_chemical_formula_sum   'V16 Fe16 C1 O1'
+_cell_volume   1243.94226299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  4  0.25000000  0.25000000  0.96080000  1.0
+  V  V1  4  0.25006000  0.24890000  0.11987000  1.0
+  V  V2  2  0.24927000  0.50000000  0.04056000  1.0
+  V  V3  2  0.25000000  0.00000000  0.88239000  1.0
+  V  V4  2  0.25000000  0.50000000  0.88239000  1.0
+  V  V5  2  0.25200000  0.00000000  0.03938000  1.0
+  Fe  Fe6  2  0.00000000  0.24373000  0.04173000  1.0
+  Fe  Fe7  2  0.00000000  0.25000000  0.88239000  1.0
+  Fe  Fe8  2  0.50000000  0.25000000  0.88239000  1.0
+  Fe  Fe9  2  0.50000000  0.25218000  0.04119000  1.0
+  Fe  Fe10  1  0.00000000  0.00000000  0.11874000  1.0
+  Fe  Fe11  1  0.00000000  0.00000000  0.96080000  1.0
+  Fe  Fe12  1  0.00000000  0.50000000  0.11319000  1.0
+  Fe  Fe13  1  0.00000000  0.50000000  0.96080000  1.0
+  Fe  Fe14  1  0.50000000  0.00000000  0.11116000  1.0
+  Fe  Fe15  1  0.50000000  0.00000000  0.96080000  1.0
+  Fe  Fe16  1  0.50000000  0.50000000  0.11444000  1.0
+  Fe  Fe17  1  0.50000000  0.50000000  0.96080000  1.0
+  C  C18  1  0.00000000  0.00000000  0.18650000  1.0
+  O  O19  1  0.00000000  0.00000000  0.23128000  1.0

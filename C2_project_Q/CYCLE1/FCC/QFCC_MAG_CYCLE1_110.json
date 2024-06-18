@@ -1,0 +1,1664 @@
+{
+    "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG": [
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/hollow_C_1_1/output.28735127/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/hollow_C_1_1/output.28735127",
+                "n_electrons": 132.0,
+                "number_KS_states": 79,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 18,
+                "Times_converged_SCF": 18,
+                "iterations_SCF": 10,
+                "estimated_scf_accuracy_Ry": 8.3e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -18678.034442488763,
+                "FERMI_ENERGY": -4.3414,
+                "TOTAL_MAGMOM": 9.23,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.02118642,
+                "FORCES": [
+                    [
+                        7.06e-06,
+                        -0.00240799,
+                        -0.00958987
+                    ],
+                    [
+                        -1.279e-05,
+                        -0.00025981,
+                        0.0001684
+                    ],
+                    [
+                        3.74e-06,
+                        -0.00268442,
+                        -0.00826061
+                    ],
+                    [
+                        3.71e-06,
+                        0.00022893,
+                        0.00030175
+                    ],
+                    [
+                        5.13e-06,
+                        0.00735506,
+                        0.02118642
+                    ],
+                    [
+                        1.84e-06,
+                        0.00036209,
+                        0.00042318
+                    ],
+                    [
+                        6.2e-06,
+                        0.00648205,
+                        0.02067506
+                    ],
+                    [
+                        8.24e-06,
+                        -0.00085231,
+                        -0.00066094
+                    ],
+                    [
+                        0.00716366,
+                        0.00167504,
+                        -0.00498871
+                    ],
+                    [
+                        -0.00025384,
+                        -0.00027717,
+                        -0.00067201
+                    ],
+                    [
+                        -0.00715693,
+                        0.00168516,
+                        -0.00499497
+                    ],
+                    [
+                        0.00020258,
+                        -0.00022851,
+                        -0.0006692
+                    ],
+                    [
+                        0.00096343,
+                        -0.00548107,
+                        -0.00558368
+                    ],
+                    [
+                        -0.00039219,
+                        -0.00019367,
+                        -0.00084347
+                    ],
+                    [
+                        -0.00095452,
+                        -0.00548101,
+                        -0.00558722
+                    ],
+                    [
+                        0.00040486,
+                        -0.00018963,
+                        -0.00083293
+                    ],
+                    [
+                        -1.6e-07,
+                        0.00026726,
+                        1.72e-06
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0143,
+                    -0.0204,
+                    -0.0154,
+                    -0.014,
+                    -0.0295,
+                    -0.0867,
+                    -0.0174,
+                    -0.0667,
+                    2.1488,
+                    2.2424,
+                    2.1488,
+                    2.2426,
+                    0.0047,
+                    -0.0294,
+                    0.0047,
+                    -0.0294,
+                    -0.1817
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "hollow_C_1_1"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/hollow_C_1_2/output.28735125/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/hollow_C_1_2/output.28735125",
+                "n_electrons": 132.0,
+                "number_KS_states": 79,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 23,
+                "Times_converged_SCF": 23,
+                "iterations_SCF": 8,
+                "estimated_scf_accuracy_Ry": 3.3e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -18677.580756297753,
+                "FERMI_ENERGY": -4.367,
+                "TOTAL_MAGMOM": 9.33,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.02282719,
+                "FORCES": [
+                    [
+                        2.65e-06,
+                        -0.00360288,
+                        -0.01142907
+                    ],
+                    [
+                        9.3e-07,
+                        -0.00030469,
+                        -1.793e-05
+                    ],
+                    [
+                        -2.48e-06,
+                        -0.00325943,
+                        -0.00828305
+                    ],
+                    [
+                        6.3e-07,
+                        -2.987e-05,
+                        0.00041246
+                    ],
+                    [
+                        -1.39e-06,
+                        0.00849015,
+                        0.01905347
+                    ],
+                    [
+                        5.4e-07,
+                        4.564e-05,
+                        4.297e-05
+                    ],
+                    [
+                        2.33e-06,
+                        0.00826099,
+                        0.02282719
+                    ],
+                    [
+                        -1.26e-06,
+                        -4.132e-05,
+                        0.00032853
+                    ],
+                    [
+                        0.00661497,
+                        -0.00908369,
+                        -0.00635293
+                    ],
+                    [
+                        0.00031967,
+                        0.00040889,
+                        0.0006597
+                    ],
+                    [
+                        -0.00661515,
+                        -0.00908627,
+                        -0.00635151
+                    ],
+                    [
+                        -0.00032473,
+                        0.00039643,
+                        0.00065799
+                    ],
+                    [
+                        0.00016028,
+                        0.00354326,
+                        -0.00587036
+                    ],
+                    [
+                        5.667e-05,
+                        0.00019955,
+                        0.00028429
+                    ],
+                    [
+                        -0.00016133,
+                        0.00354526,
+                        -0.00587077
+                    ],
+                    [
+                        -5.416e-05,
+                        0.00020098,
+                        0.00028774
+                    ],
+                    [
+                        1.84e-06,
+                        0.00031698,
+                        5.207e-05
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0312,
+                    -0.0368,
+                    -0.035,
+                    -0.0205,
+                    -0.0076,
+                    -0.0366,
+                    -0.0214,
+                    -0.0381,
+                    2.0764,
+                    2.273,
+                    2.0763,
+                    2.2731,
+                    0.0003,
+                    -0.0198,
+                    0.0003,
+                    -0.0198,
+                    -0.1298
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "hollow_C_1_2"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/hollow_C_2_1/output.28735124/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/hollow_C_2_1/output.28735124",
+                "n_electrons": 132.0,
+                "number_KS_states": 79,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 31,
+                "Times_converged_SCF": 31,
+                "iterations_SCF": 11,
+                "estimated_scf_accuracy_Ry": 3.7e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -18677.7454304915,
+                "FERMI_ENERGY": -4.0839,
+                "TOTAL_MAGMOM": 10.97,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.01732839,
+                "FORCES": [
+                    [
+                        -0.00048,
+                        0.00021854,
+                        -0.00043431
+                    ],
+                    [
+                        0.00302445,
+                        -0.00497853,
+                        0.00756437
+                    ],
+                    [
+                        0.00047976,
+                        0.00021457,
+                        -0.00043813
+                    ],
+                    [
+                        -0.00302621,
+                        -0.00497507,
+                        0.00756739
+                    ],
+                    [
+                        0.0006731,
+                        -0.00029742,
+                        0.0005785
+                    ],
+                    [
+                        -0.00892015,
+                        -0.00317273,
+                        -0.01729108
+                    ],
+                    [
+                        -0.00067007,
+                        -0.0002942,
+                        0.00057665
+                    ],
+                    [
+                        0.0089203,
+                        -0.00318243,
+                        -0.01728309
+                    ],
+                    [
+                        6.33e-06,
+                        0.00033692,
+                        -0.00013148
+                    ],
+                    [
+                        -8e-07,
+                        0.00208054,
+                        -0.00871457
+                    ],
+                    [
+                        -3.09e-06,
+                        6.025e-05,
+                        0.00056107
+                    ],
+                    [
+                        1.96e-06,
+                        0.00457172,
+                        -0.00925954
+                    ],
+                    [
+                        -4.28e-06,
+                        -0.00017476,
+                        0.00018095
+                    ],
+                    [
+                        6.6e-07,
+                        0.00676635,
+                        0.01732839
+                    ],
+                    [
+                        1.24e-06,
+                        -0.0001714,
+                        0.0005082
+                    ],
+                    [
+                        -9.4e-07,
+                        0.00377734,
+                        0.01450203
+                    ],
+                    [
+                        -2.26e-06,
+                        -0.00077969,
+                        -0.00060702
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0005,
+                    -0.0187,
+                    -0.0005,
+                    -0.0187,
+                    0.004,
+                    -0.0337,
+                    0.004,
+                    -0.0337,
+                    2.1077,
+                    2.5792,
+                    2.1827,
+                    2.5773,
+                    0.0475,
+                    0.0342,
+                    0.0031,
+                    0.0629,
+                    0.0786
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "hollow_C_2_1"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/hollow_C_2_2/output.28735126/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/hollow_C_2_2/output.28735126",
+                "n_electrons": 132.0,
+                "number_KS_states": 79,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 35,
+                "Times_converged_SCF": 35,
+                "iterations_SCF": 9,
+                "estimated_scf_accuracy_Ry": 6.6e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -18676.975017914512,
+                "FERMI_ENERGY": -4.2693,
+                "TOTAL_MAGMOM": 10.21,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.0157668,
+                "FORCES": [
+                    [
+                        0.00027422,
+                        -0.00030772,
+                        9.677e-05
+                    ],
+                    [
+                        -0.00398984,
+                        0.00836172,
+                        0.00814243
+                    ],
+                    [
+                        -0.00027217,
+                        -0.00030725,
+                        9.885e-05
+                    ],
+                    [
+                        0.00398894,
+                        0.00836267,
+                        0.00814429
+                    ],
+                    [
+                        0.00057769,
+                        -0.00037743,
+                        -0.00031266
+                    ],
+                    [
+                        -0.01125817,
+                        -0.0157668,
+                        -0.01484098
+                    ],
+                    [
+                        -0.00057446,
+                        -0.00037289,
+                        -0.00031387
+                    ],
+                    [
+                        0.01125845,
+                        -0.0157651,
+                        -0.01484431
+                    ],
+                    [
+                        -5.11e-06,
+                        -0.00045332,
+                        0.00093661
+                    ],
+                    [
+                        4.65e-06,
+                        0.00421799,
+                        -0.00279947
+                    ],
+                    [
+                        -3.01e-06,
+                        -0.00012503,
+                        -0.0004585
+                    ],
+                    [
+                        -1e-07,
+                        -0.00236944,
+                        -0.01091256
+                    ],
+                    [
+                        -5.44e-06,
+                        0.00095057,
+                        0.00092066
+                    ],
+                    [
+                        2e-06,
+                        0.00410312,
+                        0.0134445
+                    ],
+                    [
+                        3.42e-06,
+                        4.283e-05,
+                        0.00029795
+                    ],
+                    [
+                        -1.9e-07,
+                        0.00957122,
+                        0.01240231
+                    ],
+                    [
+                        -8.6e-07,
+                        0.00023485,
+                        -0.00080808
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0149,
+                    -0.0192,
+                    -0.0149,
+                    -0.0192,
+                    -0.0212,
+                    -0.0322,
+                    -0.0212,
+                    -0.0322,
+                    2.5046,
+                    2.9206,
+                    2.4569,
+                    2.9378,
+                    0.0257,
+                    0.0528,
+                    -0.0022,
+                    0.0314,
+                    -0.0568
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "hollow_C_2_2"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/ontop_CO_1_1/output.28737910/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/ontop_CO_1_1/output.28737910",
+                "n_electrons": 138.0,
+                "number_KS_states": 83,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "O": {
+                        "Element": "O",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/O.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 33,
+                "Times_converged_SCF": 33,
+                "iterations_SCF": 9,
+                "estimated_scf_accuracy_Ry": 7.9e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -19123.889090002627,
+                "FERMI_ENERGY": -4.6885,
+                "TOTAL_MAGMOM": 9.13,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.02275457,
+                "FORCES": [
+                    [
+                        -0.00073633,
+                        -0.00313751,
+                        -0.00947182
+                    ],
+                    [
+                        1.477e-05,
+                        -6.218e-05,
+                        -4.915e-05
+                    ],
+                    [
+                        0.00072884,
+                        -0.0031328,
+                        -0.00948579
+                    ],
+                    [
+                        -1.143e-05,
+                        -6.979e-05,
+                        -3.878e-05
+                    ],
+                    [
+                        -0.00206106,
+                        0.00657909,
+                        0.02275457
+                    ],
+                    [
+                        0.00010469,
+                        -0.00020944,
+                        -0.0002814
+                    ],
+                    [
+                        0.00205143,
+                        0.00657622,
+                        0.0227509
+                    ],
+                    [
+                        -0.00012053,
+                        -0.0001828,
+                        -0.00025188
+                    ],
+                    [
+                        -9.38e-05,
+                        -0.00896618,
+                        0.00067781
+                    ],
+                    [
+                        0.00011942,
+                        -6.92e-05,
+                        0.00035613
+                    ],
+                    [
+                        0.00010563,
+                        -0.00537304,
+                        -0.01367408
+                    ],
+                    [
+                        -0.00011503,
+                        0.00042101,
+                        0.00014339
+                    ],
+                    [
+                        -6.83e-06,
+                        0.00421194,
+                        -0.00091478
+                    ],
+                    [
+                        -6.075e-05,
+                        -0.00058386,
+                        0.00039554
+                    ],
+                    [
+                        -1.235e-05,
+                        0.00329719,
+                        -0.01159791
+                    ],
+                    [
+                        2.447e-05,
+                        -0.00042363,
+                        2.656e-05
+                    ],
+                    [
+                        -9.72e-06,
+                        0.00027965,
+                        -0.00058853
+                    ],
+                    [
+                        7.857e-05,
+                        0.00084533,
+                        -0.00041634
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0285,
+                    -0.0291,
+                    -0.0286,
+                    -0.0293,
+                    -0.0291,
+                    -0.0741,
+                    -0.0292,
+                    -0.0742,
+                    2.1198,
+                    1.5423,
+                    2.0467,
+                    2.629,
+                    -0.0174,
+                    0.0615,
+                    0.005,
+                    0.0958,
+                    -0.0287,
+                    -0.0355
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "ontop_CO_1_1"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/ontop_CO_1_2/output.28735118/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/ontop_CO_1_2/output.28735118",
+                "n_electrons": 138.0,
+                "number_KS_states": 83,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "O": {
+                        "Element": "O",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/O.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 27,
+                "Times_converged_SCF": 27,
+                "iterations_SCF": 10,
+                "estimated_scf_accuracy_Ry": 8.1e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -19123.17840886747,
+                "FERMI_ENERGY": -4.3232,
+                "TOTAL_MAGMOM": 10.27,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.02214908,
+                "FORCES": [
+                    [
+                        -0.00015736,
+                        -0.00253344,
+                        -0.00907311
+                    ],
+                    [
+                        -0.00018747,
+                        -0.0002026,
+                        5.193e-05
+                    ],
+                    [
+                        0.0001553,
+                        -0.0025233,
+                        -0.00909773
+                    ],
+                    [
+                        0.00018777,
+                        -0.00020848,
+                        6.487e-05
+                    ],
+                    [
+                        -0.00014644,
+                        0.00735465,
+                        0.02213482
+                    ],
+                    [
+                        -0.00033644,
+                        9.97e-06,
+                        0.0002837
+                    ],
+                    [
+                        0.00014747,
+                        0.00735317,
+                        0.02214908
+                    ],
+                    [
+                        0.00033814,
+                        1.027e-05,
+                        0.00029254
+                    ],
+                    [
+                        -8.9e-06,
+                        -0.0050344,
+                        0.00022849
+                    ],
+                    [
+                        -5.011e-05,
+                        -7.567e-05,
+                        -0.00078731
+                    ],
+                    [
+                        1.026e-05,
+                        -0.00340748,
+                        -0.00622656
+                    ],
+                    [
+                        5.467e-05,
+                        0.00017445,
+                        1.283e-05
+                    ],
+                    [
+                        1.72e-06,
+                        0.00241366,
+                        -0.0087989
+                    ],
+                    [
+                        5.85e-06,
+                        0.00036351,
+                        0.00020483
+                    ],
+                    [
+                        -6.04e-06,
+                        -0.00223858,
+                        -0.0088018
+                    ],
+                    [
+                        -1.217e-05,
+                        -0.00018689,
+                        -0.00024929
+                    ],
+                    [
+                        1.57e-06,
+                        -0.0004543,
+                        -0.0001122
+                    ],
+                    [
+                        2.18e-06,
+                        -0.00081455,
+                        0.00021022
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0292,
+                    -0.0436,
+                    -0.0292,
+                    -0.0436,
+                    -0.0271,
+                    -0.0814,
+                    -0.0271,
+                    -0.0813,
+                    2.2942,
+                    2.9648,
+                    2.395,
+                    2.9848,
+                    0.0012,
+                    0.0433,
+                    0.0033,
+                    0.0188,
+                    0.0004,
+                    -0.003
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "ontop_CO_1_2"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/ontop_CO_2_1/output.28735123/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/ontop_CO_2_1/output.28735123",
+                "n_electrons": 138.0,
+                "number_KS_states": 83,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "O": {
+                        "Element": "O",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/O.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 36,
+                "Times_converged_SCF": 36,
+                "iterations_SCF": 11,
+                "estimated_scf_accuracy_Ry": 1.1e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -19123.03862424844,
+                "FERMI_ENERGY": -4.1819,
+                "TOTAL_MAGMOM": 10.59,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.01485569,
+                "FORCES": [
+                    [
+                        9.276e-05,
+                        0.00039699,
+                        -0.00010562
+                    ],
+                    [
+                        0.00080548,
+                        -0.00063856,
+                        0.00831436
+                    ],
+                    [
+                        2.578e-05,
+                        -0.00012667,
+                        -0.00082397
+                    ],
+                    [
+                        0.00115662,
+                        -0.00054319,
+                        0.0083625
+                    ],
+                    [
+                        -2.418e-05,
+                        0.00012715,
+                        6.166e-05
+                    ],
+                    [
+                        0.00032157,
+                        -0.00888303,
+                        -0.0138212
+                    ],
+                    [
+                        -2.455e-05,
+                        0.00020969,
+                        9.387e-05
+                    ],
+                    [
+                        0.00040442,
+                        -0.00899566,
+                        -0.01485569
+                    ],
+                    [
+                        -0.00075424,
+                        0.00034429,
+                        0.0005051
+                    ],
+                    [
+                        -0.00124776,
+                        0.00187958,
+                        -0.00802261
+                    ],
+                    [
+                        0.0007031,
+                        0.00031308,
+                        0.00052672
+                    ],
+                    [
+                        -0.00105656,
+                        0.00086132,
+                        -0.008254
+                    ],
+                    [
+                        -0.00011881,
+                        0.00089005,
+                        9.993e-05
+                    ],
+                    [
+                        -5.85e-06,
+                        0.00614157,
+                        0.01304498
+                    ],
+                    [
+                        7.66e-05,
+                        0.00087357,
+                        0.00011857
+                    ],
+                    [
+                        -0.00034179,
+                        0.00647218,
+                        0.01294283
+                    ],
+                    [
+                        1.457e-05,
+                        0.00099389,
+                        -0.00011307
+                    ],
+                    [
+                        -2.715e-05,
+                        -0.00031625,
+                        0.00061293
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0099,
+                    -0.0126,
+                    -0.0099,
+                    -0.0125,
+                    -0.032,
+                    -0.0724,
+                    -0.0283,
+                    -0.0727,
+                    2.3653,
+                    2.9484,
+                    2.3668,
+                    2.9494,
+                    0.0104,
+                    0.0809,
+                    0.0095,
+                    0.0818,
+                    -0.003,
+                    -0.0037
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "ontop_CO_2_1"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/ontop_CO_2_2/output.28735120/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/ontop_CO_2_2/output.28735120",
+                "n_electrons": 138.0,
+                "number_KS_states": 83,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "O": {
+                        "Element": "O",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/O.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 28,
+                "Times_converged_SCF": 28,
+                "iterations_SCF": 34,
+                "estimated_scf_accuracy_Ry": 9.6e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -19123.153785148,
+                "FERMI_ENERGY": -4.3329,
+                "TOTAL_MAGMOM": 10.95,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.01363625,
+                "FORCES": [
+                    [
+                        5.96e-06,
+                        -0.00015651,
+                        -0.0001367
+                    ],
+                    [
+                        -7.48e-05,
+                        0.00034215,
+                        0.00764886
+                    ],
+                    [
+                        -2.38e-06,
+                        4.187e-05,
+                        0.00060114
+                    ],
+                    [
+                        -0.00015082,
+                        0.00077873,
+                        0.0041608
+                    ],
+                    [
+                        -2.7e-07,
+                        -0.00047859,
+                        0.00038428
+                    ],
+                    [
+                        -4.282e-05,
+                        -0.00938792,
+                        -0.01363625
+                    ],
+                    [
+                        -2.56e-06,
+                        -8.968e-05,
+                        -0.00014596
+                    ],
+                    [
+                        -7.31e-05,
+                        -0.00637357,
+                        -0.01181386
+                    ],
+                    [
+                        -8.825e-05,
+                        -0.00015761,
+                        0.0004562
+                    ],
+                    [
+                        0.00062969,
+                        0.00178819,
+                        -0.00869116
+                    ],
+                    [
+                        7.161e-05,
+                        -0.0001507,
+                        0.00045359
+                    ],
+                    [
+                        -0.00033,
+                        0.00195352,
+                        -0.00865036
+                    ],
+                    [
+                        -0.00065986,
+                        3.828e-05,
+                        0.00021677
+                    ],
+                    [
+                        9.44e-06,
+                        0.0062285,
+                        0.01290199
+                    ],
+                    [
+                        0.00065112,
+                        3.741e-05,
+                        0.0002101
+                    ],
+                    [
+                        4.981e-05,
+                        0.00609453,
+                        0.0129323
+                    ],
+                    [
+                        7.61e-06,
+                        5.513e-05,
+                        0.00050755
+                    ],
+                    [
+                        -4e-07,
+                        -0.00056373,
+                        0.00011696
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0235,
+                    -0.0413,
+                    -0.033,
+                    -0.0339,
+                    -0.01,
+                    -0.0271,
+                    -0.0121,
+                    -0.0283,
+                    2.3825,
+                    2.9547,
+                    2.3829,
+                    2.9546,
+                    0.0121,
+                    0.0828,
+                    0.0122,
+                    0.0825,
+                    0.0165,
+                    0.0262
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "ontop_CO_2_2"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/slab_1/output.28735114/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/slab_1/output.28735114",
+                "n_electrons": 128.0,
+                "number_KS_states": 77,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 15,
+                "Times_converged_SCF": 15,
+                "iterations_SCF": 11,
+                "estimated_scf_accuracy_Ry": 9.1e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -18507.013065823387,
+                "FERMI_ENERGY": -4.057,
+                "TOTAL_MAGMOM": 10.73,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.02283742,
+                "FORCES": [
+                    [
+                        1.612e-05,
+                        -0.00219763,
+                        -0.0091149
+                    ],
+                    [
+                        -0.00010439,
+                        -0.00060174,
+                        -0.00027739
+                    ],
+                    [
+                        1.238e-05,
+                        -0.00219681,
+                        -0.00911518
+                    ],
+                    [
+                        -0.00010703,
+                        -0.00061189,
+                        -0.00027257
+                    ],
+                    [
+                        -1.315e-05,
+                        0.00639475,
+                        0.02283742
+                    ],
+                    [
+                        -9.05e-06,
+                        -0.00032323,
+                        -0.00083379
+                    ],
+                    [
+                        -1.492e-05,
+                        0.00639438,
+                        0.02283731
+                    ],
+                    [
+                        -1.415e-05,
+                        -0.00032369,
+                        -0.00083661
+                    ],
+                    [
+                        -4.997e-05,
+                        -0.0028376,
+                        -0.00491342
+                    ],
+                    [
+                        0.00015039,
+                        0.00025121,
+                        0.00086459
+                    ],
+                    [
+                        -4.851e-05,
+                        -0.00286488,
+                        -0.00490439
+                    ],
+                    [
+                        0.00014988,
+                        0.00022257,
+                        0.00084302
+                    ],
+                    [
+                        9.05e-06,
+                        -0.00133966,
+                        -0.00905204
+                    ],
+                    [
+                        3.2e-07,
+                        0.00066533,
+                        0.00064858
+                    ],
+                    [
+                        7.47e-06,
+                        -0.00132298,
+                        -0.00905142
+                    ],
+                    [
+                        1.556e-05,
+                        0.00069188,
+                        0.00065183
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0318,
+                    -0.039,
+                    -0.0318,
+                    -0.039,
+                    -0.0263,
+                    -0.0815,
+                    -0.0263,
+                    -0.0815,
+                    2.4283,
+                    3.0002,
+                    2.4281,
+                    3.0005,
+                    0.0058,
+                    0.0702,
+                    0.0058,
+                    0.0702
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "slab_1"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/slab_2/output.28735117/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_110/AlFeLiPd_MAG/slab_2/output.28735117",
+                "n_electrons": 128.0,
+                "number_KS_states": 77,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 25,
+                "Times_converged_SCF": 25,
+                "iterations_SCF": 34,
+                "estimated_scf_accuracy_Ry": 9.7e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -18507.194266852566,
+                "FERMI_ENERGY": -3.9168,
+                "TOTAL_MAGMOM": 10.66,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.01362113,
+                "FORCES": [
+                    [
+                        5.46e-06,
+                        -0.00011412,
+                        -9.139e-05
+                    ],
+                    [
+                        -0.00010104,
+                        0.00037646,
+                        0.00685848
+                    ],
+                    [
+                        4.78e-06,
+                        -0.0001162,
+                        -8.712e-05
+                    ],
+                    [
+                        -9.782e-05,
+                        0.00036592,
+                        0.0068499
+                    ],
+                    [
+                        4.2e-07,
+                        0.00019913,
+                        4.232e-05
+                    ],
+                    [
+                        -3.07e-05,
+                        -0.0078933,
+                        -0.01362113
+                    ],
+                    [
+                        2.39e-06,
+                        0.00019942,
+                        4.205e-05
+                    ],
+                    [
+                        -3.092e-05,
+                        -0.00789305,
+                        -0.01362033
+                    ],
+                    [
+                        -7.35e-06,
+                        -0.00021452,
+                        -0.00015908
+                    ],
+                    [
+                        8.736e-05,
+                        0.0012253,
+                        -0.00760437
+                    ],
+                    [
+                        -6.4e-06,
+                        -0.00021776,
+                        -0.00014495
+                    ],
+                    [
+                        0.00010718,
+                        0.00121894,
+                        -0.00759752
+                    ],
+                    [
+                        -5.1e-07,
+                        -0.00023538,
+                        0.00028941
+                    ],
+                    [
+                        2.661e-05,
+                        0.0066658,
+                        0.01287575
+                    ],
+                    [
+                        -6e-07,
+                        -0.00023518,
+                        0.00028599
+                    ],
+                    [
+                        4.113e-05,
+                        0.00666853,
+                        0.01287506
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0283,
+                    -0.0384,
+                    -0.0283,
+                    -0.0384,
+                    -0.0266,
+                    -0.0698,
+                    -0.0266,
+                    -0.0698,
+                    2.345,
+                    2.9463,
+                    2.345,
+                    2.9463,
+                    0.0106,
+                    0.0864,
+                    0.0106,
+                    0.0864
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "slab_2"
+        }
+    ]
+}

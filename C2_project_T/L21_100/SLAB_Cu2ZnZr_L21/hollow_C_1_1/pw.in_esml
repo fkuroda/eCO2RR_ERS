@@ -1,0 +1,68 @@
+&CONTROL
+calculation = 'relax'
+prefix = 'scf'
+pseudo_dir = '/vol0004/mdt0/data/hp150275/u10028/POT_KKJUS'
+outdir = './data'
+tprnfor = .true.
+nstep = 50
+disk_io = 'non'
+/
+&SYSTEM
+ibrav = 0
+ecutwfc = 50.0
+ecutrho = 400
+occupations = 'smearing'
+smearing = 'mp'
+degauss = 0.01
+assume_isolated = 'esm'
+esm_bc = 'bc1'
+input_dft = 'BEEF-VDW'
+nosym = .true.
+nspin = 1
+ntyp = 4
+nat = 17
+/
+&ELECTRONS
+electron_maxstep = 200
+mixing_beta = 0.1
+conv_thr = 1e-06
+/
+&IONS
+ion_dynamics = 'bfgs'
+upscale = 1.0
+/
+&CELL
+/
+
+K_POINTS {automatic}
+10 10 2 0  0  0
+
+ATOMIC_SPECIES
+C 12.01 C.pbe-n-rrkjus_psl.1.0.0.UPF
+Cu 63.54 Cu.pbe-dn-rrkjus_psl.1.0.0.UPF
+Zn 65.40 Zn.pbe-dnl-rrkjus_psl.1.0.0.UPF
+Zr 91.22 Zr.pbe-spn-rrkjus_psl.1.0.0.UPF
+
+CELL_PARAMETERS {angstrom}
+6.25397000 0.00000000 0.00000000
+0.00000000 6.25397000 0.00000000
+0.00000000 0.00000000 24.69050000
+
+ATOMIC_POSITIONS {angstrom}
+Zr 0.00000000 0.00000000 -2.345350589999999 0 0 0
+Zr 3.12698500 3.12698500 -2.345350589999999 0 0 0
+Zr 3.12698500 0.00000000 0.82416889
+Zr 0.00000000 3.12698500 0.82416889
+Zn 0.00000000 0.00000000 0.54368481
+Zn 3.12698500 0.00000000 -2.345350589999999 0 0 0
+Zn 0.00000000 3.12698500 -2.345350589999999 0 0 0
+Zn 3.12698500 3.12698500 1.33896582
+Cu 1.56349250 1.56349250 -0.7817012299999995 0 0 0
+Cu 4.92093629 4.92093629 2.46806238
+Cu 4.69047750 1.56349250 -0.7817012299999995 0 0 0
+Cu 1.33303371 4.92093629 2.46806238
+Cu 4.69047750 4.69047750 -0.7817012299999995 0 0 0
+Cu 1.33303371 1.33303371 2.46806238
+Cu 1.56349250 4.69047750 -0.7817012299999995 0 0 0
+Cu 4.92093629 1.33303371 2.46806238
+C 0.00000000 0.00000000 3.00804362

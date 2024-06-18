@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sc4In12CO
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.46086000
+_cell_length_b   9.13703000
+_cell_length_c   24.84560000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Sc4In12CO
+_chemical_formula_sum   'Sc4 In12 C1 O1'
+_cell_volume   1466.71208488
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  2  0.00000000  0.25001000  0.09751000  1.0
+  Sc  Sc1  2  0.49424000  0.24975000  0.96647000  1.0
+  In  In2  2  0.50000000  0.25001000  0.09751000  1.0
+  In  In3  2  0.99379000  0.24935000  0.95947000  1.0
+  In  In4  1  0.24485000  0.50000000  0.89994000  1.0
+  In  In5  1  0.24693000  0.00000000  0.90033000  1.0
+  In  In6  1  0.25000000  0.00000000  0.03250000  1.0
+  In  In7  1  0.25000000  0.50000000  0.03250000  1.0
+  In  In8  1  0.73882000  0.50000000  0.90147000  1.0
+  In  In9  1  0.74001000  0.00000000  0.89935000  1.0
+  In  In10  1  0.75000000  0.00000000  0.03250000  1.0
+  In  In11  1  0.75000000  0.50000000  0.03250000  1.0
+  C  C12  1  0.83289000  0.50000000  0.75025000  1.0
+  O  O13  1  0.71573000  0.50000000  0.71618000  1.0

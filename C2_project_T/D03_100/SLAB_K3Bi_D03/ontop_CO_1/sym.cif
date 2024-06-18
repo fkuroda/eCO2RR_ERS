@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_K12Bi4CO
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   12.50027610
+_cell_length_b   12.50027610
+_cell_length_c   26.62930000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   K12Bi4CO
+_chemical_formula_sum   'K24 Bi8 C2 O2'
+_cell_volume   4161.01193858
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  4  0.00001500  0.24998500  0.95851000  1.0
+  K  K1  4  0.00001500  0.25001500  0.13316000  1.0
+  K  K2  4  0.25001500  0.25001500  0.87553000  1.0
+  K  K3  2  0.01555500  0.50000000  0.03327000  1.0
+  K  K4  2  0.25001500  0.50000000  0.95851000  1.0
+  K  K5  2  0.25001500  0.00000000  0.95851000  1.0
+  K  K6  2  0.25002000  0.50000000  0.13910000  1.0
+  K  K7  2  0.25005000  0.00000000  0.12161000  1.0
+  K  K8  2  0.48452000  0.50000000  0.03325000  1.0
+  Bi  Bi9  4  0.25004000  0.25843000  0.05302000  1.0
+  Bi  Bi10  2  0.00001500  0.50000000  0.87553000  1.0
+  Bi  Bi11  2  0.00001500  0.00000000  0.87553000  1.0
+  C  C12  2  0.24946000  0.00000000  0.23351000  1.0
+  O  O13  2  0.24986000  0.00000000  0.27666000  1.0

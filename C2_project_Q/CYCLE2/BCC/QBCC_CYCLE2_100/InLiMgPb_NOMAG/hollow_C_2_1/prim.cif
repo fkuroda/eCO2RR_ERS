@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li4Mg4In4Pb4C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11424000
+_cell_length_b   7.11424000
+_cell_length_c   25.33570000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Mg4In4Pb4C
+_chemical_formula_sum   'Li4 Mg4 In4 Pb4 C1'
+_cell_volume   1282.30085574
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.03817000  1
+  Li  Li1  1  0.00000000  0.00000000  0.89470000  1
+  Li  Li2  1  0.50000000  0.50000000  0.89470000  1
+  Li  Li3  1  0.00000000  0.50000000  0.03817000  1
+  Mg  Mg4  1  0.50000000  0.50000000  0.03324000  1
+  Mg  Mg5  1  0.00000000  0.50000000  0.89470000  1
+  Mg  Mg6  1  0.50000000  0.00000000  0.89470000  1
+  Mg  Mg7  1  0.00000000  0.00000000  0.04249000  1
+  In  In8  1  0.74022500  0.25977500  0.11808000  1
+  In  In9  1  0.25000000  0.25000000  0.96490000  1
+  In  In10  1  0.75000000  0.75000000  0.96490000  1
+  In  In11  1  0.25977500  0.74022500  0.11808000  1
+  Pb  Pb12  1  0.25768000  0.25768000  0.12797000  1
+  Pb  Pb13  1  0.75000000  0.25000000  0.96490000  1
+  Pb  Pb14  1  0.25000000  0.75000000  0.96490000  1
+  Pb  Pb15  1  0.74232000  0.74232000  0.12797000  1
+  C  C16  1  0.50000000  0.50000000  0.11878000  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Mg4Sc4Ga4Pd4C
+_symmetry_space_group_name_H-M   Cmm2
+_cell_length_a   9.28387363
+_cell_length_b   9.28387363
+_cell_length_c   24.92350000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   35
+_chemical_formula_structural   Mg4Sc4Ga4Pd4C
+_chemical_formula_sum   'Mg8 Sc8 Ga8 Pd8 C2'
+_cell_volume   2148.16418112
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  4  0.00000000  0.25000000  0.96708000  1.0
+  Mg  Mg1  4  0.25000000  0.00000000  0.09877000  1.0
+  Sc  Sc2  4  0.00000000  0.25000000  0.09877000  1.0
+  Sc  Sc3  4  0.25000000  0.50000000  0.96708000  1.0
+  Ga  Ga4  4  0.25000000  0.25000000  0.03292000  1.0
+  Ga  Ga5  2  0.00000000  0.00000000  0.90123000  1.0
+  Ga  Ga6  2  0.00000000  0.50000000  0.90123000  1.0
+  Pd  Pd7  4  0.25000000  0.25000000  0.90123000  1.0
+  Pd  Pd8  2  0.00000000  0.00000000  0.03292000  1.0
+  Pd  Pd9  2  0.00000000  0.50000000  0.03292000  1.0
+  C  C10  2  0.00000000  0.00000000  0.13087000  1.0

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sc4In4Ge4Pd4C
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.25342000
+_cell_length_b   7.76578000
+_cell_length_c   24.66560000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Sc4In4Ge4Pd4C
+_chemical_formula_sum   'Sc4 In4 Ge4 Pd4 C1'
+_cell_volume   1197.82773767
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  2  0.32649000  0.25000000  0.90542000  1.0
+  Sc  Sc1  2  0.77550000  0.25000000  0.03153000  1.0
+  In  In2  2  0.27550000  0.25000000  0.03153000  1.0
+  In  In3  2  0.82649000  0.25000000  0.90542000  1.0
+  Ge  Ge4  1  0.00000000  0.00000000  0.09458000  1.0
+  Ge  Ge5  1  0.00000000  0.50000000  0.09458000  1.0
+  Ge  Ge6  1  0.55099000  0.00000000  0.96847000  1.0
+  Ge  Ge7  1  0.55099000  0.50000000  0.96847000  1.0
+  Pd  Pd8  1  0.05099000  0.00000000  0.96847000  1.0
+  Pd  Pd9  1  0.05099000  0.50000000  0.96847000  1.0
+  Pd  Pd10  1  0.50000000  0.00000000  0.09458000  1.0
+  Pd  Pd11  1  0.50000000  0.50000000  0.09458000  1.0
+  C  C12  1  0.05099000  0.00000000  0.87299000  1.0

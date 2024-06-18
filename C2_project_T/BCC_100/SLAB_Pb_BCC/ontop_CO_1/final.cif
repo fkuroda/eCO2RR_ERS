@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Pb16CO
+_chemical_formula_sum              "Pb16 C1 O1"
+_cell_length_a       8.09136
+_cell_length_b       8.09136
+_cell_length_c       26.0685
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.00000  0.00000  0.88360  1.0000
+  Pb  Pb2       1.0  0.25000  0.25000  0.96120  1.0000
+  Pb  Pb3       1.0  0.97506  0.97503  0.05161  1.0000
+  Pb  Pb4       1.0  0.25001  0.24999  0.10052  1.0000
+  Pb  Pb5       1.0  0.00000  0.50000  0.88360  1.0000
+  Pb  Pb6       1.0  0.25000  0.75000  0.96120  1.0000
+  Pb  Pb7       1.0  0.97510  0.52496  0.05160  1.0000
+  Pb  Pb8       1.0  0.24999  0.74999  0.12254  1.0000
+  Pb  Pb9       1.0  0.50000  0.00000  0.88360  1.0000
+  Pb  Pb10      1.0  0.75000  0.25000  0.96120  1.0000
+  Pb  Pb11      1.0  0.52491  0.97502  0.05159  1.0000
+  Pb  Pb12      1.0  0.75001  0.24998  0.12257  1.0000
+  Pb  Pb13      1.0  0.50000  0.50000  0.88360  1.0000
+  Pb  Pb14      1.0  0.75000  0.75000  0.96120  1.0000
+  Pb  Pb15      1.0  0.52494  0.52496  0.05162  1.0000
+  Pb  Pb16      1.0  0.75003  0.75002  0.13877  1.0000
+  C   C1        1.0  0.24988  0.25011  0.25739  1.0000
+  O   O1        1.0  0.25003  0.25000  0.30089  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li8Ga4Ir4CO
+_chemical_formula_sum              "Li8 Ga4 Ir4 C1 O1"
+_cell_length_a       6.01864
+_cell_length_b       6.01864
+_cell_length_c       24.514
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00077  0.00075  0.02372  1.0000
+  Li  Li2       1.0  0.50000  0.00000  0.90793  1.0000
+  Li  Li3       1.0  0.00000  0.50000  0.90793  1.0000
+  Li  Li4       1.0  0.50019  0.50029  0.02255  1.0000
+  Li  Li5       1.0  0.25000  0.25000  0.96931  1.0000
+  Li  Li6       1.0  0.25236  0.75520  0.10208  1.0000
+  Li  Li7       1.0  0.75000  0.75000  0.96931  1.0000
+  Li  Li8       1.0  0.75520  0.25241  0.10206  1.0000
+  Ga  Ga1       1.0  0.25257  0.25252  0.08560  1.0000
+  Ga  Ga2       1.0  0.25000  0.75000  0.96931  1.0000
+  Ga  Ga3       1.0  0.74920  0.74916  0.08666  1.0000
+  Ga  Ga4       1.0  0.75000  0.25000  0.96931  1.0000
+  Ir  Ir1       1.0  0.00000  0.00000  0.90793  1.0000
+  Ir  Ir2       1.0  0.50000  0.50000  0.90793  1.0000
+  Ir  Ir3       1.0  0.50157  0.00026  0.03678  1.0000
+  Ir  Ir4       1.0  0.00057  0.50175  0.03676  1.0000
+  C   C1        1.0  0.15623  0.15675  0.21094  1.0000
+  O   O1        1.0  0.27113  0.27127  0.23504  1.0000

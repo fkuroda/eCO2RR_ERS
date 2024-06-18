@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li4Al4Ag4Sn4CO
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.09080000
+_cell_length_b   8.16098000
+_cell_length_c   24.56780000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Li4Al4Ag4Sn4CO
+_chemical_formula_sum   'Li4 Al4 Ag4 Sn4 C1 O1'
+_cell_volume   1221.18910372
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.22785000  0.50000000  0.90812000  1.0
+  Li  Li1  1  0.23447000  0.00000000  0.90276000  1.0
+  Li  Li2  1  0.75310000  0.00000000  0.03099000  1.0
+  Li  Li3  1  0.75310000  0.50000000  0.03099000  1.0
+  Al  Al4  1  0.25310000  0.00000000  0.03099000  1.0
+  Al  Al5  1  0.25310000  0.50000000  0.03099000  1.0
+  Al  Al6  1  0.69483000  0.50000000  0.92102000  1.0
+  Al  Al7  1  0.71211000  0.00000000  0.91359000  1.0
+  Ag  Ag8  2  0.00000000  0.25003000  0.09296000  1.0
+  Ag  Ag9  2  0.47869000  0.24593000  0.96644000  1.0
+  Sn  Sn10  2  0.50000000  0.25003000  0.09296000  1.0
+  Sn  Sn11  2  0.98631000  0.24582000  0.96206000  1.0
+  C  C12  1  0.75050000  0.50000000  0.84244000  1.0
+  O  O13  1  0.77509000  0.50000000  0.79545000  1.0

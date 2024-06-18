@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Zn16Rh16C
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.06651000
+_cell_length_b   8.57934000
+_cell_length_c   26.43450000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Zn16Rh16C
+_chemical_formula_sum   'Zn16 Rh16 C1'
+_cell_volume   1375.82721974
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  2  0.25000000  0.25000000  0.95943000  1.0
+  Zn  Zn1  2  0.25007000  0.26160000  0.12467000  1.0
+  Zn  Zn2  2  0.74975000  0.25019000  0.12490000  1.0
+  Zn  Zn3  2  0.75000000  0.25000000  0.95943000  1.0
+  Zn  Zn4  1  0.25000000  0.00000000  0.87829000  1.0
+  Zn  Zn5  1  0.25000000  0.50000000  0.87829000  1.0
+  Zn  Zn6  1  0.25009000  0.00000000  0.03917000  1.0
+  Zn  Zn7  1  0.25011000  0.50000000  0.03980000  1.0
+  Zn  Zn8  1  0.74977000  0.00000000  0.03833000  1.0
+  Zn  Zn9  1  0.74994000  0.50000000  0.03855000  1.0
+  Zn  Zn10  1  0.75000000  0.00000000  0.87829000  1.0
+  Zn  Zn11  1  0.75000000  0.50000000  0.87829000  1.0
+  Rh  Rh12  2  0.00000000  0.25000000  0.87829000  1.0
+  Rh  Rh13  2  0.00061000  0.24788000  0.04168000  1.0
+  Rh  Rh14  2  0.49937000  0.24790000  0.04167000  1.0
+  Rh  Rh15  2  0.50000000  0.25000000  0.87829000  1.0
+  Rh  Rh16  1  0.00000000  0.00000000  0.95943000  1.0
+  Rh  Rh17  1  0.00000000  0.50000000  0.95943000  1.0
+  Rh  Rh18  1  0.00465000  0.00000000  0.12314000  1.0
+  Rh  Rh19  1  0.49442000  0.00000000  0.12325000  1.0
+  Rh  Rh20  1  0.50000000  0.00000000  0.95943000  1.0
+  Rh  Rh21  1  0.50000000  0.50000000  0.95943000  1.0
+  Rh  Rh22  1  0.50829000  0.50000000  0.11781000  1.0
+  Rh  Rh23  1  0.99173000  0.50000000  0.11779000  1.0
+  C  C24  1  0.24915000  0.00000000  0.16338000  1.0

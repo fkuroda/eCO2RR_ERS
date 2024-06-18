@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Y4In4Cu4Sn4C
+_chemical_formula_sum              "Y4 In4 Cu4 Sn4 C1"
+_cell_length_a       6.35598
+_cell_length_b       8.8474
+_cell_length_c       24.764
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.50000  0.00000  0.90381  1.0000
+  Y   Y2        1.0  0.96025  0.00005  0.03025  1.0000
+  Y   Y3        1.0  0.50000  0.50000  0.90381  1.0000
+  Y   Y4        1.0  0.98859  0.50022  0.03352  1.0000
+  In  In1       1.0  0.24117  0.25000  0.96794  1.0000
+  In  In2       1.0  0.66032  0.25954  0.09221  1.0000
+  In  In3       1.0  0.24117  0.75000  0.96794  1.0000
+  In  In4       1.0  0.66022  0.73959  0.09217  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.90381  1.0000
+  Cu  Cu2       1.0  0.45394  0.99983  0.03504  1.0000
+  Cu  Cu3       1.0  0.00000  0.50000  0.90381  1.0000
+  Cu  Cu4       1.0  0.49279  0.49960  0.01988  1.0000
+  Sn  Sn1       1.0  0.74117  0.25000  0.96794  1.0000
+  Sn  Sn2       1.0  0.18750  0.23355  0.11685  1.0000
+  Sn  Sn3       1.0  0.74117  0.75000  0.96794  1.0000
+  Sn  Sn4       1.0  0.18839  0.76891  0.11713  1.0000
+  C   C1        1.0  0.23193  0.00125  0.09356  1.0000

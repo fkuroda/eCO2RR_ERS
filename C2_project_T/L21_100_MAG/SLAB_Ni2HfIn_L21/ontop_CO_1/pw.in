@@ -1,0 +1,75 @@
+&CONTROL
+calculation = 'relax'
+prefix = 'scf'
+pseudo_dir = '/vol0004/mdt0/data/hp150275/u10028/POT_HYBRID_KKJUS_GBRV'
+outdir = './data'
+tprnfor = .true.
+nstep = 50
+disk_io = 'non'
+/
+&SYSTEM
+ibrav = 0
+ecutwfc = 50.0
+ecutrho = 400
+occupations = 'smearing'
+smearing = 'mp'
+degauss = 0.01
+assume_isolated = 'esm'
+esm_bc = 'bc1'
+input_dft = 'BEEF-VDW'
+nosym = .true.
+nspin = 2
+ntyp = 5
+nat = 18
+starting_magnetization(1) = 0.1
+starting_magnetization(2) = 0.1
+starting_magnetization(3) = 0.1
+starting_magnetization(4) = 0.1
+starting_magnetization(5) = 0.1
+/
+&ELECTRONS
+electron_maxstep = 200
+mixing_beta = 0.1
+conv_thr = 1e-06
+/
+&IONS
+ion_dynamics = 'bfgs'
+upscale = 1.0
+/
+&CELL
+/
+
+K_POINTS {automatic}
+8 8 1 0 0 0
+
+ATOMIC_SPECIES
+C 12.01 C.pbe-n-rrkjus_psl.1.0.0.UPF
+Hf 178.4 Hf.pbe-spn-rrkjus_psl.1.0.0.UPF
+In 114.8 In.pbe-dn-rrkjus_psl.1.0.0.UPF
+Ni 58.69 ni_pbe_v1.4.uspp.F.UPF
+O 15.99 O.pbe-n-rrkjus_psl.1.0.0.UPF
+
+CELL_PARAMETERS {angstrom}
+6.30953000 0.00000000 0.00000000
+0.00000000 6.30953000 0.00000000
+0.00000000 0.00000000 24.73210000
+
+ATOMIC_POSITIONS {angstrom}
+Hf 0.00000000 0.00000000 -2.3661200099999995 0 0 0
+Hf 3.15476500 3.15476500 -2.3661200099999995 0 0 0
+Hf 3.18082336 6.28296688 0.84460121
+Hf 6.28315616 3.18088645 0.84460121
+In 0.00965358 0.00990596 0.84905299
+In 3.15476500 0.00000000 -2.3661200099999995 0 0 0
+In 0.00000000 3.15476500 -2.3661200099999995 0 0 0
+In 3.14347094 3.14366023 0.85276281
+Ni 1.57738250 1.57738250 -0.7887066699999998 0 0 0
+Ni 4.73183202 4.73170583 2.26298715
+Ni 4.73214750 1.57738250 -0.7887066699999998 0 0 0
+Ni 1.57694083 4.73284155 2.25062110
+Ni 4.73214750 4.73214750 -0.7887066699999998 0 0 0
+Ni 1.57504797 1.57498488 2.34880754
+Ni 1.57738250 4.73214750 -0.7887066699999998 0 0 0
+Ni 4.73271536 1.57713012 2.25062110
+C 1.56987416 1.56981106 4.13520712
+O 1.56955868 1.56949559 5.28871226

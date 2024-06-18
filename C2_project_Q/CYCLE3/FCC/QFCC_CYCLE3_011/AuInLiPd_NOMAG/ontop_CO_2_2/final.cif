@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li4In4Pd4Au4CO
+_chemical_formula_sum              "Li4 In4 Pd4 Au4 C1 O1"
+_cell_length_a       5.60636
+_cell_length_b       8.89782
+_cell_length_c       24.1854
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50911  0.00000  0.08546  1.0000
+  Li  Li2       1.0  0.95209  0.00000  0.97116  1.0000
+  Li  Li3       1.0  0.50335  0.50000  0.08411  1.0000
+  Li  Li4       1.0  0.95209  0.50000  0.97116  1.0000
+  In  In1       1.0  0.21370  0.24818  0.03209  1.0000
+  In  In2       1.0  0.67813  0.25000  0.91347  1.0000
+  In  In3       1.0  0.21370  0.75182  0.03210  1.0000
+  In  In4       1.0  0.67813  0.75000  0.91347  1.0000
+  Pd  Pd1       1.0  0.71002  0.24714  0.03113  1.0000
+  Pd  Pd2       1.0  0.17813  0.25000  0.91347  1.0000
+  Pd  Pd3       1.0  0.71002  0.75286  0.03113  1.0000
+  Pd  Pd4       1.0  0.17813  0.75000  0.91347  1.0000
+  Au  Au1       1.0  0.98698  0.00001  0.08292  1.0000
+  Au  Au2       1.0  0.45209  0.00000  0.97116  1.0000
+  Au  Au3       1.0  0.97909  0.50000  0.07750  1.0000
+  Au  Au4       1.0  0.45209  0.50000  0.97116  1.0000
+  C   C1        1.0  0.93125  0.99999  0.17240  1.0000
+  O   O1        1.0  0.03811  0.99999  0.21306  1.0000

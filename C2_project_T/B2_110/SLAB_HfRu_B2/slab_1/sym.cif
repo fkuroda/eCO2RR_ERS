@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_HfRu
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   3.23990500
+_cell_length_b   4.58192000
+_cell_length_c   26.87290000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   HfRu
+_chemical_formula_sum   'Hf4 Ru4'
+_cell_volume   398.92781132
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  0.04413500  1.0
+  Hf  Hf1  1  0.00000000  0.00000000  0.87212000  1.0
+  Hf  Hf2  1  0.00000000  0.50000000  0.12849000  1.0
+  Hf  Hf3  1  0.00000000  0.50000000  0.95737000  1.0
+  Ru  Ru4  1  0.50000000  0.00000000  0.12291500  1.0
+  Ru  Ru5  1  0.50000000  0.00000000  0.95737000  1.0
+  Ru  Ru6  1  0.50000000  0.50000000  0.04296000  1.0
+  Ru  Ru7  1  0.50000000  0.50000000  0.87212000  1.0

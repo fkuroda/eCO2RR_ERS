@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_In16Sb16C
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   10.85840000
+_cell_length_b   7.67805000
+_cell_length_c   28.14380000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   In16Sb16C
+_chemical_formula_sum   'In16 Sb16 C1'
+_cell_volume   2346.38626578
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  2  0.00000000  0.25001000  0.85532000  1.0
+  In  In1  2  0.17996000  0.21546000  0.19131000  1.0
+  In  In2  2  0.25000000  0.25001000  0.95177000  1.0
+  In  In3  2  0.46789000  0.21991000  0.05241000  1.0
+  In  In4  2  0.50000000  0.25001000  0.85532000  1.0
+  In  In5  2  0.66038000  0.27269000  0.15027000  1.0
+  In  In6  2  0.75000000  0.25001000  0.95177000  1.0
+  In  In7  2  0.95800000  0.27733000  0.05098000  1.0
+  Sb  Sb8  1  0.00000000  0.00000000  0.95177000  1.0
+  Sb  Sb9  1  0.00000000  0.50000000  0.95177000  1.0
+  Sb  Sb10  1  0.00496000  0.50000000  0.14233000  1.0
+  Sb  Sb11  1  0.16954000  0.00000000  0.03541000  1.0
+  Sb  Sb12  1  0.25000000  0.00000000  0.85532000  1.0
+  Sb  Sb13  1  0.25000000  0.50000000  0.85532000  1.0
+  Sb  Sb14  1  0.26492000  0.50000000  0.04916000  1.0
+  Sb  Sb15  1  0.36696000  0.50000000  0.15865000  1.0
+  Sb  Sb16  1  0.43129000  0.00000000  0.14130000  1.0
+  Sb  Sb17  1  0.50000000  0.00000000  0.95177000  1.0
+  Sb  Sb18  1  0.50000000  0.50000000  0.95177000  1.0
+  Sb  Sb19  1  0.67645000  0.50000000  0.04465000  1.0
+  Sb  Sb20  1  0.75000000  0.00000000  0.85532000  1.0
+  Sb  Sb21  1  0.75000000  0.50000000  0.85532000  1.0
+  Sb  Sb22  1  0.75168000  0.00000000  0.05444000  1.0
+  Sb  Sb23  1  0.86930000  0.00000000  0.14642000  1.0
+  C  C24  1  0.19474000  0.50000000  0.12110000  1.0

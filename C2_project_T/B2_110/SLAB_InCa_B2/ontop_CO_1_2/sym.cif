@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Ca16In16CO
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   11.03900000
+_cell_length_b   7.80577000
+_cell_length_c   28.27930000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Ca16In16CO
+_chemical_formula_sum   'Ca16 In16 C1 O1'
+_cell_volume   2436.76775392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.85362000  1.0
+  Ca  Ca1  1  0.00000000  0.50000000  0.85362000  1.0
+  Ca  Ca2  1  0.00230000  0.00000000  0.04755000  1.0
+  Ca  Ca3  1  0.24995000  0.00000000  0.14442000  1.0
+  Ca  Ca4  1  0.25000000  0.00000000  0.95121000  1.0
+  Ca  Ca5  1  0.25000000  0.50000000  0.95121000  1.0
+  Ca  Ca6  1  0.25006000  0.50000000  0.15111000  1.0
+  Ca  Ca7  1  0.49788000  0.00000000  0.04753000  1.0
+  Ca  Ca8  1  0.50000000  0.00000000  0.85362000  1.0
+  Ca  Ca9  1  0.50000000  0.50000000  0.85362000  1.0
+  Ca  Ca10  1  0.50296000  0.50000000  0.04843000  1.0
+  Ca  Ca11  1  0.74992000  0.50000000  0.15262000  1.0
+  Ca  Ca12  1  0.75000000  0.00000000  0.95121000  1.0
+  Ca  Ca13  1  0.75000000  0.50000000  0.95121000  1.0
+  Ca  Ca14  1  0.75004000  0.00000000  0.15407000  1.0
+  Ca  Ca15  1  0.99724000  0.50000000  0.04840000  1.0
+  In  In16  2  0.00000000  0.25000000  0.95121000  1.0
+  In  In17  2  0.25000000  0.25000000  0.85362000  1.0
+  In  In18  2  0.25005000  0.26333000  0.05166000  1.0
+  In  In19  2  0.50000000  0.25000000  0.95121000  1.0
+  In  In20  2  0.50280000  0.24804000  0.14619000  1.0
+  In  In21  2  0.75000000  0.25000000  0.85362000  1.0
+  In  In22  2  0.75015000  0.24608000  0.05597000  1.0
+  In  In23  2  0.99712000  0.24842000  0.14619000  1.0
+  C  C24  1  0.24809000  0.00000000  0.23504000  1.0
+  O  O25  1  0.24741000  0.00000000  0.27557000  1.0

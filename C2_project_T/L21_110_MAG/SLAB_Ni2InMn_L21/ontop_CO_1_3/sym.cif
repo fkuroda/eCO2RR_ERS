@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Mn8In8Ni16CO
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   6.11439000
+_cell_length_b   8.64705000
+_cell_length_c   26.48530000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Mn8In8Ni16CO
+_chemical_formula_sum   'Mn8 In8 Ni16 C1 O1'
+_cell_volume   1400.31584520
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  2  0.00000000  0.24886000  0.04154000  1.0
+  Mn  Mn1  2  0.00000000  0.25000000  0.87757000  1.0
+  Mn  Mn2  1  0.50000000  0.00000000  0.11848000  1.0
+  Mn  Mn3  1  0.50000000  0.00000000  0.95919000  1.0
+  Mn  Mn4  1  0.50000000  0.50000000  0.12022000  1.0
+  Mn  Mn5  1  0.50000000  0.50000000  0.95919000  1.0
+  In  In6  2  0.50000000  0.25000000  0.87757000  1.0
+  In  In7  2  0.50000000  0.25070000  0.03917000  1.0
+  In  In8  1  0.00000000  0.00000000  0.13088000  1.0
+  In  In9  1  0.00000000  0.00000000  0.95919000  1.0
+  In  In10  1  0.00000000  0.50000000  0.13406000  1.0
+  In  In11  1  0.00000000  0.50000000  0.95919000  1.0
+  Ni  Ni12  4  0.24907000  0.24989000  0.11784000  1.0
+  Ni  Ni13  4  0.25000000  0.25000000  0.95919000  1.0
+  Ni  Ni14  2  0.23718000  0.50000000  0.04346000  1.0
+  Ni  Ni15  2  0.24364000  0.00000000  0.04209000  1.0
+  Ni  Ni16  2  0.25000000  0.00000000  0.87757000  1.0
+  Ni  Ni17  2  0.25000000  0.50000000  0.87757000  1.0
+  C  C18  1  0.50000000  0.00000000  0.19089000  1.0
+  O  O19  1  0.50000000  0.00000000  0.23457000  1.0

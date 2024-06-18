@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_AlVFe2
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   4.03927000
+_cell_length_b   5.71239000
+_cell_length_c   26.05890000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   AlVFe2
+_chemical_formula_sum   'Al4 V4 Fe8'
+_cell_volume   601.28007630
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000000  0.00000000  0.11625000  1.0
+  Al  Al1  1  0.00000000  0.00000000  0.96154000  1.0
+  Al  Al2  1  0.50000000  0.50000000  0.03875000  1.0
+  Al  Al3  1  0.50000000  0.50000000  0.87606000  1.0
+  V  V4  1  0.00000000  0.50000000  0.11625000  1.0
+  V  V5  1  0.00000000  0.50000000  0.95977000  1.0
+  V  V6  1  0.50000000  0.00000000  0.03875000  1.0
+  V  V7  1  0.50000000  0.00000000  0.88575500  1.0
+  Fe  Fe8  2  0.00000000  0.25000000  0.03875000  1.0
+  Fe  Fe9  2  0.00000000  0.25214500  0.88311000  1.0
+  Fe  Fe10  2  0.50000000  0.25000000  0.11625000  1.0
+  Fe  Fe11  2  0.50000000  0.25265000  0.95986000  1.0

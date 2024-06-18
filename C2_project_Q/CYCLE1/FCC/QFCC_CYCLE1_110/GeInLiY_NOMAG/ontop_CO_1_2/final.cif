@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li4Y4In4Ge4CO
+_chemical_formula_sum              "Li4 Y4 In4 Ge4 C1 O1"
+_cell_length_a       8.49364
+_cell_length_b       6.33235
+_cell_length_c       24.7329
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.50000  0.90432  1.0000
+  Li  Li2       1.0  0.99929  0.92504  0.02701  1.0000
+  Li  Li3       1.0  0.50000  0.50000  0.90432  1.0000
+  Li  Li4       1.0  0.50062  0.92518  0.02714  1.0000
+  Y   Y1        1.0  0.25000  0.22929  0.96811  1.0000
+  Y   Y2        1.0  0.25001  0.58236  0.09877  1.0000
+  Y   Y3        1.0  0.75000  0.22929  0.96811  1.0000
+  Y   Y4        1.0  0.75006  0.58956  0.09795  1.0000
+  In  In1       1.0  0.25000  0.72929  0.96811  1.0000
+  In  In2       1.0  0.24985  0.08638  0.10537  1.0000
+  In  In3       1.0  0.75000  0.72929  0.96811  1.0000
+  In  In4       1.0  0.75017  0.08732  0.10566  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.90432  1.0000
+  Ge  Ge2       1.0  0.99686  0.35922  0.04804  1.0000
+  Ge  Ge3       1.0  0.50000  0.00000  0.90432  1.0000
+  Ge  Ge4       1.0  0.50323  0.35907  0.04813  1.0000
+  C   C1        1.0  0.24995  0.44775  0.19282  1.0000
+  O   O1        1.0  0.24992  0.38972  0.23703  1.0000

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_YGaSnPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.88338000
+_cell_length_b   6.14219000
+_cell_length_c   24.60430000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YGaSnPd
+_chemical_formula_sum   'Y4 Ga4 Sn4 Pd4'
+_cell_volume   1342.49445459
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.25847000  0.97255000  1.0
+  Y  Y1  1  0.00000000  0.72587000  0.09357000  1.0
+  Y  Y2  1  0.50000000  0.25855000  0.97256000  1.0
+  Y  Y3  1  0.50000000  0.72587000  0.09357000  1.0
+  Ga  Ga4  1  0.74990000  0.99730000  0.91365000  1.0
+  Ga  Ga5  1  0.74999000  0.48391000  0.03119000  1.0
+  Ga  Ga6  1  0.25010000  0.99730000  0.91365000  1.0
+  Ga  Ga7  1  0.25001000  0.48391000  0.03119000  1.0
+  Sn  Sn8  1  0.75000000  0.54830000  0.91186000  1.0
+  Sn  Sn9  1  0.74999000  0.98391000  0.03119000  1.0
+  Sn  Sn10  1  0.25000000  0.54830000  0.91186000  1.0
+  Sn  Sn11  1  0.25001000  0.98391000  0.03119000  1.0
+  Pd  Pd12  1  0.00000000  0.76384000  0.96601000  1.0
+  Pd  Pd13  1  0.00000000  0.22587000  0.09357000  1.0
+  Pd  Pd14  1  0.50000000  0.76384000  0.96601000  1.0
+  Pd  Pd15  1  0.50000000  0.22587000  0.09357000  1.0

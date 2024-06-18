@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ti16Au16C
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   9.30182000
+_cell_length_b   6.57738000
+_cell_length_c   26.97640000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Ti16Au16C
+_chemical_formula_sum   'Ti16 Au16 C1'
+_cell_volume   1650.45944458
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  2  0.00000000  0.25000000  0.95690000  1.0
+  Ti  Ti1  2  0.00002000  0.24740000  0.12825000  1.0
+  Ti  Ti2  2  0.25000000  0.25000000  0.87069000  1.0
+  Ti  Ti3  2  0.25111000  0.24005000  0.04731000  1.0
+  Ti  Ti4  2  0.50000000  0.25000000  0.95690000  1.0
+  Ti  Ti5  2  0.50001000  0.22217000  0.12115000  1.0
+  Ti  Ti6  2  0.74886000  0.24007000  0.04731000  1.0
+  Ti  Ti7  2  0.75000000  0.25000000  0.87069000  1.0
+  Au  Au8  1  0.00000000  0.00000000  0.87069000  1.0
+  Au  Au9  1  0.00000000  0.50000000  0.87069000  1.0
+  Au  Au10  1  0.25000000  0.00000000  0.95690000  1.0
+  Au  Au11  1  0.25000000  0.50000000  0.95690000  1.0
+  Au  Au12  1  0.25059000  0.50000000  0.12659000  1.0
+  Au  Au13  1  0.25502000  0.00000000  0.13870000  1.0
+  Au  Au14  1  0.50000000  0.00000000  0.87069000  1.0
+  Au  Au15  1  0.50000000  0.50000000  0.87069000  1.0
+  Au  Au16  1  0.50001000  0.50000000  0.04109000  1.0
+  Au  Au17  1  0.50002000  0.00000000  0.03387000  1.0
+  Au  Au18  1  0.74501000  0.00000000  0.13870000  1.0
+  Au  Au19  1  0.74942000  0.50000000  0.12658000  1.0
+  Au  Au20  1  0.75000000  0.00000000  0.95690000  1.0
+  Au  Au21  1  0.75000000  0.50000000  0.95690000  1.0
+  Au  Au22  1  0.99995000  0.00000000  0.04008000  1.0
+  Au  Au23  1  0.99996000  0.50000000  0.03802000  1.0
+  C  C24  1  0.99995000  0.00000000  0.16408000  1.0

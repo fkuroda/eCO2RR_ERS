@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ca16Pd16CO
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   7.14855000
+_cell_length_b   10.10960000
+_cell_length_c   27.58220000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Ca16Pd16CO
+_chemical_formula_sum   'Ca16 Pd16 C1 O1'
+_cell_volume   1993.33748994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  4  0.25000000  0.25000000  0.95418000  1.0
+  Ca  Ca1  4  0.25267000  0.25413000  0.14011000  1.0
+  Ca  Ca2  2  0.24963000  0.50000000  0.04489000  1.0
+  Ca  Ca3  2  0.25000000  0.00000000  0.86255000  1.0
+  Ca  Ca4  2  0.25000000  0.50000000  0.86255000  1.0
+  Ca  Ca5  2  0.25297000  0.00000000  0.04391000  1.0
+  Pd  Pd6  2  0.00000000  0.24165000  0.05271000  1.0
+  Pd  Pd7  2  0.00000000  0.25000000  0.86255000  1.0
+  Pd  Pd8  2  0.50000000  0.25000000  0.86255000  1.0
+  Pd  Pd9  2  0.50000000  0.25066000  0.05030000  1.0
+  Pd  Pd10  1  0.00000000  0.00000000  0.13600000  1.0
+  Pd  Pd11  1  0.00000000  0.00000000  0.95418000  1.0
+  Pd  Pd12  1  0.00000000  0.50000000  0.13027000  1.0
+  Pd  Pd13  1  0.00000000  0.50000000  0.95418000  1.0
+  Pd  Pd14  1  0.50000000  0.00000000  0.12881000  1.0
+  Pd  Pd15  1  0.50000000  0.00000000  0.95418000  1.0
+  Pd  Pd16  1  0.50000000  0.50000000  0.13025000  1.0
+  Pd  Pd17  1  0.50000000  0.50000000  0.95418000  1.0
+  C  C18  1  0.00000000  0.00000000  0.20619000  1.0
+  O  O19  1  0.00000000  0.00000000  0.24841000  1.0

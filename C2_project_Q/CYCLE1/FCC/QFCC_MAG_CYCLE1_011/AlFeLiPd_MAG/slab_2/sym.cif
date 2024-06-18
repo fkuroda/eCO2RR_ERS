@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiAlFePd
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.15535000
+_cell_length_b   8.84236000
+_cell_length_c   23.55420000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlFePd
+_chemical_formula_sum   'Li4 Al4 Fe4 Pd4'
+_cell_volume   1073.72905668
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.73443000  0.24975000  0.02800000  1.0
+  Li  Li1  1  0.73452000  0.75103000  0.02753000  1.0
+  Li  Li2  1  0.95472000  0.25000000  0.92455000  1.0
+  Li  Li3  1  0.95472000  0.75000000  0.92455000  1.0
+  Al  Al4  1  0.03895000  0.00001000  0.06985000  1.0
+  Al  Al5  1  0.04497000  0.49994000  0.07037000  1.0
+  Al  Al6  1  0.30315000  0.00000000  0.97485000  1.0
+  Al  Al7  1  0.30315000  0.50000000  0.97485000  1.0
+  Fe  Fe8  1  0.57214000  0.99983000  0.05395000  1.0
+  Fe  Fe9  1  0.57755000  0.50103000  0.05339000  1.0
+  Fe  Fe10  1  0.80315000  0.00000000  0.97485000  1.0
+  Fe  Fe11  1  0.80315000  0.50000000  0.97485000  1.0
+  Pd  Pd12  1  0.24753000  0.74993000  0.03998000  1.0
+  Pd  Pd13  1  0.24783000  0.25019000  0.04001000  1.0
+  Pd  Pd14  1  0.45472000  0.25000000  0.92455000  1.0
+  Pd  Pd15  1  0.45472000  0.75000000  0.92455000  1.0

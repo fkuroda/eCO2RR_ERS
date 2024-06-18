@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li4Y4Sn4Pb4CO
+_chemical_formula_sum              "Li4 Y4 Sn4 Pb4 C1 O1"
+_cell_length_a       6.5522
+_cell_length_b       9.36828
+_cell_length_c       24.8971
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.05104  0.99997  0.11991  1.0000
+  Li  Li2       1.0  0.45833  0.00000  0.96722  1.0000
+  Li  Li3       1.0  0.02761  0.49995  0.10174  1.0000
+  Li  Li4       1.0  0.45833  0.50000  0.96722  1.0000
+  Y   Y1        1.0  0.74923  0.24878  0.03308  1.0000
+  Y   Y2        1.0  0.18749  0.25000  0.90165  1.0000
+  Y   Y3        1.0  0.74932  0.75121  0.03305  1.0000
+  Y   Y4        1.0  0.18749  0.75000  0.90165  1.0000
+  Sn  Sn1       1.0  0.51060  0.99998  0.09390  1.0000
+  Sn  Sn2       1.0  0.95833  0.00000  0.96722  1.0000
+  Sn  Sn3       1.0  0.50918  0.49995  0.09543  1.0000
+  Sn  Sn4       1.0  0.95833  0.50000  0.96722  1.0000
+  Pb  Pb1       1.0  0.24092  0.24858  0.04971  1.0000
+  Pb  Pb2       1.0  0.68749  0.25000  0.90165  1.0000
+  Pb  Pb3       1.0  0.24068  0.75152  0.04972  1.0000
+  Pb  Pb4       1.0  0.68749  0.75000  0.90165  1.0000
+  C   C1        1.0  0.17608  0.99992  0.19930  1.0000
+  O   O1        1.0  0.25835  0.99991  0.23975  1.0000

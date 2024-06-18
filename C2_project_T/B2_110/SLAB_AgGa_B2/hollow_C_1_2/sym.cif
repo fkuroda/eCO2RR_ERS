@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ga16Ag16C
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.70510000
+_cell_length_b   9.48244000
+_cell_length_c   27.11180000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Ga16Ag16C
+_chemical_formula_sum   'Ga16 Ag16 C1'
+_cell_volume   1723.78745119
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.25000000  0.25000000  0.95628000  1.0
+  Ga  Ga1  2  0.25229000  0.21781000  0.15612000  1.0
+  Ga  Ga2  2  0.74933000  0.26631000  0.14102000  1.0
+  Ga  Ga3  2  0.75000000  0.25000000  0.95628000  1.0
+  Ga  Ga4  1  0.25000000  0.00000000  0.86884000  1.0
+  Ga  Ga5  1  0.25000000  0.50000000  0.86884000  1.0
+  Ga  Ga6  1  0.25077000  0.50000000  0.04177000  1.0
+  Ga  Ga7  1  0.25101000  0.00000000  0.05362000  1.0
+  Ga  Ga8  1  0.74865000  0.50000000  0.04763000  1.0
+  Ga  Ga9  1  0.75000000  0.00000000  0.86884000  1.0
+  Ga  Ga10  1  0.75000000  0.50000000  0.86884000  1.0
+  Ga  Ga11  1  0.75026000  0.00000000  0.03580000  1.0
+  Ag  Ag12  2  0.00000000  0.25000000  0.86884000  1.0
+  Ag  Ag13  2  0.00605000  0.25165000  0.04618000  1.0
+  Ag  Ag14  2  0.49403000  0.25120000  0.04612000  1.0
+  Ag  Ag15  2  0.50000000  0.25000000  0.86884000  1.0
+  Ag  Ag16  1  -0.00000000  0.50000000  0.95628000  1.0
+  Ag  Ag17  1  0.00000000  0.00000000  0.95628000  1.0
+  Ag  Ag18  1  0.02170000  0.50000000  0.12939000  1.0
+  Ag  Ag19  1  0.47540000  0.50000000  0.12992000  1.0
+  Ag  Ag20  1  0.50000000  0.00000000  0.95628000  1.0
+  Ag  Ag21  1  0.50000000  0.50000000  0.95628000  1.0
+  Ag  Ag22  1  0.56146000  0.00000000  0.12601000  1.0
+  Ag  Ag23  1  0.94202000  0.00000000  0.12598000  1.0
+  C  C24  1  0.25162000  0.00000000  0.13798000  1.0

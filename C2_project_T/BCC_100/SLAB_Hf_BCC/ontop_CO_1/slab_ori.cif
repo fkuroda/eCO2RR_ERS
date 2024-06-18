@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Hf16CO
+_chemical_formula_sum              "Hf16 C1 O1"
+_cell_length_a       7.06962
+_cell_length_b       7.06962
+_cell_length_c       25.3022
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.00000  0.00000  0.89522  1.0000
+  Hf  Hf2       1.0  0.25000  0.25000  0.96507  1.0000
+  Hf  Hf3       1.0  0.00000  0.00000  0.03493  1.0000
+  Hf  Hf4       1.0  0.25000  0.25000  0.10478  1.0000
+  Hf  Hf5       1.0  0.00000  0.50000  0.89522  1.0000
+  Hf  Hf6       1.0  0.25000  0.75000  0.96507  1.0000
+  Hf  Hf7       1.0  0.00000  0.50000  0.03493  1.0000
+  Hf  Hf8       1.0  0.25000  0.75000  0.10478  1.0000
+  Hf  Hf9       1.0  0.50000  0.00000  0.89522  1.0000
+  Hf  Hf10      1.0  0.75000  0.25000  0.96507  1.0000
+  Hf  Hf11      1.0  0.50000  0.00000  0.03493  1.0000
+  Hf  Hf12      1.0  0.75000  0.25000  0.10478  1.0000
+  Hf  Hf13      1.0  0.50000  0.50000  0.89522  1.0000
+  Hf  Hf14      1.0  0.75000  0.75000  0.96507  1.0000
+  Hf  Hf15      1.0  0.50000  0.50000  0.03493  1.0000
+  Hf  Hf16      1.0  0.75000  0.75000  0.10478  1.0000
+  C   C1        1.0  0.25000  0.25000  0.17987  1.0000
+  O   O1        1.0  0.25000  0.25000  0.22532  1.0000

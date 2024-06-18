@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Hf8Al8Au16CO
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.63475000
+_cell_length_b   9.38295000
+_cell_length_c   27.03720000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Hf8Al8Au16CO
+_chemical_formula_sum   'Hf8 Al8 Au16 C1 O1'
+_cell_volume   1683.16107406
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  2  0.46003000  0.22638000  0.12086000  1.0
+  Hf  Hf1  2  0.50000000  0.25000000  0.95662000  1.0
+  Hf  Hf2  1  -0.00000000  0.50000000  0.86986000  1.0
+  Hf  Hf3  1  0.00000000  0.00000000  0.86986000  1.0
+  Hf  Hf4  1  0.06602000  0.00000000  0.06236000  1.0
+  Hf  Hf5  1  0.97889000  0.50000000  0.05064000  1.0
+  Al  Al6  2  -0.00000000  0.25000000  0.95662000  1.0
+  Al  Al7  2  0.99378000  0.26172000  0.13039000  1.0
+  Al  Al8  1  0.50000000  0.00000000  0.86986000  1.0
+  Al  Al9  1  0.50000000  0.50000000  0.86986000  1.0
+  Al  Al10  1  0.50332000  0.50000000  0.04000000  1.0
+  Al  Al11  1  0.51378000  0.00000000  0.04043000  1.0
+  Au  Au12  2  0.23890000  0.26893000  0.03749000  1.0
+  Au  Au13  2  0.25000000  0.25000000  0.86986000  1.0
+  Au  Au14  2  0.75000000  0.25000000  0.86986000  1.0
+  Au  Au15  2  0.77005000  0.22882000  0.04314000  1.0
+  Au  Au16  1  0.19140000  0.00000000  0.16006000  1.0
+  Au  Au17  1  0.23331000  0.50000000  0.13745000  1.0
+  Au  Au18  1  0.25000000  0.00000000  0.95662000  1.0
+  Au  Au19  1  0.25000000  0.50000000  0.95662000  1.0
+  Au  Au20  1  0.68530000  0.50000000  0.12696000  1.0
+  Au  Au21  1  0.73845000  0.00000000  0.13628000  1.0
+  Au  Au22  1  0.75000000  0.00000000  0.95662000  1.0
+  Au  Au23  1  0.75000000  0.50000000  0.95662000  1.0
+  C  C24  1  0.23929000  0.00000000  0.23701000  1.0
+  O  O25  1  0.26380000  0.00000000  0.27894000  1.0

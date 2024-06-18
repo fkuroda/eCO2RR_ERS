@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sc4Ga12CO
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   5.87947000
+_cell_length_b   8.31483000
+_cell_length_c   24.40960000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Sc4Ga12CO
+_chemical_formula_sum   'Sc4 Ga12 C1 O1'
+_cell_volume   1193.30707560
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.91494000  1.0
+  Sc  Sc1  1  0.00000000  0.50000000  0.91495000  1.0
+  Sc  Sc2  1  0.50000000  0.00000000  0.03011000  1.0
+  Sc  Sc3  1  0.50000000  0.50000000  0.03011000  1.0
+  Ga  Ga4  4  0.25000000  0.25000000  0.09033000  1.0
+  Ga  Ga5  4  0.26057000  0.25081000  0.96555000  1.0
+  Ga  Ga6  1  0.00000000  0.00000000  0.03011000  1.0
+  Ga  Ga7  1  0.00000000  0.50000000  0.03011000  1.0
+  Ga  Ga8  1  0.50000000  0.00000000  0.90305000  1.0
+  Ga  Ga9  1  0.50000000  0.50000000  0.90293000  1.0
+  C  C10  1  0.00000000  0.00000000  0.81996000  1.0
+  O  O11  1  0.00000000  0.00000000  0.77296000  1.0

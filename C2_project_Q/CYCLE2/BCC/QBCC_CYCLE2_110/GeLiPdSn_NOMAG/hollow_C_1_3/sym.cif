@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li8Sn8Ge8Pd8C
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.61012000
+_cell_length_b   9.34812000
+_cell_length_c   27.01110000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Li8Sn8Ge8Pd8C
+_chemical_formula_sum   'Li8 Sn8 Ge8 Pd8 C1'
+_cell_volume   1669.07515767
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.25000000  0.24999000  0.87022000  1.0
+  Li  Li1  2  0.27178000  0.23251000  0.04738000  1.0
+  Li  Li2  1  0.66948000  0.50000000  0.14104000  1.0
+  Li  Li3  1  0.75000000  0.00000000  0.95674000  1.0
+  Li  Li4  1  0.75000000  0.50000000  0.95674000  1.0
+  Li  Li5  1  0.81904000  0.00000000  0.17769000  1.0
+  Sn  Sn6  2  0.00000000  0.24999000  0.95674000  1.0
+  Sn  Sn7  2  0.96352000  0.25183000  0.12689000  1.0
+  Sn  Sn8  1  0.48905000  0.50000000  0.04467000  1.0
+  Sn  Sn9  1  0.50000000  0.00000000  0.87022000  1.0
+  Sn  Sn10  1  0.50000000  0.50000000  0.87022000  1.0
+  Sn  Sn11  1  0.55214000  0.00000000  0.06420000  1.0
+  Ge  Ge12  2  0.49240000  0.20348000  0.15526000  1.0
+  Ge  Ge13  2  0.50000000  0.25001000  0.95674000  1.0
+  Ge  Ge14  1  0.00000000  0.00000000  0.87022000  1.0
+  Ge  Ge15  1  0.00000000  0.50000000  0.87022000  1.0
+  Ge  Ge16  1  0.97652000  0.50000000  0.03911000  1.0
+  Ge  Ge17  1  0.99570000  0.00000000  0.04148000  1.0
+  Pd  Pd18  2  0.73498000  0.25599000  0.03644000  1.0
+  Pd  Pd19  2  0.75000000  0.24999000  0.87022000  1.0
+  Pd  Pd20  1  0.18666000  0.50000000  0.11524000  1.0
+  Pd  Pd21  1  0.19706000  0.00000000  0.12269000  1.0
+  Pd  Pd22  1  0.25000000  0.00000000  0.95674000  1.0
+  Pd  Pd23  1  0.25000000  0.50000000  0.95674000  1.0
+  C  C24  1  0.50860000  0.00000000  0.16080000  1.0

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NbNi2Sn
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   4.40209500
+_cell_length_b   6.22550000
+_cell_length_c   26.60310000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   NbNi2Sn
+_chemical_formula_sum   'Nb4 Ni8 Sn4'
+_cell_volume   729.06440469
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000000  0.00000000  0.12410000  1.0
+  Nb  Nb1  1  0.00000000  0.00000000  0.95745000  1.0
+  Nb  Nb2  1  0.50000000  0.50000000  0.04137000  1.0
+  Nb  Nb3  1  0.50000000  0.50000000  0.88047000  1.0
+  Ni  Ni4  2  0.00000000  0.25000000  0.04137000  1.0
+  Ni  Ni5  2  0.00000000  0.27383500  0.88174000  1.0
+  Ni  Ni6  2  0.50000000  0.22942000  0.95355500  1.0
+  Ni  Ni7  2  0.50000000  0.25000000  0.12410000  1.0
+  Sn  Sn8  1  0.00000000  0.50000000  0.12410000  1.0
+  Sn  Sn9  1  0.00000000  0.50000000  0.96247000  1.0
+  Sn  Sn10  1  0.50000000  0.00000000  0.04137000  1.0
+  Sn  Sn11  1  0.50000000  0.00000000  0.86283500  1.0

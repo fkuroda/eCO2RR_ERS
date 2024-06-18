@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Hf8Al8Ni16C
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.09317000
+_cell_length_b   8.61704000
+_cell_length_c   26.46280000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Hf8Al8Ni16C
+_chemical_formula_sum   'Hf8 Al8 Ni16 C1'
+_cell_volume   1389.43168551
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  2  0.00000000  0.25000000  0.87789000  1.0
+  Hf  Hf1  2  0.00200000  0.25482000  0.04073000  1.0
+  Hf  Hf2  1  0.48208000  0.50000000  0.12468000  1.0
+  Hf  Hf3  1  0.50000000  0.00000000  0.95930000  1.0
+  Hf  Hf4  1  0.50000000  0.50000000  0.95930000  1.0
+  Hf  Hf5  1  0.52252000  0.00000000  0.12258000  1.0
+  Al  Al6  2  0.49672000  0.24856000  0.04274000  1.0
+  Al  Al7  2  0.50000000  0.25000000  0.87789000  1.0
+  Al  Al8  1  0.00000000  0.00000000  0.95930000  1.0
+  Al  Al9  1  0.00000000  0.50000000  0.95930000  1.0
+  Al  Al10  1  0.96388000  0.00000000  0.12040000  1.0
+  Al  Al11  1  0.99600000  0.50000000  0.12133000  1.0
+  Ni  Ni12  2  0.22120000  0.23304000  0.12488000  1.0
+  Ni  Ni13  2  0.25000000  0.25000000  0.95930000  1.0
+  Ni  Ni14  2  0.75000000  0.25000000  0.95930000  1.0
+  Ni  Ni15  2  0.75184000  0.26046000  0.11625000  1.0
+  Ni  Ni16  1  0.25000000  0.00000000  0.87789000  1.0
+  Ni  Ni17  1  0.25000000  0.50000000  0.87789000  1.0
+  Ni  Ni18  1  0.25523000  0.00000000  0.04043000  1.0
+  Ni  Ni19  1  0.27025000  0.50000000  0.04109000  1.0
+  Ni  Ni20  1  0.72865000  0.50000000  0.04450000  1.0
+  Ni  Ni21  1  0.75000000  0.00000000  0.87789000  1.0
+  Ni  Ni22  1  0.75000000  0.50000000  0.87789000  1.0
+  Ni  Ni23  1  0.75410000  0.00000000  0.03754000  1.0
+  C  C24  1  0.22596000  0.00000000  0.15709000  1.0

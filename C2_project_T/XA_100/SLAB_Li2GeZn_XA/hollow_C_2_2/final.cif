@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Li8Zn4Ge4C
+_chemical_formula_sum              "Li8 Zn4 Ge4 C1"
+_cell_length_a       6.18893
+_cell_length_b       6.18893
+_cell_length_c       24.6417
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.99206  0.00801  0.11605  1.0000
+  Li  Li2       1.0  0.51066  0.48930  0.11428  1.0000
+  Li  Li3       1.0  0.50000  0.00000  0.96861  1.0000
+  Li  Li4       1.0  0.00000  0.50000  0.96861  1.0000
+  Li  Li5       1.0  0.25000  0.25000  0.90582  1.0000
+  Li  Li6       1.0  0.24952  0.75046  0.03865  1.0000
+  Li  Li7       1.0  0.75000  0.75000  0.90582  1.0000
+  Li  Li8       1.0  0.75019  0.24982  0.03223  1.0000
+  Zn  Zn1       1.0  0.25006  0.24954  0.03372  1.0000
+  Zn  Zn2       1.0  0.25000  0.75000  0.90582  1.0000
+  Zn  Zn3       1.0  0.75046  0.74994  0.03371  1.0000
+  Zn  Zn4       1.0  0.75000  0.25000  0.90582  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.96861  1.0000
+  Ge  Ge2       1.0  0.53366  0.03199  0.10946  1.0000
+  Ge  Ge3       1.0  0.96800  0.46635  0.10946  1.0000
+  Ge  Ge4       1.0  0.50000  0.50000  0.96861  1.0000
+  C   C1        1.0  0.75126  0.24874  0.11758  1.0000

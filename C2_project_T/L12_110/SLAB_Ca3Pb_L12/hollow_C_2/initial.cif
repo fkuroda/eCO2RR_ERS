@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Ca12Pb4C
+_chemical_formula_sum              "Ca12 Pb4 C1"
+_cell_length_a       10.2191
+_cell_length_b       7.22598
+_cell_length_c       25.4195
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.05100  0.44720  0.14161  1.0000
+  Ca  Ca2       1.0  0.25043  0.72626  0.05418  1.0000
+  Ca  Ca3       1.0  0.25058  0.24872  0.04615  1.0000
+  Ca  Ca4       1.0  0.00000  0.00000  0.96447  1.0000
+  Ca  Ca5       1.0  0.25000  0.25000  0.89340  1.0000
+  Ca  Ca6       1.0  0.25000  0.75000  0.89340  1.0000
+  Ca  Ca7       1.0  0.45296  0.45101  0.14122  1.0000
+  Ca  Ca8       1.0  0.74906  0.74911  0.04499  1.0000
+  Ca  Ca9       1.0  0.75050  0.24624  0.04118  1.0000
+  Ca  Ca10      1.0  0.50000  0.00000  0.96447  1.0000
+  Ca  Ca11      1.0  0.75000  0.25000  0.89340  1.0000
+  Ca  Ca12      1.0  0.75000  0.75000  0.89340  1.0000
+  Pb  Pb1       1.0  0.98562  0.98915  0.09494  1.0000
+  Pb  Pb2       1.0  0.00000  0.50000  0.96447  1.0000
+  Pb  Pb3       1.0  0.51452  0.99213  0.09575  1.0000
+  Pb  Pb4       1.0  0.50000  0.50000  0.96447  1.0000
+  C   C1        1.0  0.25020  0.47396  0.10825  1.0000

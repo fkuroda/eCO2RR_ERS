@@ -1,0 +1,70 @@
+&CONTROL
+calculation = 'relax'
+prefix = 'scf'
+pseudo_dir = '/vol0004/mdt0/data/hp150275/u10028/POT_KKJUS'
+outdir = './data'
+tprnfor = .true.
+nstep = 70
+disk_io = 'non'
+/
+&SYSTEM
+ibrav = 0
+ecutwfc = 50.0
+ecutrho = 400
+occupations = 'smearing'
+smearing = 'mp'
+degauss = 0.01
+assume_isolated = 'esm'
+esm_bc = 'bc1'
+input_dft = 'BEEF-VDW'
+nosym = .true.
+nspin = 1
+ntyp = 4
+nat = 19
+/
+&ELECTRONS
+electron_maxstep = 200
+mixing_beta = 0.1
+conv_thr = 1e-06
+/
+&IONS
+ion_dynamics = 'bfgs'
+upscale = 1.0
+/
+&CELL
+/
+
+K_POINTS {automatic}
+8 8 1 0 0 0
+
+ATOMIC_SPECIES
+C 12.01 C.pbe-n-rrkjus_psl.1.0.0.UPF
+H 1.007 H.pbe-rrkjus_psl.1.0.0.UPF
+O 15.99 O.pbe-n-rrkjus_psl.1.0.0.UPF
+Ti 47.86 Ti.pbe-spn-rrkjus_psl.1.0.0.UPF
+
+CELL_PARAMETERS {angstrom}
+6.51708000 0.00000000 0.00000000
+0.00000000 6.51708000 0.00000000
+0.00000000 0.00000000 24.88780000
+
+ATOMIC_POSITIONS {angstrom}
+Ti            0.0000000000        0.0000000000       -2.4439819600    0   0   0
+Ti            1.6292700000        1.6292700000       -0.8145776900    0   0   0
+Ti           -0.1153483383        0.0001067020        0.6428383918
+Ti            1.5614283149        1.5530972645        2.2254361574
+Ti            0.0000000000        3.2585400000       -2.4439819600    0   0   0
+Ti            1.6292700000        4.8878100000       -0.8145776900    0   0   0
+Ti           -0.1823443085        3.2585170438        0.8656261909
+Ti            1.5615186525        4.9640543223        2.2246063290
+Ti            3.2585400000        0.0000000000       -2.4439819600    0   0   0
+Ti            4.8878100000        1.6292700000       -0.8145776900    0   0   0
+Ti            3.4297044438        0.0007394678        0.8294400422
+Ti            5.0928298966        1.3593645114        2.7932185505
+Ti            3.2585400000        3.2585400000       -2.4439819600    0   0   0
+Ti            4.8878100000        4.8878100000       -0.8145776900    0   0   0
+Ti            3.5226074715        3.2576640434        0.9569532160
+Ti            5.0927058785        5.1576698311        2.7926926064
+H             5.1046246582        6.5168632213        4.9738034197
+C             0.2379635813       -0.0001519001        2.7197670394
+O             4.4491694223        6.5169890015        4.2562529871

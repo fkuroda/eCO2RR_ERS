@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Y4In4Cu4Sn4CO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.14612000
+_cell_length_b   6.24938000
+_cell_length_c   24.68700000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4In4Cu4Sn4CO
+_chemical_formula_sum   'Y4 In4 Cu4 Sn4 C1 O1'
+_cell_volume   1411.04916279
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.00000000  0.24947000  0.03164000  1.0
+  Y  Y1  1  0.00000000  0.74999000  0.90413000  1.0
+  Y  Y2  1  0.50000000  0.24947000  0.03164000  1.0
+  Y  Y3  1  0.50000000  0.74093000  0.90604000  1.0
+  In  In4  1  0.75002000  0.50000000  0.09493000  1.0
+  In  In5  1  0.74956000  0.03187000  0.95898000  1.0
+  In  In6  1  0.24998000  0.50000000  0.09493000  1.0
+  In  In7  1  0.25044000  0.03187000  0.95898000  1.0
+  Cu  Cu8  1  0.75002000  0.00000000  0.09493000  1.0
+  Cu  Cu9  1  0.74894000  0.50584000  0.96783000  1.0
+  Cu  Cu10  1  0.24998000  0.00000000  0.09493000  1.0
+  Cu  Cu11  1  0.25106000  0.50584000  0.96783000  1.0
+  Sn  Sn12  1  0.00000000  0.74947000  0.03164000  1.0
+  Sn  Sn13  1  0.00000000  0.25978000  0.89622000  1.0
+  Sn  Sn14  1  0.50000000  0.74947000  0.03164000  1.0
+  Sn  Sn15  1  0.50000000  0.24798000  0.89527000  1.0
+  C  C16  1  0.00000000  0.89728000  0.81077000  1.0
+  O  O17  1  0.00000000  0.95713000  0.76660000  1.0

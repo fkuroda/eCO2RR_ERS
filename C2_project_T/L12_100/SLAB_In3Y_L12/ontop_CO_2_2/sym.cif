@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Y8In24CO
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   13.21397312
+_cell_length_b   13.21397312
+_cell_length_c   27.00780000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   Y8In24CO
+_chemical_formula_sum   'Y16 In48 C2 O2'
+_cell_volume   4715.80726294
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  4  0.25000500  0.24975500  0.12692000  1.0
+  Y  Y1  4  0.25001000  0.25001000  0.95675000  1.0
+  Y  Y2  2  0.00001000  0.50000000  0.95675000  1.0
+  Y  Y3  2  0.00001000  0.00000000  0.95675000  1.0
+  Y  Y4  2  0.00026500  0.00000000  0.12692000  1.0
+  Y  Y5  2  0.49975500  0.00000000  0.12692000  1.0
+  In  In6  4  0.00001000  0.75001000  0.13766000  1.0
+  In  In7  4  0.00001000  0.75001000  0.95675000  1.0
+  In  In8  4  0.12490500  0.12511500  0.04441000  1.0
+  In  In9  4  0.12501000  0.12501000  0.87026000  1.0
+  In  In10  4  0.12501000  0.37501000  0.87026000  1.0
+  In  In11  4  0.12511000  0.37511000  0.04456000  1.0
+  In  In12  4  0.37491000  0.37511000  0.04456000  1.0
+  In  In13  4  0.37501000  0.37501000  0.87026000  1.0
+  In  In14  4  0.37501000  0.12501000  0.87026000  1.0
+  In  In15  4  0.37511500  0.12511500  0.04441000  1.0
+  In  In16  2  0.25001000  0.00000000  0.13750000  1.0
+  In  In17  2  0.25001000  0.00000000  0.95675000  1.0
+  In  In18  2  0.25001000  0.50000000  0.13769000  1.0
+  In  In19  2  0.25001000  0.50000000  0.95675000  1.0
+  C  C20  2  0.24992000  0.00000000  0.28633000  1.0
+  O  O21  2  0.25006000  0.00000000  0.32839000  1.0

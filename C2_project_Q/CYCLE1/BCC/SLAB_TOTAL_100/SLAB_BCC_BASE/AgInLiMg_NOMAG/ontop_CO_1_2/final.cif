@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li4Mg4In4Ag4CO
+_chemical_formula_sum              "Li4 Mg4 In4 Ag4 C1 O1"
+_cell_length_a       6.69019
+_cell_length_b       6.69019
+_cell_length_c       25.0176
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.50000  0.89972  1.0000
+  Li  Li2       1.0  0.00405  0.99702  0.04021  1.0000
+  Li  Li3       1.0  0.49441  0.50485  0.03917  1.0000
+  Li  Li4       1.0  0.50000  0.00000  0.89972  1.0000
+  Mg  Mg1       1.0  0.75000  0.25000  0.96657  1.0000
+  Mg  Mg2       1.0  0.74838  0.74843  0.10515  1.0000
+  Mg  Mg3       1.0  0.25172  0.25133  0.10566  1.0000
+  Mg  Mg4       1.0  0.25000  0.75000  0.96657  1.0000
+  In  In1       1.0  0.25000  0.25000  0.96657  1.0000
+  In  In2       1.0  0.24982  0.75002  0.11676  1.0000
+  In  In3       1.0  0.74819  0.25199  0.10980  1.0000
+  In  In4       1.0  0.75000  0.75000  0.96657  1.0000
+  Ag  Ag1       1.0  0.00000  0.00000  0.89972  1.0000
+  Ag  Ag2       1.0  0.00459  0.50389  0.03671  1.0000
+  Ag  Ag3       1.0  0.49668  0.99591  0.03675  1.0000
+  Ag  Ag4       1.0  0.50000  0.50000  0.89972  1.0000
+  C   C1        1.0  0.71171  0.32089  0.24484  1.0000
+  O   O1        1.0  0.79903  0.19267  0.26352  1.0000

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ScAlInPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97945000
+_cell_length_b   8.33700000
+_cell_length_c   24.48170000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAlInPd
+_chemical_formula_sum   'Sc4 Al4 In4 Pd4'
+_cell_volume   1220.42926158
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.51133000  0.00003000  0.08919000  1.0
+  Sc  Sc1  1  0.98197000  0.00000000  0.96949000  1.0
+  Sc  Sc2  1  0.51115000  0.49996000  0.08923000  1.0
+  Sc  Sc3  1  0.98197000  0.50000000  0.96949000  1.0
+  Al  Al4  1  0.99905000  0.00002000  0.09261000  1.0
+  Al  Al5  1  0.48197000  0.00000000  0.96949000  1.0
+  Al  Al6  1  0.99889000  0.49999000  0.09260000  1.0
+  Al  Al7  1  0.48197000  0.50000000  0.96949000  1.0
+  In  In8  1  0.24310000  0.24998000  0.03300000  1.0
+  In  In9  1  0.72295000  0.25000000  0.90847000  1.0
+  In  In10  1  0.24313000  0.75002000  0.03303000  1.0
+  In  In11  1  0.72295000  0.75000000  0.90847000  1.0
+  Pd  Pd12  1  0.74830000  0.25010000  0.03757000  1.0
+  Pd  Pd13  1  0.22295000  0.25000000  0.90847000  1.0
+  Pd  Pd14  1  0.74831000  0.74990000  0.03753000  1.0
+  Pd  Pd15  1  0.22295000  0.75000000  0.90847000  1.0

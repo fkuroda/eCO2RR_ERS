@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Na8Pb24CO
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   10.02390000
+_cell_length_b   10.02390000
+_cell_length_c   27.51800000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Na8Pb24CO
+_chemical_formula_sum   'Na8 Pb24 C1 O1'
+_cell_volume   2764.96932256
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.50000000  0.86340000  1.0
+  Na  Na1  1  0.00000000  0.00000000  0.86340000  1.0
+  Na  Na2  1  0.50000000  0.00000000  0.86340000  1.0
+  Na  Na3  1  0.50000000  0.50000000  0.86340000  1.0
+  Na  Na4  1  0.50098000  0.50000000  0.04901000  1.0
+  Na  Na5  1  0.50125000  0.00000000  0.04936000  1.0
+  Na  Na6  1  0.99833000  0.00000000  0.04932000  1.0
+  Na  Na7  1  0.99834000  0.50000000  0.04898000  1.0
+  Pb  Pb8  2  -0.00000000  0.24997000  0.95447000  1.0
+  Pb  Pb9  2  0.00030000  0.25035000  0.14357000  1.0
+  Pb  Pb10  2  0.24969000  0.24948000  0.05998000  1.0
+  Pb  Pb11  2  0.25000000  0.24997000  0.86340000  1.0
+  Pb  Pb12  2  0.49931000  0.25038000  0.14361000  1.0
+  Pb  Pb13  2  0.50000000  0.24997000  0.95447000  1.0
+  Pb  Pb14  2  0.74976000  0.24993000  0.06091000  1.0
+  Pb  Pb15  2  0.75000000  0.24997000  0.86340000  1.0
+  Pb  Pb16  1  0.24968000  0.50000000  0.14256000  1.0
+  Pb  Pb17  1  0.24972000  0.00000000  0.14339000  1.0
+  Pb  Pb18  1  0.25000000  0.00000000  0.95447000  1.0
+  Pb  Pb19  1  0.25000000  0.50000000  0.95447000  1.0
+  Pb  Pb20  1  0.74956000  0.50000000  0.14438000  1.0
+  Pb  Pb21  1  0.74971000  0.00000000  0.14449000  1.0
+  Pb  Pb22  1  0.75000000  0.00000000  0.95447000  1.0
+  Pb  Pb23  1  0.75000000  0.50000000  0.95447000  1.0
+  C  C24  1  0.26685000  0.50000000  0.28864000  1.0
+  O  O25  1  0.24000000  0.50000000  0.32864000  1.0

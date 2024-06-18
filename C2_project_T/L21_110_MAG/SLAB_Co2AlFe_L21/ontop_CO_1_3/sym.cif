@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Al8Fe8Co16CO
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   5.71826000
+_cell_length_b   8.08683000
+_cell_length_c   26.06510000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Al8Fe8Co16CO
+_chemical_formula_sum   'Al8 Fe8 Co16 C1 O1'
+_cell_volume   1205.31790244
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  2  0.00000000  0.24923000  0.03772000  1.0
+  Al  Al1  2  0.00000000  0.25001000  0.88365000  1.0
+  Al  Al2  1  0.50000000  0.00000000  0.12149000  1.0
+  Al  Al3  1  0.50000000  0.00000000  0.96122000  1.0
+  Al  Al4  1  0.50000000  0.50000000  0.11823000  1.0
+  Al  Al5  1  0.50000000  0.50000000  0.96122000  1.0
+  Fe  Fe6  2  0.50000000  0.25001000  0.88365000  1.0
+  Fe  Fe7  2  0.50000000  0.25024000  0.03958000  1.0
+  Fe  Fe8  1  0.00000000  0.00000000  0.11356000  1.0
+  Fe  Fe9  1  0.00000000  0.00000000  0.96122000  1.0
+  Fe  Fe10  1  0.00000000  0.50000000  0.11391000  1.0
+  Fe  Fe11  1  0.00000000  0.50000000  0.96122000  1.0
+  Co  Co12  4  0.24838000  0.25102000  0.11392000  1.0
+  Co  Co13  4  0.25000000  0.25001000  0.96122000  1.0
+  Co  Co14  2  0.24978000  0.50000000  0.03867000  1.0
+  Co  Co15  2  0.25000000  0.00000000  0.88365000  1.0
+  Co  Co16  2  0.25000000  0.50000000  0.88365000  1.0
+  Co  Co17  2  0.25322000  0.00000000  0.03951000  1.0
+  C  C18  1  0.50000000  0.00000000  0.19978000  1.0
+  O  O19  1  0.50000000  0.00000000  0.24390000  1.0

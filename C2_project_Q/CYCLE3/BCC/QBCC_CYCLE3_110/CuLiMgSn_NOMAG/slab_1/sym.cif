@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiMgCuSn
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.48317000
+_cell_length_b   4.58429000
+_cell_length_c   26.87640000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   LiMgCuSn
+_chemical_formula_sum   'Li4 Mg4 Cu4 Sn4'
+_cell_volume   798.78626538
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.50000000  0.04264000  1.0
+  Li  Li1  1  0.50000000  0.00000000  0.12793000  1.0
+  Li  Li2  1  0.50058500  0.00000000  0.95555000  1.0
+  Li  Li3  1  0.96144000  0.50000000  0.84384000  1.0
+  Mg  Mg4  1  0.25000000  0.00000000  0.04264000  1.0
+  Mg  Mg5  1  0.25649500  0.00000000  0.86591000  1.0
+  Mg  Mg6  1  0.75000000  0.50000000  0.12793000  1.0
+  Mg  Mg7  1  0.76520500  0.50000000  0.95190000  1.0
+  Cu  Cu8  1  0.00000000  0.00000000  0.12793000  1.0
+  Cu  Cu9  1  0.00131500  0.00000000  0.95848000  1.0
+  Cu  Cu10  1  0.50000000  0.50000000  0.04264000  1.0
+  Cu  Cu11  1  0.51185000  0.50000000  0.87387000  1.0
+  Sn  Sn12  1  0.24169000  0.50000000  0.95170000  1.0
+  Sn  Sn13  1  0.25000000  0.50000000  0.12793000  1.0
+  Sn  Sn14  1  0.74471000  0.00000000  0.86683500  1.0
+  Sn  Sn15  1  0.75000000  0.00000000  0.04264000  1.0

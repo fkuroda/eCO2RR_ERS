@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ni12Ge4CO
+_chemical_formula_sum              "Ni12 Ge4 C1 O1"
+_cell_length_a       7.20976
+_cell_length_b       5.09807
+_cell_length_c       23.8236
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.00000  0.50000  0.91975  1.0000
+  Ni  Ni2       1.0  0.25000  0.75000  0.97325  1.0000
+  Ni  Ni3       1.0  0.25000  0.25000  0.97325  1.0000
+  Ni  Ni4       1.0  0.00017  0.99797  0.02746  1.0000
+  Ni  Ni5       1.0  0.24997  0.23668  0.07897  1.0000
+  Ni  Ni6       1.0  0.24999  0.73694  0.07594  1.0000
+  Ni  Ni7       1.0  0.50000  0.50000  0.91975  1.0000
+  Ni  Ni8       1.0  0.75000  0.75000  0.97325  1.0000
+  Ni  Ni9       1.0  0.75000  0.25000  0.97325  1.0000
+  Ni  Ni10      1.0  0.49972  0.99796  0.02746  1.0000
+  Ni  Ni11      1.0  0.75000  0.24904  0.07579  1.0000
+  Ni  Ni12      1.0  0.75000  0.75075  0.07558  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.91975  1.0000
+  Ge  Ge2       1.0  0.99880  0.49810  0.02943  1.0000
+  Ge  Ge3       1.0  0.50000  0.00000  0.91975  1.0000
+  Ge  Ge4       1.0  0.50120  0.49809  0.02942  1.0000
+  C   C1        1.0  0.25001  0.24751  0.15267  1.0000
+  O   O1        1.0  0.25000  0.25097  0.20116  1.0000

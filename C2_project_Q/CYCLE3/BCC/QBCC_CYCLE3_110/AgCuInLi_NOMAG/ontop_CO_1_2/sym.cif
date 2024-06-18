@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Li8In8Cu8Ag8CO
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.40797000
+_cell_length_b   9.06224000
+_cell_length_c   26.79670000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Li8In8Cu8Ag8CO
+_chemical_formula_sum   'Li8 In8 Cu8 Ag8 C1 O1'
+_cell_volume   1556.09943016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.74238000  0.24936000  0.13395000  1.0
+  Li  Li1  2  0.75000000  0.24999000  0.95773000  1.0
+  Li  Li2  1  0.23866000  0.50000000  0.04448000  1.0
+  Li  Li3  1  0.24292000  0.00000000  0.04401000  1.0
+  Li  Li4  1  0.25000000  0.00000000  0.87318000  1.0
+  Li  Li5  1  0.25000000  0.50000000  0.87318000  1.0
+  In  In6  2  0.50000000  0.25001000  0.87318000  1.0
+  In  In7  2  0.50413000  0.25173000  0.04283000  1.0
+  In  In8  1  -0.00000000  0.50000000  0.95773000  1.0
+  In  In9  1  0.00000000  0.00000000  0.95773000  1.0
+  In  In10  1  0.00745000  0.00000000  0.13740000  1.0
+  In  In11  1  0.00830000  0.50000000  0.13933000  1.0
+  Cu  Cu12  2  0.23639000  0.25051000  0.12347000  1.0
+  Cu  Cu13  2  0.25000000  0.24999000  0.95773000  1.0
+  Cu  Cu14  1  0.75000000  0.00000000  0.87318000  1.0
+  Cu  Cu15  1  0.75000000  0.50000000  0.87318000  1.0
+  Cu  Cu16  1  0.75296000  0.00000000  0.04479000  1.0
+  Cu  Cu17  1  0.75835000  0.50000000  0.04544000  1.0
+  Ag  Ag18  2  0.00000000  0.24999000  0.87318000  1.0
+  Ag  Ag19  2  0.99183000  0.24846000  0.04129000  1.0
+  Ag  Ag20  1  0.49031000  0.00000000  0.12655000  1.0
+  Ag  Ag21  1  0.49113000  0.50000000  0.12664000  1.0
+  Ag  Ag22  1  0.50000000  0.00000000  0.95773000  1.0
+  Ag  Ag23  1  0.50000000  0.50000000  0.95773000  1.0
+  C  C24  1  0.89790000  0.00000000  0.27581000  1.0
+  O  O25  1  0.04509000  0.00000000  0.29945000  1.0

@@ -1,0 +1,72 @@
+&CONTROL
+calculation = 'relax'
+prefix = 'scf'
+pseudo_dir = '/vol0004/mdt0/data/hp150275/u10028/POT_HYBRID_KKJUS_GBRV'
+outdir = './data'
+tprnfor = .true.
+nstep = 50
+disk_io = 'non'
+/
+&SYSTEM
+ibrav = 0
+ecutwfc = 50.0
+ecutrho = 400
+occupations = 'smearing'
+smearing = 'mp'
+degauss = 0.01
+assume_isolated = 'esm'
+esm_bc = 'bc1'
+input_dft = 'BEEF-VDW'
+nosym = .true.
+nspin = 2
+ntyp = 4
+nat = 19
+starting_magnetization(1) = 0.0
+starting_magnetization(2) = 0.01
+/
+&ELECTRONS
+electron_maxstep = 200
+mixing_beta = 0.1
+conv_thr = 1e-06
+/
+&IONS
+ion_dynamics = 'bfgs'
+upscale = 1.0
+/
+&CELL
+/
+
+K_POINTS {automatic}
+8 8 1 0 0 0
+
+ATOMIC_SPECIES
+C 12.01 C.pbe-n-rrkjus_psl.1.0.0.UPF
+W 183.8 w_pbe_v1.2.uspp.F.UPF
+O 15.99 O.pbe-n-rrkjus_psl.1.0.0.UPF
+H 1.0 H.pbe-rrkjus_psl.1.0.0.UPF
+
+CELL_PARAMETERS {angstrom}
+6.36689000 0.00000000 0.00000000
+-0.00000000 6.36689000 0.00000000
+0.00000000 0.00000000 24.77520000
+
+ATOMIC_POSITIONS {angstrom}
+W             0.0000000000        0.0000000000       -2.3875860200    0   0   0
+W             1.5917225000        1.5917225000       -0.7957794200    0   0   0
+W            -0.0028185536        0.0000088633        0.7015569102
+W             1.4386089058        1.4398176870        2.3122691162
+W             0.0000000000        3.1834450000       -2.3875860200    0   0   0
+W             1.5917225000        4.7751675000       -0.7957794200    0   0   0
+W             0.0009430786        3.1834576584        0.8479443265
+W             1.4386862470        4.9271999915        2.3122724447
+W             3.1834450000        0.0000000000       -2.3875860200    0   0   0
+W             4.7751675000        1.5917225000       -0.7957794200    0   0   0
+W             3.1913874347        0.0000035987        0.8615726144
+W             4.9233481312        1.4684761095        2.3284287465
+W             3.1834450000        3.1834450000       -2.3875860200    0   0   0
+W             4.7751675000        4.7751675000       -0.7957794200    0   0   0
+W             3.1819586358        3.1834558070        0.8738596075
+W             4.9234275094        4.8984361023        2.3284588746
+C            -0.0317436949        0.0000233576        3.2583873103
+O            -0.2376417152       -0.0001341294        4.7059211053
+H             0.6219949898        0.0000195203        5.1583280030

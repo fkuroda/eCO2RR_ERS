@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ti4Fe8Sn4CO
+_chemical_formula_sum              "Ti4 Fe8 Sn4 C1 O1"
+_cell_length_a       6.02174
+_cell_length_b       6.02174
+_cell_length_c       24.5163
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.00000  0.00000  0.90789  1.0000
+  Ti  Ti2       1.0  0.50000  0.50000  0.90789  1.0000
+  Ti  Ti3       1.0  0.50225  0.00003  0.03527  1.0000
+  Ti  Ti4       1.0  0.99991  0.50197  0.03524  1.0000
+  Fe  Fe1       1.0  0.25000  0.25000  0.96930  1.0000
+  Fe  Fe2       1.0  0.77275  0.77370  0.10588  1.0000
+  Fe  Fe3       1.0  0.75000  0.25000  0.96930  1.0000
+  Fe  Fe4       1.0  0.21960  0.74826  0.10703  1.0000
+  Fe  Fe5       1.0  0.75000  0.75000  0.96930  1.0000
+  Fe  Fe6       1.0  0.24648  0.24623  0.10192  1.0000
+  Fe  Fe7       1.0  0.25000  0.75000  0.96930  1.0000
+  Fe  Fe8       1.0  0.74776  0.21878  0.10697  1.0000
+  Sn  Sn1       1.0  0.00405  0.00368  0.03326  1.0000
+  Sn  Sn2       1.0  0.50000  0.00000  0.90789  1.0000
+  Sn  Sn3       1.0  0.00000  0.50000  0.90789  1.0000
+  Sn  Sn4       1.0  0.50344  0.50356  0.03963  1.0000
+  C   C1        1.0  0.24638  0.24659  0.17505  1.0000
+  O   O1        1.0  0.24800  0.24842  0.22261  1.0000

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_YCuGePd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58158000
+_cell_length_b   4.65388000
+_cell_length_c   26.98080000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCuGePd
+_chemical_formula_sum   'Y4 Cu4 Ge4 Pd4'
+_cell_volume   826.41876156
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.25000000  0.00000000  0.95688000  1.0
+  Y  Y1  1  0.75000000  0.50000000  0.87063000  1.0
+  Y  Y2  1  0.34367000  0.00000000  0.13797000  1.0
+  Y  Y3  1  0.76711500  0.50000000  0.04621000  1.0
+  Cu  Cu4  1  1.00000000  0.00000000  0.87063000  1.0
+  Cu  Cu5  1  0.50000000  0.50000000  0.95688000  1.0
+  Cu  Cu6  1  0.06310000  0.00000000  0.05757000  1.0
+  Cu  Cu7  1  0.67624000  0.50000000  0.15175500  1.0
+  Ge  Ge8  1  0.75000000  0.00000000  0.95688000  1.0
+  Ge  Ge9  1  0.25000000  0.50000000  0.87063000  1.0
+  Ge  Ge10  1  0.79518000  0.00000000  0.12576000  1.0
+  Ge  Ge11  1  0.26719000  0.50000000  0.04047000  1.0
+  Pd  Pd12  1  1.00000000  0.50000000  0.95688000  1.0
+  Pd  Pd13  1  0.50000000  0.00000000  0.87063000  1.0
+  Pd  Pd14  1  0.07511000  0.50000000  0.12567000  1.0
+  Pd  Pd15  1  0.50369000  0.00000000  0.04205000  1.0

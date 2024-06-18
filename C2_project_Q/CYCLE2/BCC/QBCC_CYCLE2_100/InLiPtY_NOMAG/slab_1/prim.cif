@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiYInPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80323000
+_cell_length_b   6.80323000
+_cell_length_c   25.10240000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiYInPt
+_chemical_formula_sum   'Li4 Y4 In4 Pt4'
+_cell_volume   1161.83793612
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75000000  0.75000000  0.96612000  1
+  Li  Li1  1  0.25182500  0.74817500  0.12520000  1
+  Li  Li2  1  0.74817500  0.25182500  0.12520000  1
+  Li  Li3  1  0.25000000  0.25000000  0.96612000  1
+  Y  Y4  1  0.50000000  0.00000000  0.89837000  1
+  Y  Y5  1  0.00000000  0.00000000  0.03495000  1
+  Y  Y6  1  0.50000000  0.50000000  0.03461000  1
+  Y  Y7  1  0.00000000  0.50000000  0.89837000  1
+  In  In8  1  0.00000000  0.00000000  0.89837000  1
+  In  In9  1  0.50000000  0.00000000  0.03663000  1
+  In  In10  1  0.00000000  0.50000000  0.03663000  1
+  In  In11  1  0.50000000  0.50000000  0.89837000  1
+  Pt  Pt12  1  0.75000000  0.25000000  0.96612000  1
+  Pt  Pt13  1  0.25057000  0.25057000  0.09214000  1
+  Pt  Pt14  1  0.74943000  0.74943000  0.09214000  1
+  Pt  Pt15  1  0.25000000  0.75000000  0.96612000  1

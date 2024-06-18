@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiScGaGe
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   5.81702000
+_cell_length_b   3.97924000
+_cell_length_c   24.35990000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   LiScGaGe
+_chemical_formula_sum   'Li2 Sc2 Ga2 Ge2'
+_cell_volume   563.86636794
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.27699000  0.00000000  0.08949000  1.0
+  Li  Li1  1  0.74393000  0.00000000  0.96032500  1.0
+  Sc  Sc2  1  0.25160000  0.00000000  0.96828000  1.0
+  Sc  Sc3  1  0.77699000  0.00000000  0.08949000  1.0
+  Ga  Ga4  1  0.51799000  0.50000000  0.02983000  1.0
+  Ga  Ga5  1  0.97599500  0.50000000  0.91132000  1.0
+  Ge  Ge6  1  0.01799000  0.50000000  0.02983000  1.0
+  Ge  Ge7  1  0.50548500  0.50000000  0.91939000  1.0

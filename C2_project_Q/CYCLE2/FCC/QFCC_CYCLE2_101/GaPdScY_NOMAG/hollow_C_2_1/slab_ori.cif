@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       YScGaPdYScGaPdYScGaPdYScGaPdC
+_chemical_formula_sum              "Y4 Sc4 Ga4 Pd4 C1"
+_cell_length_a       6.06401
+_cell_length_b       9.48206
+_cell_length_c       24.3075
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.50000  0.00000  0.08861  1.0000
+  Sc  Sc1       1.0  0.16979  0.25000  0.02954  1.0000
+  Ga  Ga1       1.0  0.00000  0.00000  0.08861  1.0000
+  Pd  Pd1       1.0  0.66979  0.25000  0.02954  1.0000
+  Y   Y2        1.0  0.83957  0.00000  0.97046  1.0000
+  Sc  Sc2       1.0  0.50936  0.25000  0.91139  1.0000
+  Ga  Ga2       1.0  0.33957  0.00000  0.97046  1.0000
+  Pd  Pd2       1.0  0.00936  0.25000  0.91139  1.0000
+  Y   Y3        1.0  0.50000  0.50000  0.08861  1.0000
+  Sc  Sc3       1.0  0.16979  0.75000  0.02954  1.0000
+  Ga  Ga3       1.0  0.00000  0.50000  0.08861  1.0000
+  Pd  Pd3       1.0  0.66979  0.75000  0.02954  1.0000
+  Y   Y4        1.0  0.83957  0.50000  0.97046  1.0000
+  Sc  Sc4       1.0  0.50936  0.75000  0.91139  1.0000
+  Ga  Ga4       1.0  0.33957  0.50000  0.97046  1.0000
+  Pd  Pd4       1.0  0.00936  0.75000  0.91139  1.0000
+  C   C1        1.0  0.16979  0.25000  0.12152  1.0000

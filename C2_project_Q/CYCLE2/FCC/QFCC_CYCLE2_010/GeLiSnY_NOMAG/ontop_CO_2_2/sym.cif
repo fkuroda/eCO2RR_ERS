@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Li8Y8Sn8Ge8CO
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   8.60818000
+_cell_length_b   9.43388000
+_cell_length_c   26.39560000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Li8Y8Sn8Ge8CO
+_chemical_formula_sum   'Li8 Y8 Sn8 Ge8 C1 O1'
+_cell_volume   2143.54806289
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.24929000  0.50000000  0.95108000  1.0
+  Li  Li1  2  0.24999000  0.00000000  0.12115000  1.0
+  Li  Li2  2  0.24999000  0.50000000  0.12115000  1.0
+  Li  Li3  2  0.26233000  0.00000000  0.95433000  1.0
+  Y  Y4  2  0.00000000  0.25000000  0.12115000  1.0
+  Y  Y5  2  0.00000000  0.25215000  0.96131000  1.0
+  Y  Y6  2  0.50000000  0.25000000  0.12115000  1.0
+  Y  Y7  2  0.50000000  0.25266000  0.96204000  1.0
+  Sn  Sn8  1  0.00000000  0.00000000  0.04038000  1.0
+  Sn  Sn9  1  0.00000000  0.00000000  0.88352000  1.0
+  Sn  Sn10  1  0.00000000  0.50000000  0.04038000  1.0
+  Sn  Sn11  1  0.00000000  0.50000000  0.85991000  1.0
+  Sn  Sn12  1  0.50000000  0.00000000  0.04038000  1.0
+  Sn  Sn13  1  0.50000000  0.00000000  0.86427000  1.0
+  Sn  Sn14  1  0.50000000  0.50000000  0.04038000  1.0
+  Sn  Sn15  1  0.50000000  0.50000000  0.86148000  1.0
+  Ge  Ge16  4  0.24999000  0.25000000  0.04038000  1.0
+  Ge  Ge17  4  0.25493000  0.25865000  0.88190000  1.0
+  C  C18  1  0.00000000  0.00000000  0.79540000  1.0
+  O  O19  1  0.00000000  0.00000000  0.75217000  1.0

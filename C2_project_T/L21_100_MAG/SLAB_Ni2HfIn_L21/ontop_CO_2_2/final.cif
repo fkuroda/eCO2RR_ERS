@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Hf4In4Ni8CO
+_chemical_formula_sum              "Hf4 In4 Ni8 C1 O1"
+_cell_length_a       6.30953
+_cell_length_b       6.30953
+_cell_length_c       24.7321
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.00013  0.99983  0.09183  1.0000
+  Hf  Hf2       1.0  0.49970  0.50012  0.09189  1.0000
+  Hf  Hf3       1.0  0.50000  0.00000  0.96811  1.0000
+  Hf  Hf4       1.0  0.00000  0.50000  0.96811  1.0000
+  In  In1       1.0  0.00000  0.00000  0.96811  1.0000
+  In  In2       1.0  0.49992  0.99999  0.10476  1.0000
+  In  In3       1.0  0.99972  0.49994  0.10241  1.0000
+  In  In4       1.0  0.50000  0.50000  0.96811  1.0000
+  Ni  Ni1       1.0  0.25302  0.24689  0.03491  1.0000
+  Ni  Ni2       1.0  0.75000  0.75000  0.90433  1.0000
+  Ni  Ni3       1.0  0.74679  0.24671  0.03495  1.0000
+  Ni  Ni4       1.0  0.25000  0.75000  0.90433  1.0000
+  Ni  Ni5       1.0  0.74680  0.75324  0.03492  1.0000
+  Ni  Ni6       1.0  0.25000  0.25000  0.90433  1.0000
+  Ni  Ni7       1.0  0.25297  0.75302  0.03486  1.0000
+  Ni  Ni8       1.0  0.75000  0.25000  0.90433  1.0000
+  C   C1        1.0  0.00222  0.49998  0.29696  1.0000
+  O   O1        1.0  0.99916  0.50011  0.34284  1.0000

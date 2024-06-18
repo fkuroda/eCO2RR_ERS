@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li4Sc4Ge4Pd4CO
+_symmetry_space_group_name_H-M   Cm
+_cell_length_a   8.92367344
+_cell_length_b   8.92367344
+_cell_length_c   24.73250000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   8
+_chemical_formula_structural   Li4Sc4Ge4Pd4CO
+_chemical_formula_sum   'Li8 Sc8 Ge8 Pd8 C2 O2'
+_cell_volume   1969.49714402
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  4  0.00000500  0.24999500  0.96811000  1.0
+  Li  Li1  2  0.24826500  0.00000000  0.12023000  1.0
+  Li  Li2  2  0.25206500  0.50000000  0.11959000  1.0
+  Sc  Sc3  4  0.25000500  0.24999500  0.90433000  1.0
+  Sc  Sc4  2  0.00124000  0.00000000  0.03272000  1.0
+  Sc  Sc5  2  0.49864000  0.00000000  0.03295000  1.0
+  Ge  Ge6  4  0.25006500  0.25014500  0.03793000  1.0
+  Ge  Ge7  2  0.00000500  0.00000000  0.90433000  1.0
+  Ge  Ge8  2  0.00000500  0.50000000  0.90433000  1.0
+  Pd  Pd9  4  0.00011500  0.24952500  0.09110000  1.0
+  Pd  Pd10  2  0.25000500  0.00000000  0.96811000  1.0
+  Pd  Pd11  2  0.25000500  0.50000000  0.96811000  1.0
+  C  C12  2  0.24764000  0.00000000  0.20480000  1.0
+  O  O13  2  0.24684000  0.00000000  0.25097000  1.0

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li4Ga8Ru4C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09317000
+_cell_length_b   6.09317000
+_cell_length_c   24.56990000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Ga8Ru4C
+_chemical_formula_sum   'Li4 Ga8 Ru4 C1'
+_cell_volume   912.19981367
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99103000  0.00897000  0.88577000  1
+  Li  Li1  1  0.50746500  0.49253500  0.88495000  1
+  Li  Li2  1  1.00000000  0.49999000  0.03100000  1
+  Li  Li3  1  0.50001000  0.00000000  0.03100000  1
+  Ga  Ga4  1  0.25032000  0.74968000  0.97538000  1
+  Ga  Ga5  1  0.75000500  0.24999500  0.09300000  1
+  Ga  Ga6  1  0.25025000  0.25073000  0.96139000  1
+  Ga  Ga7  1  0.75000000  0.74999000  0.09300000  1
+  Ga  Ga8  1  0.74912000  0.25088000  0.96000000  1
+  Ga  Ga9  1  0.25000500  0.74999500  0.09300000  1
+  Ga  Ga10  1  0.74927000  0.74975000  0.96139000  1
+  Ga  Ga11  1  0.25001000  0.25000000  0.09300000  1
+  Ru  Ru12  1  0.00000500  0.99999500  0.03100000  1
+  Ru  Ru13  1  0.03868000  0.53956000  0.90458000  1
+  Ru  Ru14  1  0.46044000  0.96132000  0.90458000  1
+  Ru  Ru15  1  0.50000500  0.49999500  0.03100000  1
+  C  C16  1  0.24916000  0.75084000  0.88580000  1

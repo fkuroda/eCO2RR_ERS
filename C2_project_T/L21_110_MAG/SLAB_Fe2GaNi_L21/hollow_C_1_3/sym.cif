@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ga8Fe16Ni8C
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   5.81401000
+_cell_length_b   8.22225000
+_cell_length_c   26.16670000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Ga8Fe16Ni8C
+_chemical_formula_sum   'Ga8 Fe16 Ni8 C1'
+_cell_volume   1250.87930421
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  2  0.50000000  0.24535000  0.14211000  1.0
+  Ga  Ga1  2  0.50000000  0.24998000  0.96072000  1.0
+  Ga  Ga2  1  0.00000000  0.00000000  0.03537000  1.0
+  Ga  Ga3  1  0.00000000  0.00000000  0.88217000  1.0
+  Ga  Ga4  1  0.00000000  0.50000000  0.04146000  1.0
+  Ga  Ga5  1  0.00000000  0.50000000  0.88217000  1.0
+  Fe  Fe6  4  0.25000000  0.25002000  0.88217000  1.0
+  Fe  Fe7  4  0.27760000  0.25071000  0.04904000  1.0
+  Fe  Fe8  2  0.22722000  0.00000000  0.11498000  1.0
+  Fe  Fe9  2  0.25000000  0.00000000  0.96072000  1.0
+  Fe  Fe10  2  0.25000000  0.50000000  0.96072000  1.0
+  Fe  Fe11  2  0.28612000  0.50000000  0.11603000  1.0
+  Ni  Ni12  2  0.00000000  0.25002000  0.96072000  1.0
+  Ni  Ni13  2  0.00000000  0.26229000  0.11587000  1.0
+  Ni  Ni14  1  0.50000000  0.00000000  0.03226000  1.0
+  Ni  Ni15  1  0.50000000  0.00000000  0.88217000  1.0
+  Ni  Ni16  1  0.50000000  0.50000000  0.02994000  1.0
+  Ni  Ni17  1  0.50000000  0.50000000  0.88217000  1.0
+  C  C18  1  0.50000000  0.00000000  0.15296000  1.0

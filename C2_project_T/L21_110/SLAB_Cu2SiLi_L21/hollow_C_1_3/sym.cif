@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Li8Cu16Si8C
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   5.78917000
+_cell_length_b   8.18712000
+_cell_length_c   26.14030000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Li8Cu16Si8C
+_chemical_formula_sum   'Li8 Cu16 Si8 C1'
+_cell_volume   1238.96211387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.50000000  0.24999000  0.96085000  1.0
+  Li  Li1  2  0.50000000  0.25235000  0.13323000  1.0
+  Li  Li2  1  0.00000000  0.00000000  0.03564000  1.0
+  Li  Li3  1  0.00000000  0.00000000  0.88255000  1.0
+  Li  Li4  1  0.00000000  0.50000000  0.04120000  1.0
+  Li  Li5  1  0.00000000  0.50000000  0.88255000  1.0
+  Cu  Cu6  4  0.24760000  0.24643000  0.04159000  1.0
+  Cu  Cu7  4  0.25001000  0.25001000  0.88255000  1.0
+  Si  Si8  2  0.00000000  0.24500000  0.12031000  1.0
+  Si  Si9  2  0.00000000  0.25001000  0.96085000  1.0
+  Cu  Cu10  2  0.20230000  0.50000000  0.13069000  1.0
+  Cu  Cu11  2  0.22948000  0.00000000  0.11408000  1.0
+  Cu  Cu12  2  0.24999000  0.50000000  0.96085000  1.0
+  Cu  Cu13  2  0.25001000  0.00000000  0.96085000  1.0
+  Si  Si14  1  0.50000000  0.00000000  0.04261000  1.0
+  Si  Si15  1  0.50000000  0.00000000  0.88255000  1.0
+  Si  Si16  1  0.50000000  0.50000000  0.03349000  1.0
+  Si  Si17  1  0.50000000  0.50000000  0.88255000  1.0
+  C  C18  1  0.50000000  0.50000000  0.10290000  1.0

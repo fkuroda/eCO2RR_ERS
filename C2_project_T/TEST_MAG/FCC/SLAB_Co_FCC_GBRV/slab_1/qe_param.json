@@ -1,0 +1,33 @@
+{
+    "CONTROL": {
+        "calculation": "scf",
+        "prefix": "scf",
+        "pseudo_dir": "/home/z44530w/QE_CAL/POT_KKJUS",
+        "outdir": "./data",
+        "tprnfor": ".true.",
+        "disk_io": "non"
+    },
+    "SYSTEM": {
+        "ibrav": 0 ,
+        "ecutwfc": 50.0,
+        "ecutrho": 400,
+        "occupations": "smearing",
+        "smearing": "mp" ,
+        "degauss": 0.01 ,
+        "input_dft": "BEEF-VDW",
+        "nspin": 1,
+        "ntyp": 1,
+        "nat": 1
+    },
+    "ELECTRONS": {
+        "electron_maxstep": 200,
+        "mixing_beta": 0.1,
+        "conv_thr": 1e-06
+    },
+    "IONS": {
+        "ion_dynamics": "bfgs",
+        "upscale": 1.0
+    },
+    "CELL": {}
+}
+

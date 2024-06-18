@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Mg8Au8CO
+_chemical_formula_sum              "Mg8 Au8 C1 O1"
+_cell_length_a       6.67495
+_cell_length_b       6.67495
+_cell_length_c       25.0062
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.00000  0.00000  0.92594  1.0000
+  Mg  Mg2       1.0  0.99951  0.99957  0.06155  1.0000
+  Mg  Mg3       1.0  0.00000  0.50000  0.92594  1.0000
+  Mg  Mg4       1.0  0.00327  0.49890  0.06311  1.0000
+  Mg  Mg5       1.0  0.50000  0.00000  0.92594  1.0000
+  Mg  Mg6       1.0  0.49898  0.00331  0.06311  1.0000
+  Mg  Mg7       1.0  0.50000  0.50000  0.92594  1.0000
+  Mg  Mg8       1.0  0.49897  0.49891  0.06396  1.0000
+  Au  Au1       1.0  0.25000  0.25000  0.99267  1.0000
+  Au  Au2       1.0  0.23487  0.23484  0.12804  1.0000
+  Au  Au3       1.0  0.25000  0.75000  0.99267  1.0000
+  Au  Au4       1.0  0.24944  0.75646  0.12349  1.0000
+  Au  Au5       1.0  0.75000  0.25000  0.99267  1.0000
+  Au  Au6       1.0  0.75650  0.24947  0.12348  1.0000
+  Au  Au7       1.0  0.75000  0.75000  0.99267  1.0000
+  Au  Au8       1.0  0.74983  0.74979  0.12236  1.0000
+  C   C1        1.0  0.28479  0.28481  0.22275  1.0000
+  O   O1        1.0  0.21889  0.21899  0.26113  1.0000

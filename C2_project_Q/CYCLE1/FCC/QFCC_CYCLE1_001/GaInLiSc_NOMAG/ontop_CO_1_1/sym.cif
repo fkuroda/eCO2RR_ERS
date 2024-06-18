@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Li8Sc8In8Ga8CO
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   8.37318000
+_cell_length_b   8.86716000
+_cell_length_c   26.17340000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Li8Sc8In8Ga8CO
+_chemical_formula_sum   'Li8 Sc8 In8 Ga8 C1 O1'
+_cell_volume   1943.27880905
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.00000000  0.25000000  0.03931000  1.0
+  Li  Li1  2  0.00000000  0.25000000  0.88207000  1.0
+  Li  Li2  2  0.50000000  0.25000000  0.03931000  1.0
+  Li  Li3  2  0.50000000  0.25000000  0.88207000  1.0
+  Sc  Sc4  1  0.00000000  0.00000000  0.11793000  1.0
+  Sc  Sc5  1  0.00000000  0.00000000  0.96069000  1.0
+  Sc  Sc6  1  0.00000000  0.50000000  0.11793000  1.0
+  Sc  Sc7  1  0.00000000  0.50000000  0.96069000  1.0
+  Sc  Sc8  1  0.50000000  0.00000000  0.11793000  1.0
+  Sc  Sc9  1  0.50000000  0.00000000  0.96069000  1.0
+  Sc  Sc10  1  0.50000000  0.50000000  0.11793000  1.0
+  Sc  Sc11  1  0.50000000  0.50000000  0.96069000  1.0
+  In  In12  4  0.25000000  0.25000000  0.11793000  1.0
+  In  In13  4  0.25000000  0.25000000  0.96069000  1.0
+  Ga  Ga14  2  0.25000000  0.00000000  0.03931000  1.0
+  Ga  Ga15  2  0.25000000  0.00000000  0.88207000  1.0
+  Ga  Ga16  2  0.25000000  0.50000000  0.03931000  1.0
+  Ga  Ga17  2  0.25000000  0.50000000  0.88207000  1.0
+  C  C18  1  0.00000000  0.00000000  0.19053000  1.0
+  O  O19  1  0.00000000  0.00000000  0.23446000  1.0

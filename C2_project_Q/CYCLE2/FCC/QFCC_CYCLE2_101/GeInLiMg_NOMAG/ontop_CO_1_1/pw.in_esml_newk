@@ -1,0 +1,72 @@
+&CONTROL
+calculation = 'relax'
+prefix = 'scf'
+pseudo_dir = '/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV'
+outdir = './data'
+tprnfor = .true.
+nstep = 50
+disk_io = 'non'
+/
+&SYSTEM
+ibrav = 0
+ecutwfc = 50.0
+ecutrho = 400
+occupations = 'smearing'
+smearing = 'mp'
+degauss = 0.01
+assume_isolated = 'esm'
+esm_bc = 'bc1'
+input_dft = 'BEEF-VDW'
+nosym = .true.
+nspin = 1
+ntyp = 6
+nat = 18
+/
+&ELECTRONS
+electron_maxstep = 200
+mixing_beta = 0.1
+conv_thr = 1e-06
+/
+&IONS
+ion_dynamics = 'bfgs'
+upscale = 1.0
+/
+&CELL
+/
+
+K_POINTS {automatic}
+6 6 1 0 0 0
+
+ATOMIC_SPECIES
+C 12.01 C.pbe-n-rrkjus_psl.1.0.0.UPF
+Ge 72.64 Ge.pbe-dn-rrkjus_psl.1.0.0.UPF
+In 114.8 In.pbe-dn-rrkjus_psl.1.0.0.UPF
+Li 6.941 Li.pbe-sl-rrkjus_psl.1.0.0.UPF
+Mg 24.30 Mg.pbe-spnl-rrkjus_psl.1.0.0.UPF
+O 15.99 O.pbe-n-rrkjus_psl.1.0.0.UPF
+
+
+CELL_PARAMETERS {angstrom}
+6.07136000 0.00000000 0.00000000
+0.00000000 8.40992000 0.00000000
+0.00000000 0.00000000 24.55010000
+
+ATOMIC_POSITIONS {angstrom}
+Li 4.49480995 2.10248000 -0.7583525900000012 0 0 0
+Li 1.21894695 2.10248000 2.21196401
+Li 4.49480995 6.30744000 -0.7583525900000012 0 0 0
+Li 1.24572164 6.30744000 2.20067096
+Mg 1.45912995 2.10248000 -0.7583525900000012 0 0 0
+Mg 4.10490721 2.10248000 2.11597312
+Mg 1.45912995 6.30744000 -0.7583525900000012 0 0 0
+Mg 4.13089263 6.30744000 2.15402577
+In 3.03568000 0.00000000 -2.27505777 0 0 0
+In 5.85327675 8.40176238 0.74926905
+In 3.03568000 4.20496000 -2.27505777 0 0 0
+In 5.85321604 4.21303352 0.74902355
+Ge 0.00000000 0.00000000 -2.27505777 0 0 0
+Ge 2.72349067 8.40336026 0.94935237
+Ge 0.00000000 4.20496000 -2.27505777 0 0 0
+Ge 2.72349067 4.21143564 0.94935237
+C 1.28488192 2.10256410 4.25084982
+O 1.36975953 2.10256410 5.39488448

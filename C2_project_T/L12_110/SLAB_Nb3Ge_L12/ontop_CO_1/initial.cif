@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Nb12Ge4CO
+_chemical_formula_sum              "Nb12 Ge4 C1 O1"
+_cell_length_a       8.21286
+_cell_length_b       5.80737
+_cell_length_c       24.3555
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.00000  0.50000  0.91058  1.0000
+  Nb  Nb2       1.0  0.25000  0.75000  0.97019  1.0000
+  Nb  Nb3       1.0  0.25000  0.25000  0.97019  1.0000
+  Nb  Nb4       1.0  0.99228  0.94448  0.02986  1.0000
+  Nb  Nb5       1.0  0.25001  0.16989  0.08324  1.0000
+  Nb  Nb6       1.0  0.25001  0.64851  0.08430  1.0000
+  Nb  Nb7       1.0  0.50000  0.50000  0.91058  1.0000
+  Nb  Nb8       1.0  0.75000  0.75000  0.97019  1.0000
+  Nb  Nb9       1.0  0.75000  0.25000  0.97019  1.0000
+  Nb  Nb10      1.0  0.50773  0.94447  0.02986  1.0000
+  Nb  Nb11      1.0  0.75000  0.18571  0.08643  1.0000
+  Nb  Nb12      1.0  0.75000  0.63144  0.08019  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.91058  1.0000
+  Ge  Ge2       1.0  0.00282  0.45708  0.02652  1.0000
+  Ge  Ge3       1.0  0.50000  0.00000  0.91058  1.0000
+  Ge  Ge4       1.0  0.49718  0.45706  0.02653  1.0000
+  C   C1        1.0  0.25000  0.32192  0.16192  1.0000
+  O   O1        1.0  0.24999  0.36412  0.20897  1.0000

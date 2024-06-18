@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li4Mn4Ge4Pd4CO
+_chemical_formula_sum              "Li4 Mn4 Ge4 Pd4 C1 O1"
+_cell_length_a       6.14713
+_cell_length_b       6.14713
+_cell_length_c       24.6104
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00001  0.50000  0.10637  1.0000
+  Li  Li2       1.0  0.00000  0.00000  0.96878  1.0000
+  Li  Li3       1.0  0.50000  0.50000  0.96878  1.0000
+  Li  Li4       1.0  0.50001  0.00002  0.10481  1.0000
+  Mn  Mn1       1.0  0.24985  0.25014  0.03286  1.0000
+  Mn  Mn2       1.0  0.25000  0.75000  0.90633  1.0000
+  Mn  Mn3       1.0  0.75000  0.25000  0.90633  1.0000
+  Mn  Mn4       1.0  0.75015  0.74987  0.03288  1.0000
+  Ge  Ge1       1.0  0.99994  0.99994  0.08766  1.0000
+  Ge  Ge2       1.0  0.00000  0.50000  0.96878  1.0000
+  Ge  Ge3       1.0  0.50000  0.00000  0.96878  1.0000
+  Ge  Ge4       1.0  0.50005  0.49998  0.08769  1.0000
+  Pd  Pd1       1.0  0.75041  0.25042  0.03033  1.0000
+  Pd  Pd2       1.0  0.75000  0.75000  0.90633  1.0000
+  Pd  Pd3       1.0  0.25000  0.25000  0.90633  1.0000
+  Pd  Pd4       1.0  0.24959  0.74959  0.03033  1.0000
+  C   C1        1.0  0.00000  0.50000  0.19243  1.0000
+  O   O1        1.0  0.99999  0.50001  0.23867  1.0000

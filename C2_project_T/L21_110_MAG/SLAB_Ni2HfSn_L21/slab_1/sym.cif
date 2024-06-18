@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_HfNi2Sn
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   4.45065000
+_cell_length_b   6.29417000
+_cell_length_c   26.67600000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   HfNi2Sn
+_chemical_formula_sum   'Hf4 Ni8 Sn4'
+_cell_volume   747.27872833
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  0.12513000  1.0
+  Hf  Hf1  1  0.00000000  0.00000000  0.95731000  1.0
+  Hf  Hf2  1  0.50000000  0.50000000  0.04171000  1.0
+  Hf  Hf3  1  0.50000000  0.50000000  0.87555500  1.0
+  Ni  Ni4  2  0.00000000  0.25000000  0.04171000  1.0
+  Ni  Ni5  2  0.00000000  0.26214000  0.87996000  1.0
+  Ni  Ni6  2  0.50000000  0.24943000  0.95557500  1.0
+  Ni  Ni7  2  0.50000000  0.25000000  0.12513000  1.0
+  Sn  Sn8  1  0.00000000  0.50000000  0.12513000  1.0
+  Sn  Sn9  1  0.00000000  0.50000000  0.96033000  1.0
+  Sn  Sn10  1  0.50000000  0.00000000  0.04171000  1.0
+  Sn  Sn11  1  0.50000000  0.00000000  0.86710000  1.0

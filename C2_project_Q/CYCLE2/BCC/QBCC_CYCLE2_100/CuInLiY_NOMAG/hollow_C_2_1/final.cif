@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Li4Y4In4Cu4C
+_chemical_formula_sum              "Li4 Y4 In4 Cu4 C1"
+_cell_length_a       6.68415
+_cell_length_b       6.68415
+_cell_length_c       25.0131
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.02808  0.47271  0.13468  1.0000
+  Li  Li2       1.0  0.00000  0.00000  0.96660  1.0000
+  Li  Li3       1.0  0.50000  0.50000  0.96660  1.0000
+  Li  Li4       1.0  0.47271  0.02808  0.13468  1.0000
+  Y   Y1        1.0  0.75026  0.24973  0.03839  1.0000
+  Y   Y2        1.0  0.75000  0.75000  0.89979  1.0000
+  Y   Y3        1.0  0.25000  0.25000  0.89979  1.0000
+  Y   Y4        1.0  0.24973  0.75026  0.03839  1.0000
+  In  In1       1.0  0.25034  0.25034  0.02412  1.0000
+  In  In2       1.0  0.25000  0.75000  0.89979  1.0000
+  In  In3       1.0  0.75000  0.25000  0.89979  1.0000
+  In  In4       1.0  0.74976  0.74976  0.05541  1.0000
+  Cu  Cu1       1.0  0.05451  0.05452  0.10490  1.0000
+  Cu  Cu2       1.0  0.00000  0.50000  0.96660  1.0000
+  Cu  Cu3       1.0  0.50000  0.00000  0.96660  1.0000
+  Cu  Cu4       1.0  0.44775  0.44775  0.10459  1.0000
+  C   C1        1.0  0.25140  0.25140  0.12240  1.0000

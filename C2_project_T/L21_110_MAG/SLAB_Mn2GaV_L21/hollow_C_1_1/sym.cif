@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Mn16V8Ga8C
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   5.83886000
+_cell_length_b   8.25739000
+_cell_length_c   26.19300000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Mn16V8Ga8C
+_chemical_formula_sum   'Mn16 V8 Ga8 C1'
+_cell_volume   1262.86260119
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  4  0.24609000  0.24816000  0.04209000  1.0
+  Mn  Mn1  4  0.25000000  0.25000000  0.88178000  1.0
+  Mn  Mn2  2  0.24921000  0.50000000  0.12048000  1.0
+  Mn  Mn3  2  0.25000000  0.00000000  0.96059000  1.0
+  Mn  Mn4  2  0.25000000  0.50000000  0.96059000  1.0
+  Mn  Mn5  2  0.25232000  0.00000000  0.11859000  1.0
+  V  V6  2  0.50000000  0.24500000  0.11621000  1.0
+  V  V7  2  0.50000000  0.25000000  0.96059000  1.0
+  V  V8  1  0.00000000  0.00000000  0.03840000  1.0
+  V  V9  1  0.00000000  0.00000000  0.88178000  1.0
+  V  V10  1  0.00000000  0.50000000  0.03952000  1.0
+  V  V11  1  0.00000000  0.50000000  0.88178000  1.0
+  Ga  Ga12  2  0.00000000  0.25000000  0.96059000  1.0
+  Ga  Ga13  2  0.00000000  0.25420000  0.13144000  1.0
+  Ga  Ga14  1  0.50000000  0.00000000  0.03853000  1.0
+  Ga  Ga15  1  0.50000000  0.00000000  0.88178000  1.0
+  Ga  Ga16  1  0.50000000  0.50000000  0.04034000  1.0
+  Ga  Ga17  1  0.50000000  0.50000000  0.88178000  1.0
+  C  C18  1  0.00000000  0.00000000  0.15830000  1.0

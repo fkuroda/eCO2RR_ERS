@@ -1,0 +1,73 @@
+&CONTROL
+calculation = 'relax'
+prefix = 'scf'
+pseudo_dir = '/vol0004/mdt0/data/hp150275/u10028/POT_KKJUS'
+outdir = './data'
+tprnfor = .true.
+nstep = 50
+disk_io = 'non'
+/
+&SYSTEM
+ibrav = 0
+ecutwfc = 50.0
+ecutrho = 400
+occupations = 'smearing'
+smearing = 'mp'
+degauss = 0.01
+assume_isolated = 'esm'
+esm_bc = 'bc1'
+input_dft = 'BEEF-VDW'
+nosym = .true.
+nspin = 2
+ntyp = 4
+nat = 18
+starting_magnetization(1) = 0.0
+starting_magnetization(2) = 0.001
+starting_magnetization(3) = 0.0
+starting_magnetization(4) = 0.0
+/
+&ELECTRONS
+electron_maxstep = 200
+mixing_beta = 0.1
+conv_thr = 1e-06
+/
+&IONS
+ion_dynamics = 'bfgs'
+upscale = 1.0
+/
+&CELL
+/
+
+K_POINTS {automatic}
+10 10 2 0  0  0
+
+ATOMIC_SPECIES
+C 12.01 C.pbe-n-rrkjus_psl.1.0.0.UPF
+Ni 58.69 ni_pbe_v1.4.uspp.F.UPF
+O 15.99 O.pbe-n-rrkjus_psl.1.0.0.UPF
+Sn 118.7 Sn.pbe-dn-rrkjus_psl.1.0.0.UPF
+
+CELL_PARAMETERS {angstrom}
+6.01786000 0.00000000 0.00000000
+0.00000000 6.01786000 0.00000000
+0.00000000 0.00000000 24.51340000
+
+ATOMIC_POSITIONS {angstrom}
+Ni 1.50446500 1.50446500 23.76108375
+Ni 4.50033624 4.50099821 2.12089937
+Ni 4.51339500 1.50446500 23.76108375
+Ni 1.51800518 4.49955392 2.11624182
+Ni 4.51339500 4.51339500 23.76108375
+Ni 1.51595911 1.51704233 2.21674676
+Ni 1.50446500 4.51339500 23.76108375
+Ni 4.50075749 1.51626001 2.12457638
+Ni 6.01292535 6.01406875 0.75476759
+Ni 3.00893000 0.00000000 22.25669640
+Ni 0.00000000 3.00893000 22.25669640
+Ni 3.01440625 3.01121679 0.73662767
+Sn 0.00000000 0.00000000 22.25669640
+Sn 3.00893000 3.00893000 22.25669640
+Sn 3.01103625 6.01779982 0.72780285
+Sn 6.01467053 3.00893000 0.72780285
+C 1.50229857 1.50338179 3.98587884
+O 1.49856750 1.49892857 5.13996971

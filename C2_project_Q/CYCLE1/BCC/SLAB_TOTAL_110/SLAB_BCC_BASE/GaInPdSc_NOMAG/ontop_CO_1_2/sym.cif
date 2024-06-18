@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Sc8In8Ga8Pd8CO
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   6.68246000
+_cell_length_b   9.45042000
+_cell_length_c   27.08780000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Sc8In8Ga8Pd8CO
+_chemical_formula_sum   'Sc8 In8 Ga8 Pd8 C1 O1'
+_cell_volume   1710.65019841
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  2  0.74771000  0.23106000  0.12960000  1.0
+  Sc  Sc1  2  0.75000000  0.25000000  0.95639000  1.0
+  Sc  Sc2  1  0.25000000  0.00000000  0.86917000  1.0
+  Sc  Sc3  1  0.25000000  0.50000000  0.86917000  1.0
+  Sc  Sc4  1  0.25370000  0.50000000  0.04632000  1.0
+  Sc  Sc5  1  0.25540000  0.00000000  0.04439000  1.0
+  In  In6  2  0.25000000  0.25000000  0.95639000  1.0
+  In  In7  2  0.26113000  0.27252000  0.13780000  1.0
+  In  In8  1  0.73654000  0.50000000  0.04379000  1.0
+  In  In9  1  0.75000000  0.00000000  0.86917000  1.0
+  In  In10  1  0.75000000  0.50000000  0.86917000  1.0
+  In  In11  1  0.75335000  0.00000000  0.04686000  1.0
+  Ga  Ga12  2  0.00000000  0.25000000  0.86917000  1.0
+  Ga  Ga13  2  0.01052000  0.25126000  0.04600000  1.0
+  Ga  Ga14  1  0.45889000  0.00000000  0.14377000  1.0
+  Ga  Ga15  1  0.50000000  0.00000000  0.95639000  1.0
+  Ga  Ga16  1  0.50000000  0.50000000  0.95639000  1.0
+  Ga  Ga17  1  0.55724000  0.50000000  0.14960000  1.0
+  Pd  Pd18  2  0.49498000  0.24738000  0.04399000  1.0
+  Pd  Pd19  2  0.50000000  0.25000000  0.86917000  1.0
+  Pd  Pd20  1  0.00000000  0.00000000  0.95639000  1.0
+  Pd  Pd21  1  0.00000000  0.50000000  0.95639000  1.0
+  Pd  Pd22  1  0.03234000  0.00000000  0.13614000  1.0
+  Pd  Pd23  1  0.96993000  0.50000000  0.12721000  1.0
+  C  C24  1  0.95577000  0.00000000  0.20653000  1.0
+  O  O25  1  0.95440000  0.00000000  0.24921000  1.0

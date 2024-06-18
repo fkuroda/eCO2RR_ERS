@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Nb4Ir12CO
+_chemical_formula_sum              "Nb4 Ir12 C1 O1"
+_cell_length_a       7.87138
+_cell_length_b       5.5659
+_cell_length_c       24.1744
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.00000  0.00000  0.91366  1.0000
+  Nb  Nb2       1.0  0.00020  0.49966  0.03275  1.0000
+  Nb  Nb3       1.0  0.50000  0.00000  0.91366  1.0000
+  Nb  Nb4       1.0  0.49980  0.49966  0.03275  1.0000
+  Ir  Ir1       1.0  0.00000  0.50000  0.91366  1.0000
+  Ir  Ir2       1.0  0.25000  0.75000  0.97122  1.0000
+  Ir  Ir3       1.0  0.25000  0.25000  0.97122  1.0000
+  Ir  Ir4       1.0  0.99941  0.99936  0.02323  1.0000
+  Ir  Ir5       1.0  0.25000  0.24276  0.08498  1.0000
+  Ir  Ir6       1.0  0.25000  0.74369  0.08109  1.0000
+  Ir  Ir7       1.0  0.50000  0.50000  0.91366  1.0000
+  Ir  Ir8       1.0  0.75000  0.75000  0.97122  1.0000
+  Ir  Ir9       1.0  0.75000  0.25000  0.97122  1.0000
+  Ir  Ir10      1.0  0.50059  0.99936  0.02323  1.0000
+  Ir  Ir11      1.0  0.75000  0.25631  0.08152  1.0000
+  Ir  Ir12      1.0  0.75000  0.74514  0.08159  1.0000
+  C   C1        1.0  0.25000  0.24922  0.16257  1.0000
+  O   O1        1.0  0.25000  0.25478  0.21054  1.0000

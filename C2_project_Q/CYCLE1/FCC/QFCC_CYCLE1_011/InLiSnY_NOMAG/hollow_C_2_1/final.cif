@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Li4Y4In4Sn4C
+_chemical_formula_sum              "Li4 Y4 In4 Sn4 C1"
+_cell_length_a       6.33264
+_cell_length_b       9.36656
+_cell_length_c       24.7486
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.57332  0.98698  0.09439  1.0000
+  Li  Li2       1.0  0.99032  0.00000  0.96802  1.0000
+  Li  Li3       1.0  0.57332  0.51301  0.09439  1.0000
+  Li  Li4       1.0  0.99032  0.50000  0.96802  1.0000
+  Y   Y1        1.0  0.27816  0.25000  0.03287  1.0000
+  Y   Y2        1.0  0.73548  0.25000  0.90406  1.0000
+  Y   Y3        1.0  0.24047  0.75000  0.03811  1.0000
+  Y   Y4        1.0  0.73548  0.75000  0.90406  1.0000
+  In  In1       1.0  0.08943  0.01034  0.11351  1.0000
+  In  In2       1.0  0.49032  0.00000  0.96802  1.0000
+  In  In3       1.0  0.08943  0.48967  0.11351  1.0000
+  In  In4       1.0  0.49032  0.50000  0.96802  1.0000
+  Sn  Sn1       1.0  0.76322  0.25000  0.04216  1.0000
+  Sn  Sn2       1.0  0.23548  0.25000  0.90406  1.0000
+  Sn  Sn3       1.0  0.75366  0.75000  0.03828  1.0000
+  Sn  Sn4       1.0  0.23548  0.75000  0.90406  1.0000
+  C   C1        1.0  0.03672  0.25000  0.10085  1.0000

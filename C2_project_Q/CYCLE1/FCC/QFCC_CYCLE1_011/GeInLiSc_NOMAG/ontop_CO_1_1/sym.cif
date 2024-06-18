@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li4Sc4In4Ge4CO
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   5.77954000
+_cell_length_b   8.97372000
+_cell_length_c   24.33440000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Li4Sc4In4Ge4CO
+_chemical_formula_sum   'Li4 Sc4 In4 Ge4 C1 O1'
+_cell_volume   1262.07868133
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.24712000  0.00000000  0.97031000  1.0
+  Li  Li1  1  0.24712000  0.50000000  0.97031000  1.0
+  Li  Li2  1  0.69504000  0.00000000  0.09783000  1.0
+  Li  Li3  1  0.69570000  0.50000000  0.09438000  1.0
+  Sc  Sc4  2  0.50000000  0.24998000  0.91094000  1.0
+  Sc  Sc5  2  0.98147000  0.25010000  0.02863000  1.0
+  In  In6  1  0.19539000  0.50000000  0.09491000  1.0
+  In  In7  1  0.19965000  0.00000000  0.09498000  1.0
+  In  In8  1  0.74712000  0.00000000  0.97031000  1.0
+  In  In9  1  0.74712000  0.50000000  0.97031000  1.0
+  Ge  Ge10  2  0.00000000  0.24998000  0.91094000  1.0
+  Ge  Ge11  2  0.47289000  0.25162000  0.04199000  1.0
+  C  C12  1  0.70895000  0.00000000  0.18365000  1.0
+  O  O13  1  0.73246000  0.00000000  0.23025000  1.0

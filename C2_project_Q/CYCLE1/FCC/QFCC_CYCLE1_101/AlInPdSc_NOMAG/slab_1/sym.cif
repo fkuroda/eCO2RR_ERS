@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ScAlInPd
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   5.97945000
+_cell_length_b   4.16850000
+_cell_length_c   24.48170000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   ScAlInPd
+_chemical_formula_sum   'Sc2 Al2 In2 Pd2'
+_cell_volume   610.21463079
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.02338500  0.00000000  0.96456000  1.0
+  Sc  Sc1  1  0.50000000  0.00000000  0.09153000  1.0
+  Al  Al2  1  0.00000000  0.00000000  0.09153000  1.0
+  Al  Al3  1  0.51428000  0.00000000  0.96688000  1.0
+  In  In4  1  0.29324000  0.50000000  0.89760500  1.0
+  In  In5  1  0.75902000  0.50000000  0.03051000  1.0
+  Pd  Pd6  1  0.25902000  0.50000000  0.03051000  1.0
+  Pd  Pd7  1  0.77638500  0.50000000  0.91656000  1.0

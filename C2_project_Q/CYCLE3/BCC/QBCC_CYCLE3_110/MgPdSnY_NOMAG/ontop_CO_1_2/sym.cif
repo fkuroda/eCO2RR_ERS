@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Y8Mg8Sn8Pd8CO
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   7.00634000
+_cell_length_b   9.90846000
+_cell_length_c   27.43130000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Y8Mg8Sn8Pd8CO
+_chemical_formula_sum   'Y8 Mg8 Sn8 Pd8 C1 O1'
+_cell_volume   1904.33679588
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  2  0.49110000  0.25589000  0.04836000  1.0
+  Y  Y1  2  0.50000000  0.25001000  0.86455000  1.0
+  Y  Y2  1  -0.00000000  0.50000000  0.95485000  1.0
+  Y  Y3  1  -0.00000000  0.00000000  0.95485000  1.0
+  Y  Y4  1  0.02068000  0.50000000  0.14215000  1.0
+  Y  Y5  1  0.02217000  0.00000000  0.13759000  1.0
+  Mg  Mg6  2  0.00000000  0.24999000  0.86455000  1.0
+  Mg  Mg7  2  0.01308000  0.24628000  0.05031000  1.0
+  Mg  Mg8  1  0.50000000  0.00000000  0.95485000  1.0
+  Mg  Mg9  1  0.50000000  0.50000000  0.95485000  1.0
+  Mg  Mg10  1  0.50752000  0.50000000  0.13725000  1.0
+  Mg  Mg11  1  0.51418000  0.00000000  0.13790000  1.0
+  Sn  Sn12  2  0.25000000  0.24999000  0.95485000  1.0
+  Sn  Sn13  2  0.28834000  0.24935000  0.15566000  1.0
+  Sn  Sn14  1  0.74861000  0.00000000  0.04787000  1.0
+  Sn  Sn15  1  0.75000000  0.00000000  0.86455000  1.0
+  Sn  Sn16  1  0.75000000  0.50000000  0.86455000  1.0
+  Sn  Sn17  1  0.76930000  0.50000000  0.05035000  1.0
+  Pd  Pd18  2  0.74476000  0.25396000  0.12649000  1.0
+  Pd  Pd19  2  0.75000000  0.24999000  0.95485000  1.0
+  Pd  Pd20  1  0.21740000  0.50000000  0.04897000  1.0
+  Pd  Pd21  1  0.25000000  0.00000000  0.86455000  1.0
+  Pd  Pd22  1  0.25000000  0.50000000  0.86455000  1.0
+  Pd  Pd23  1  0.25806000  0.00000000  0.04234000  1.0
+  C  C24  1  0.00357000  0.00000000  0.22775000  1.0
+  O  O25  1  0.99546000  0.00000000  0.26954000  1.0

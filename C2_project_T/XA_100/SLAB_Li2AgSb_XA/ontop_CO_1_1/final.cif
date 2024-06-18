@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li8Ag4Sb4CO
+_chemical_formula_sum              "Li8 Ag4 Sb4 C1 O1"
+_cell_length_a       6.69979
+_cell_length_b       6.69979
+_cell_length_c       25.0248
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00937  0.00943  0.02676  1.0000
+  Li  Li2       1.0  0.50000  0.00000  0.89960  1.0000
+  Li  Li3       1.0  0.00000  0.50000  0.89960  1.0000
+  Li  Li4       1.0  0.49030  0.49023  0.02784  1.0000
+  Li  Li5       1.0  0.25000  0.25000  0.96653  1.0000
+  Li  Li6       1.0  0.25018  0.75058  0.10379  1.0000
+  Li  Li7       1.0  0.75000  0.75000  0.96653  1.0000
+  Li  Li8       1.0  0.75057  0.25017  0.10381  1.0000
+  Ag  Ag1       1.0  0.25036  0.25033  0.11096  1.0000
+  Ag  Ag2       1.0  0.25000  0.75000  0.96653  1.0000
+  Ag  Ag3       1.0  0.74970  0.74969  0.09102  1.0000
+  Ag  Ag4       1.0  0.75000  0.25000  0.96653  1.0000
+  Sb  Sb1       1.0  0.00000  0.00000  0.89960  1.0000
+  Sb  Sb2       1.0  0.50000  0.50000  0.89960  1.0000
+  Sb  Sb3       1.0  0.48860  0.01188  0.04523  1.0000
+  Sb  Sb4       1.0  0.01187  0.48857  0.04524  1.0000
+  C   C1        1.0  0.25169  0.25169  0.19670  1.0000
+  O   O1        1.0  0.25077  0.25076  0.24262  1.0000

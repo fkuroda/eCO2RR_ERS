@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li4Al4Ni4Pd4CO
+_chemical_formula_sum              "Li4 Al4 Ni4 Pd4 C1 O1"
+_cell_length_a       5.9124
+_cell_length_b       5.9124
+_cell_length_c       24.4343
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.50000  0.90926  1.0000
+  Li  Li2       1.0  0.00392  0.99607  0.03325  1.0000
+  Li  Li3       1.0  0.49606  0.50393  0.03325  1.0000
+  Li  Li4       1.0  0.50000  0.00000  0.90926  1.0000
+  Al  Al1       1.0  0.00000  0.00000  0.90926  1.0000
+  Al  Al2       1.0  0.00377  0.50377  0.03262  1.0000
+  Al  Al3       1.0  0.49622  0.99624  0.03262  1.0000
+  Al  Al4       1.0  0.50000  0.50000  0.90926  1.0000
+  Ni  Ni1       1.0  0.25000  0.25000  0.96975  1.0000
+  Ni  Ni2       1.0  0.24988  0.74986  0.08875  1.0000
+  Ni  Ni3       1.0  0.75023  0.25016  0.08732  1.0000
+  Ni  Ni4       1.0  0.75000  0.75000  0.96975  1.0000
+  Pd  Pd1       1.0  0.75000  0.25000  0.96975  1.0000
+  Pd  Pd2       1.0  0.74988  0.74988  0.09092  1.0000
+  Pd  Pd3       1.0  0.25012  0.25006  0.09091  1.0000
+  Pd  Pd4       1.0  0.25000  0.75000  0.96975  1.0000
+  C   C1        1.0  0.75000  0.25001  0.15970  1.0000
+  O   O1        1.0  0.75000  0.25000  0.20695  1.0000

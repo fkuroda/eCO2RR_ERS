@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ti8In8Cu16CO
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   6.30953000
+_cell_length_b   8.92302000
+_cell_length_c   26.69230000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Ti8In8Cu16CO
+_chemical_formula_sum   'Ti8 In8 Cu16 C1 O1'
+_cell_volume   1502.77815508
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  2  0.00000000  0.24954000  0.04396000  1.0
+  Ti  Ti1  2  0.00000000  0.25000000  0.87464000  1.0
+  Ti  Ti2  1  0.50000000  0.00000000  0.12127000  1.0
+  Ti  Ti3  1  0.50000000  0.00000000  0.95821000  1.0
+  Ti  Ti4  1  0.50000000  0.50000000  0.12057000  1.0
+  Ti  Ti5  1  0.50000000  0.50000000  0.95821000  1.0
+  In  In6  2  0.50000000  0.25000000  0.87464000  1.0
+  In  In7  2  0.50000000  0.25005000  0.03987000  1.0
+  In  In8  1  0.00000000  0.00000000  0.13349000  1.0
+  In  In9  1  0.00000000  0.00000000  0.95821000  1.0
+  In  In10  1  0.00000000  0.50000000  0.13536000  1.0
+  In  In11  1  0.00000000  0.50000000  0.95821000  1.0
+  Cu  Cu12  4  0.25000000  0.25000000  0.95821000  1.0
+  Cu  Cu13  4  0.27085000  0.25046000  0.12622000  1.0
+  Cu  Cu14  2  0.23812000  0.50000000  0.04373000  1.0
+  Cu  Cu15  2  0.23873000  0.00000000  0.04258000  1.0
+  Cu  Cu16  2  0.25000000  0.00000000  0.87464000  1.0
+  Cu  Cu17  2  0.25000000  0.50000000  0.87464000  1.0
+  C  C18  1  0.50000000  0.00000000  0.19953000  1.0
+  O  O19  1  0.50000000  0.00000000  0.24282000  1.0

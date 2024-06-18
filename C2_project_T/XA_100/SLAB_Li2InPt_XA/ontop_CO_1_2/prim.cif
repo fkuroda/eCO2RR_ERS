@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li8In4Pt4CO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43375000
+_cell_length_b   6.43375000
+_cell_length_c   24.82530000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li8In4Pt4CO
+_chemical_formula_sum   'Li8 In4 Pt4 C1 O1'
+_cell_volume   1027.59709517
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00405000  0.99385000  0.02804000  1.0
+  Li  Li1  1  0.50000000  0.00000000  0.90281000  1.0
+  Li  Li2  1  0.00000000  0.50000000  0.90281000  1.0
+  Li  Li3  1  0.49636000  0.50456000  0.02898000  1.0
+  Li  Li4  1  0.24737000  0.24967000  0.09758000  1.0
+  Li  Li5  1  0.25000000  0.75000000  0.96760000  1.0
+  Li  Li6  1  0.75047000  0.75054000  0.09821000  1.0
+  Li  Li7  1  0.75000000  0.25000000  0.96760000  1.0
+  In  In8  1  0.25000000  0.25000000  0.96760000  1.0
+  In  In9  1  0.24973000  0.75161000  0.09870000  1.0
+  In  In10  1  0.75000000  0.75000000  0.96760000  1.0
+  In  In11  1  0.75293000  0.24808000  0.09406000  1.0
+  Pt  Pt12  1  0.00000000  0.00000000  0.90281000  1.0
+  Pt  Pt13  1  0.50000000  0.50000000  0.90281000  1.0
+  Pt  Pt14  1  0.49740000  0.99735000  0.03331000  1.0
+  Pt  Pt15  1  0.00284000  0.50362000  0.03332000  1.0
+  C  C16  1  0.74993000  0.26035000  0.24866000  1.0
+  O  O17  1  0.75051000  0.24500000  0.29423000  1.0

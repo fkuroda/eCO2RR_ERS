@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Mn8Fe16Si8C
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   5.59397000
+_cell_length_b   7.91107000
+_cell_length_c   25.93330000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Mn8Fe16Si8C
+_chemical_formula_sum   'Mn8 Fe16 Si8 C1'
+_cell_volume   1147.65973342
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  2  0.50000000  0.24979000  0.12145000  1.0
+  Mn  Mn1  2  0.50000000  0.25000000  0.96187000  1.0
+  Mn  Mn2  1  0.00000000  0.00000000  0.03650000  1.0
+  Mn  Mn3  1  0.00000000  0.00000000  0.88560000  1.0
+  Mn  Mn4  1  0.00000000  0.50000000  0.03781000  1.0
+  Mn  Mn5  1  0.00000000  0.50000000  0.88560000  1.0
+  Fe  Fe6  4  0.25000000  0.25000000  0.88560000  1.0
+  Fe  Fe7  4  0.25267000  0.24845000  0.03826000  1.0
+  Fe  Fe8  2  0.23972000  0.50000000  0.11421000  1.0
+  Fe  Fe9  2  0.24589000  0.00000000  0.11204000  1.0
+  Fe  Fe10  2  0.25000000  0.00000000  0.96187000  1.0
+  Fe  Fe11  2  0.25000000  0.50000000  0.96187000  1.0
+  Si  Si12  2  0.00000000  0.25000000  0.96187000  1.0
+  Si  Si13  2  0.00000000  0.25288000  0.11362000  1.0
+  Si  Si14  1  0.50000000  0.00000000  0.03547000  1.0
+  Si  Si15  1  0.50000000  0.00000000  0.88560000  1.0
+  Si  Si16  1  0.50000000  0.50000000  0.03972000  1.0
+  Si  Si17  1  0.50000000  0.50000000  0.88560000  1.0
+  C  C18  1  0.00000000  0.00000000  0.15458000  1.0

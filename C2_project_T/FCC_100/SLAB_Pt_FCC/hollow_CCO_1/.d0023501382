@@ -1,0 +1,26 @@
+#!/bin/sh
+#PJM -L "rscgrp=rscunit_ft01"
+#PJM -L "node=20"
+#PJM -L "rscgrp=small"
+#PJM -g hp230205
+#PJM -L "elapse=7:00:00"
+#PJM --mpi "max-proc-per-node=40"
+#PJM -S 
+
+export OMP_NUM_THREADS=1
+
+export FLIB_FASTOMP=off
+export FLIB_CNTL_BARRIER_ERR=off
+export PLE_MPI_STD_EMPTYFILE=off
+
+. /vol0004/apps/oss/spack/share/spack/setup-env.sh
+spack load quantum-espresso@7.1
+touch NOW_CALCULATING
+#cp /vol0004/mdt0/data/hp150275/u10028/Mg_Al/qe_param.json .
+#mpiexec  /vol0004/mdt0/data/hp150275/u10028/qe-6.6/bin/pw.x -npools 10 -in pw.in
+mpiexec pw.x -npools 20 -in pw.in
+#/vol0004/mdt0/data/hp150275/u10028/miniconda3/bin/python3 /vol0004/mdt0/data/hp150275/u10028/ICET_DATA/pwout_reader_ase_db_ver2.py pw.out ../TEST.db ${file} 6000 0.5 >> data
+rm -rf data/*
+rm *err*
+rm *stats*
+rm NOW_CALCULATING

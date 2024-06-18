@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_In16Ag16CO
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   7.14855000
+_cell_length_b   10.10960000
+_cell_length_c   27.58220000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   In16Ag16CO
+_chemical_formula_sum   'In16 Ag16 C1 O1'
+_cell_volume   1993.33748994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  2  0.00000000  0.23092000  0.04494000  1.0
+  In  In1  2  0.00000000  0.25000000  0.86255000  1.0
+  In  In2  2  0.50000000  0.25000000  0.86255000  1.0
+  In  In3  2  0.50000000  0.27046000  0.04373000  1.0
+  In  In4  1  0.00000000  0.00000000  0.14090000  1.0
+  In  In5  1  0.00000000  0.00000000  0.95418000  1.0
+  In  In6  1  0.00000000  0.50000000  0.15476000  1.0
+  In  In7  1  0.00000000  0.50000000  0.95418000  1.0
+  In  In8  1  0.50000000  0.00000000  0.15376000  1.0
+  In  In9  1  0.50000000  0.00000000  0.95418000  1.0
+  In  In10  1  0.50000000  0.50000000  0.14346000  1.0
+  In  In11  1  0.50000000  0.50000000  0.95418000  1.0
+  Ag  Ag12  4  0.25000000  0.25000000  0.95418000  1.0
+  Ag  Ag13  4  0.25393000  0.24961000  0.13104000  1.0
+  Ag  Ag14  2  0.21132000  0.50000000  0.05243000  1.0
+  Ag  Ag15  2  0.25000000  0.00000000  0.86255000  1.0
+  Ag  Ag16  2  0.25000000  0.50000000  0.86255000  1.0
+  Ag  Ag17  2  0.28869000  0.00000000  0.05062000  1.0
+  C  C18  1  0.00000000  0.00000000  0.28050000  1.0
+  O  O19  1  0.00000000  0.00000000  0.32164000  1.0

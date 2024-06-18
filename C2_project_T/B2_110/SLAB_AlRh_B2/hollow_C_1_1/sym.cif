@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Al16Rh16C
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   6.00621000
+_cell_length_b   8.49407000
+_cell_length_c   26.37050000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Al16Rh16C
+_chemical_formula_sum   'Al16 Rh16 C1'
+_cell_volume   1345.34823335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  2  0.00000000  0.25000000  0.95974000  1.0
+  Al  Al1  2  0.00000000  0.26457000  0.12505000  1.0
+  Al  Al2  2  0.50000000  0.25000000  0.95974000  1.0
+  Al  Al3  2  0.50000000  0.25708000  0.12508000  1.0
+  Al  Al4  1  0.00000000  0.00000000  0.03920000  1.0
+  Al  Al5  1  0.00000000  0.00000000  0.87921000  1.0
+  Al  Al6  1  0.00000000  0.50000000  0.04076000  1.0
+  Al  Al7  1  0.00000000  0.50000000  0.87921000  1.0
+  Al  Al8  1  0.50000000  0.00000000  0.03741000  1.0
+  Al  Al9  1  0.50000000  0.00000000  0.87921000  1.0
+  Al  Al10  1  0.50000000  0.50000000  0.04072000  1.0
+  Al  Al11  1  0.50000000  0.50000000  0.87921000  1.0
+  Rh  Rh12  4  0.25000000  0.25000000  0.87921000  1.0
+  Rh  Rh13  4  0.25008000  0.24492000  0.04024000  1.0
+  Rh  Rh14  2  0.24749000  0.00000000  0.12169000  1.0
+  Rh  Rh15  2  0.25000000  0.00000000  0.95974000  1.0
+  Rh  Rh16  2  0.25000000  0.50000000  0.95974000  1.0
+  Rh  Rh17  2  0.25120000  0.50000000  0.11766000  1.0
+  C  C18  1  0.00000000  0.00000000  0.16409000  1.0

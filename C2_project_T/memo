@@ -1,0 +1,13 @@
+grep "convergence NOT" */*/*/output*/0/1/stdout*
+ls */*/*/CRASH
+grep "The maximum number of steps has been reached."  SLA*/*/output.*/0/1/stdout.1.0
+
+tail -n 2 */*/output*/0/1/stdout.1.0
+
+problems
+
+BCC_100/SLAB_W_BCC/ontop_CO_1/output.21737572/0/1/stdout.1.0:     convergence NOT achieved after 200 iterations: stopping
+BCC_100/SLAB_W_BCC/slab_1/output.21737571/0/1/stdout.1.0:     convergence NOT achieved after 200 iterations: stopping
+DO3_110/SLAB_K3Sb_D03/ontop_CO_1_1/output.21771973/0/1/stdout.1.0:     convergence NOT achieved after 200 iterations: stopping
+L21_110/SLAB_Na2SbK_L21/ontop_CO_1_1/output.21561797/0/1/stdout.1.0:     convergence NOT achieved after 200 iterations: stopping
+L21_110/SLAB_Na2SbK_L21/ontop_CO_1_3/output.21561804/0/1/stdout.1.0:     convergence NOT achieved after 200 iterations: stopping

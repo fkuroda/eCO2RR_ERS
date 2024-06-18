@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ni12Sb4CO
+_chemical_formula_sum              "Ni12 Sb4 C1 O1"
+_cell_length_a       5.9782
+_cell_length_b       5.9782
+_cell_length_c       24.4837
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.24521  0.25480  0.03020  1.0000
+  Ni  Ni2       1.0  0.75000  0.75000  0.90844  1.0000
+  Ni  Ni3       1.0  0.75484  0.25485  0.03019  1.0000
+  Ni  Ni4       1.0  0.25000  0.75000  0.90844  1.0000
+  Ni  Ni5       1.0  0.75481  0.74518  0.03019  1.0000
+  Ni  Ni6       1.0  0.25000  0.25000  0.90844  1.0000
+  Ni  Ni7       1.0  0.24519  0.74515  0.03020  1.0000
+  Ni  Ni8       1.0  0.75000  0.25000  0.90844  1.0000
+  Ni  Ni9       1.0  0.00000  0.00000  0.96948  1.0000
+  Ni  Ni10      1.0  0.50001  0.00003  0.08363  1.0000
+  Ni  Ni11      1.0  0.99999  0.49995  0.09729  1.0000
+  Ni  Ni12      1.0  0.50000  0.50000  0.96948  1.0000
+  Sb  Sb1       1.0  0.99998  0.00001  0.09457  1.0000
+  Sb  Sb2       1.0  0.50001  0.50000  0.09459  1.0000
+  Sb  Sb3       1.0  0.50000  0.00000  0.96948  1.0000
+  Sb  Sb4       1.0  0.00000  0.50000  0.96948  1.0000
+  C   C1        1.0  0.99997  0.49999  0.16992  1.0000
+  O   O1        1.0  0.99997  0.50000  0.21703  1.0000

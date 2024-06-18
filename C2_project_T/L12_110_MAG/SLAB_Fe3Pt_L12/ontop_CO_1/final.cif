@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Fe12Pt4CO
+_chemical_formula_sum              "Fe12 Pt4 C1 O1"
+_cell_length_a       7.52786
+_cell_length_b       5.323
+_cell_length_c       23.9923
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.00000  0.50000  0.91680  1.0000
+  Fe  Fe2       1.0  0.25000  0.75000  0.97227  1.0000
+  Fe  Fe3       1.0  0.25000  0.25000  0.97227  1.0000
+  Fe  Fe4       1.0  0.99848  0.01725  0.02509  1.0000
+  Fe  Fe5       1.0  0.24973  0.26064  0.08190  1.0000
+  Fe  Fe6       1.0  0.24984  0.81183  0.07573  1.0000
+  Fe  Fe7       1.0  0.50000  0.50000  0.91680  1.0000
+  Fe  Fe8       1.0  0.75000  0.75000  0.97227  1.0000
+  Fe  Fe9       1.0  0.75000  0.25000  0.97227  1.0000
+  Fe  Fe10      1.0  0.50147  0.01777  0.02510  1.0000
+  Fe  Fe11      1.0  0.75028  0.26622  0.07693  1.0000
+  Fe  Fe12      1.0  0.75021  0.79839  0.07261  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.91680  1.0000
+  Pt  Pt2       1.0  0.00448  0.51386  0.03208  1.0000
+  Pt  Pt3       1.0  0.50000  0.00000  0.91680  1.0000
+  Pt  Pt4       1.0  0.49543  0.51421  0.03226  1.0000
+  C   C1        1.0  0.24990  0.05141  0.14537  1.0000
+  O   O1        1.0  0.25018  0.99458  0.19271  1.0000

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Mg16Ag16C
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   6.75388000
+_cell_length_b   9.55143000
+_cell_length_c   27.16360000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Mg16Ag16C
+_chemical_formula_sum   'Mg16 Ag16 C1'
+_cell_volume   1752.30243240
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  4  0.25000000  0.25000000  0.86814000  1.0
+  Mg  Mg1  4  0.25071000  0.24997000  0.04348000  1.0
+  Mg  Mg2  2  0.23503000  0.50000000  0.13403000  1.0
+  Mg  Mg3  2  0.25000000  0.00000000  0.95605000  1.0
+  Mg  Mg4  2  0.25000000  0.50000000  0.95605000  1.0
+  Mg  Mg5  2  0.29295000  0.00000000  0.14461000  1.0
+  Ag  Ag6  2  0.00000000  0.24149000  0.13030000  1.0
+  Ag  Ag7  2  0.00000000  0.25000000  0.95605000  1.0
+  Ag  Ag8  2  0.50000000  0.25000000  0.95605000  1.0
+  Ag  Ag9  2  0.50000000  0.26102000  0.12994000  1.0
+  Ag  Ag10  1  0.00000000  0.00000000  0.04229000  1.0
+  Ag  Ag11  1  0.00000000  0.00000000  0.86814000  1.0
+  Ag  Ag12  1  0.00000000  0.50000000  0.04342000  1.0
+  Ag  Ag13  1  0.00000000  0.50000000  0.86814000  1.0
+  Ag  Ag14  1  0.50000000  0.00000000  0.04283000  1.0
+  Ag  Ag15  1  0.50000000  0.00000000  0.86814000  1.0
+  Ag  Ag16  1  0.50000000  0.50000000  0.04524000  1.0
+  Ag  Ag17  1  0.50000000  0.50000000  0.86814000  1.0
+  C  C18  1  0.00000000  0.00000000  0.12486000  1.0

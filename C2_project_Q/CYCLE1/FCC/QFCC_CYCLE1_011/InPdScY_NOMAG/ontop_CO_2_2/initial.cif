@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Y4Sc4In4Pd4CO
+_chemical_formula_sum              "Y4 Sc4 In4 Pd4 C1 O1"
+_cell_length_a       6.0659
+_cell_length_b       10.1153
+_cell_length_c       24.3887
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.15204  0.24669  0.03035  1.0000
+  Y   Y2        1.0  0.55242  0.25000  0.91003  1.0000
+  Y   Y3        1.0  0.15199  0.75331  0.03035  1.0000
+  Y   Y4        1.0  0.55242  0.75000  0.91003  1.0000
+  Sc  Sc1       1.0  0.64463  0.00002  0.08269  1.0000
+  Sc  Sc2       1.0  0.86828  0.00000  0.97001  1.0000
+  Sc  Sc3       1.0  0.61094  0.49999  0.08047  1.0000
+  Sc  Sc4       1.0  0.86828  0.50000  0.97001  1.0000
+  In  In1       1.0  0.14137  0.00002  0.11004  1.0000
+  In  In2       1.0  0.36828  0.00000  0.97001  1.0000
+  In  In3       1.0  0.11170  0.49999  0.10422  1.0000
+  In  In4       1.0  0.36828  0.50000  0.97001  1.0000
+  Pd  Pd1       1.0  0.65145  0.25517  0.01793  1.0000
+  Pd  Pd2       1.0  0.05242  0.25000  0.91003  1.0000
+  Pd  Pd3       1.0  0.65138  0.74482  0.01794  1.0000
+  Pd  Pd4       1.0  0.05242  0.75000  0.91003  1.0000
+  C   C1        1.0  0.70038  0.00002  0.17513  1.0000
+  O   O1        1.0  0.72650  0.00000  0.22205  1.0000

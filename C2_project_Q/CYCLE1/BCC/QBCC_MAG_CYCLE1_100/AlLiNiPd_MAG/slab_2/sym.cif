@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiAlNiPd
+_symmetry_space_group_name_H-M   Cmm2
+_cell_length_a   8.36139627
+_cell_length_b   8.36139627
+_cell_length_c   24.43430000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   35
+_chemical_formula_structural   LiAlNiPd
+_chemical_formula_sum   'Li8 Al8 Ni8 Pd8'
+_cell_volume   1708.27393359
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  4  0.00000000  0.25000000  0.96975000  1.0
+  Li  Li1  4  0.25000000  0.00000000  0.10204000  1.0
+  Al  Al2  4  0.00000000  0.24996500  0.08629000  1.0
+  Al  Al3  4  0.25000000  0.00000000  0.96975000  1.0
+  Ni  Ni4  4  0.25000000  0.25000000  0.90926000  1.0
+  Ni  Ni5  2  0.00000000  0.00000000  0.03386000  1.0
+  Ni  Ni6  2  0.00000000  0.50000000  0.03391000  1.0
+  Pd  Pd7  4  0.25000000  0.25000000  0.03304000  1.0
+  Pd  Pd8  2  0.00000000  0.00000000  0.90926000  1.0
+  Pd  Pd9  2  0.00000000  0.50000000  0.90926000  1.0

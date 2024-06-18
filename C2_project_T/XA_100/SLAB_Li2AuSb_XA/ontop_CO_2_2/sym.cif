@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li8Sb4Au4CO
+_symmetry_space_group_name_H-M   P2
+_cell_length_a   6.66546000
+_cell_length_b   24.99910000
+_cell_length_c   6.66546000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   3
+_chemical_formula_structural   Li8Sb4Au4CO
+_chemical_formula_sum   'Li8 Sb4 Au4 C1 O1'
+_cell_volume   1110.66893977
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.24886000  0.04016000  0.74888000  1.0
+  Li  Li1  2  0.25000000  0.90001000  0.25000000  1.0
+  Li  Li2  1  0.00000000  0.10815000  0.50000000  1.0
+  Li  Li3  1  0.00000000  0.96667000  0.00000000  1.0
+  Li  Li4  1  0.50000000  0.10640000  0.00000000  1.0
+  Li  Li5  1  0.50000000  0.96667000  0.50000000  1.0
+  Sb  Sb6  1  0.00000000  0.10189000  0.00000000  1.0
+  Sb  Sb7  1  0.00000000  0.96667000  0.50000000  1.0
+  Sb  Sb8  1  0.50000000  0.10189000  0.50000000  1.0
+  Sb  Sb9  1  0.50000000  0.96667000  0.00000000  1.0
+  Au  Au10  2  0.24738000  0.04013000  0.25287000  1.0
+  Au  Au11  2  0.25000000  0.90001000  0.75000000  1.0
+  C  C12  1  0.50000000  0.19132000  0.00000000  1.0
+  O  O13  1  0.50000000  0.23679000  0.00000000  1.0

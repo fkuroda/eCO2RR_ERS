@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Y4In4Au8CO
+_chemical_formula_sum              "Y4 In4 Au8 C1 O1"
+_cell_length_a       7.06522
+_cell_length_b       7.06522
+_cell_length_c       25.2989
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.00018  0.00006  0.10069  1.0000
+  Y   Y2        1.0  0.49961  0.50058  0.10042  1.0000
+  Y   Y3        1.0  0.50000  0.00000  0.96509  1.0000
+  Y   Y4        1.0  0.00000  0.50000  0.96509  1.0000
+  In  In1       1.0  0.00000  0.00000  0.96509  1.0000
+  In  In2       1.0  0.50105  0.00015  0.11251  1.0000
+  In  In3       1.0  0.99999  0.50077  0.11245  1.0000
+  In  In4       1.0  0.50000  0.50000  0.96509  1.0000
+  Au  Au1       1.0  0.25019  0.25026  0.04014  1.0000
+  Au  Au2       1.0  0.75000  0.75000  0.89527  1.0000
+  Au  Au3       1.0  0.74986  0.25064  0.03999  1.0000
+  Au  Au4       1.0  0.25000  0.75000  0.89527  1.0000
+  Au  Au5       1.0  0.74954  0.74994  0.03997  1.0000
+  Au  Au6       1.0  0.25000  0.25000  0.89527  1.0000
+  Au  Au7       1.0  0.25038  0.75013  0.04010  1.0000
+  Au  Au8       1.0  0.75000  0.25000  0.89527  1.0000
+  C   C1        1.0  0.95980  0.44418  0.28753  1.0000
+  O   O1        1.0  0.02613  0.53328  0.31979  1.0000

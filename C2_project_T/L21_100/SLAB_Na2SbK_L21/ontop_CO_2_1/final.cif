@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K4Na8Sb4CO
+_chemical_formula_sum              "K4 Na8 Sb4 C1 O1"
+_cell_length_a       7.84214
+_cell_length_b       7.84214
+_cell_length_c       25.8816
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.99997  0.99995  0.15195  1.0000
+  K   K2        1.0  0.50005  0.50002  0.15477  1.0000
+  K   K3        1.0  0.50000  0.00000  0.96212  1.0000
+  K   K4        1.0  0.00000  0.50000  0.96212  1.0000
+  Na  Na1       1.0  0.25135  0.25129  0.05201  1.0000
+  Na  Na2       1.0  0.75000  0.75000  0.88637  1.0000
+  Na  Na3       1.0  0.74870  0.25132  0.05203  1.0000
+  Na  Na4       1.0  0.25000  0.75000  0.88637  1.0000
+  Na  Na5       1.0  0.74872  0.74869  0.05201  1.0000
+  Na  Na6       1.0  0.25000  0.25000  0.88637  1.0000
+  Na  Na7       1.0  0.25138  0.74870  0.05199  1.0000
+  Na  Na8       1.0  0.75000  0.25000  0.88637  1.0000
+  Sb  Sb1       1.0  0.00000  0.00000  0.96212  1.0000
+  Sb  Sb2       1.0  0.50002  0.00006  0.11007  1.0000
+  Sb  Sb3       1.0  0.99998  0.50000  0.11009  1.0000
+  Sb  Sb4       1.0  0.50000  0.50000  0.96212  1.0000
+  C   C1        1.0  0.99953  0.99975  0.28001  1.0000
+  O   O1        1.0  0.99995  0.99998  0.32386  1.0000

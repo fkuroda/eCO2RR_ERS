@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Y4Sn4Ge4Pd4CO
+_chemical_formula_sum              "Y4 Sn4 Ge4 Pd4 C1 O1"
+_cell_length_a       8.11456
+_cell_length_b       6.46257
+_cell_length_c       24.8206
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.25000  0.22399  0.96763  1.0000
+  Y   Y2        1.0  0.25038  0.64232  0.09280  1.0000
+  Y   Y3        1.0  0.75000  0.22399  0.96763  1.0000
+  Y   Y4        1.0  0.74960  0.63991  0.09043  1.0000
+  Sn  Sn1       1.0  0.25000  0.72399  0.96763  1.0000
+  Sn  Sn2       1.0  0.24849  0.12666  0.10754  1.0000
+  Sn  Sn3       1.0  0.75000  0.72399  0.96763  1.0000
+  Sn  Sn4       1.0  0.75181  0.12578  0.10915  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.90289  1.0000
+  Ge  Ge2       1.0  0.99950  0.36199  0.05237  1.0000
+  Ge  Ge3       1.0  0.50000  0.00000  0.90289  1.0000
+  Ge  Ge4       1.0  0.50066  0.35900  0.05338  1.0000
+  Pd  Pd1       1.0  0.00000  0.50000  0.90289  1.0000
+  Pd  Pd2       1.0  0.99967  0.95956  0.02860  1.0000
+  Pd  Pd3       1.0  0.50000  0.50000  0.90289  1.0000
+  Pd  Pd4       1.0  0.50071  0.95920  0.02882  1.0000
+  C   C1        1.0  0.25592  0.72640  0.19206  1.0000
+  O   O1        1.0  0.25853  0.76675  0.23714  1.0000

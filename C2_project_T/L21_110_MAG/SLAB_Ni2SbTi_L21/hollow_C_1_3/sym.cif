@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ti8Ni16Sb8C
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   6.14873000
+_cell_length_b   8.69561000
+_cell_length_c   26.52170000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   Ti8Ni16Sb8C
+_chemical_formula_sum   'Ti8 Ni16 Sb8 C1'
+_cell_volume   1418.03462199
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  2  0.50000000  0.24999000  0.95902000  1.0
+  Ti  Ti1  2  0.50000000  0.27087000  0.12363000  1.0
+  Ti  Ti2  1  0.00000000  0.00000000  0.04224000  1.0
+  Ti  Ti3  1  0.00000000  0.00000000  0.87705000  1.0
+  Ti  Ti4  1  0.00000000  0.50000000  0.04081000  1.0
+  Ti  Ti5  1  0.00000000  0.50000000  0.87705000  1.0
+  Ni  Ni6  4  0.24289000  0.25026000  0.04365000  1.0
+  Ni  Ni7  4  0.25000000  0.25001000  0.87705000  1.0
+  Ni  Ni8  2  0.20868000  0.50000000  0.11946000  1.0
+  Ni  Ni9  2  0.25000000  0.00000000  0.95902000  1.0
+  Ni  Ni10  2  0.25000000  0.50000000  0.95902000  1.0
+  Ni  Ni11  2  0.27697000  0.00000000  0.11691000  1.0
+  Sb  Sb12  2  0.00000000  0.23449000  0.13155000  1.0
+  Sb  Sb13  2  0.00000000  0.25001000  0.95902000  1.0
+  Sb  Sb14  1  0.50000000  0.00000000  0.03814000  1.0
+  Sb  Sb15  1  0.50000000  0.00000000  0.87705000  1.0
+  Sb  Sb16  1  0.50000000  0.50000000  0.03855000  1.0
+  Sb  Sb17  1  0.50000000  0.50000000  0.87705000  1.0
+  C  C18  1  0.50000000  0.50000000  0.14395000  1.0

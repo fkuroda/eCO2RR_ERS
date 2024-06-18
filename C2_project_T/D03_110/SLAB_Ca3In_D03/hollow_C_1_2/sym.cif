@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca24In8C
+_symmetry_space_group_name_H-M   Pm
+_cell_length_a   8.11767000
+_cell_length_b   11.48010000
+_cell_length_c   28.61010000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   6
+_chemical_formula_structural   Ca24In8C
+_chemical_formula_sum   'Ca24 In8 C1'
+_cell_volume   2666.22280810
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  2  0.25000000  0.25001000  0.94984000  1.0
+  Ca  Ca1  2  0.25246000  0.21067000  0.15502000  1.0
+  Ca  Ca2  2  0.49683000  0.25231000  0.05223000  1.0
+  Ca  Ca3  2  0.50000000  0.25001000  0.84953000  1.0
+  Ca  Ca4  2  0.75000000  0.24999000  0.94984000  1.0
+  Ca  Ca5  2  0.75396000  0.28013000  0.15180000  1.0
+  Ca  Ca6  1  0.00000000  0.00000000  0.94984000  1.0
+  Ca  Ca7  1  0.00000000  0.50000000  0.94984000  1.0
+  Ca  Ca8  1  0.09199000  0.50000000  0.18063000  1.0
+  Ca  Ca9  1  0.21410000  0.00000000  0.06406000  1.0
+  Ca  Ca10  1  0.22731000  0.50000000  0.05442000  1.0
+  Ca  Ca11  1  0.25000000  0.00000000  0.84953000  1.0
+  Ca  Ca12  1  0.25000000  0.50000000  0.84953000  1.0
+  Ca  Ca13  1  0.75000000  0.00000000  0.84953000  1.0
+  Ca  Ca14  1  0.75000000  0.50000000  0.84953000  1.0
+  Ca  Ca15  1  0.76207000  0.00000000  0.05334000  1.0
+  Ca  Ca16  1  0.76660000  0.50000000  0.05430000  1.0
+  Ca  Ca17  1  0.96917000  0.00000000  0.18068000  1.0
+  In  In18  2  0.00000000  0.25001000  0.84953000  1.0
+  In  In19  2  0.99529000  0.25239000  0.04450000  1.0
+  In  In20  1  0.48639000  0.50000000  0.13836000  1.0
+  In  In21  1  0.50000000  0.00000000  0.94984000  1.0
+  In  In22  1  0.50000000  0.50000000  0.94984000  1.0
+  In  In23  1  0.52231000  0.00000000  0.14050000  1.0
+  C  C24  1  0.23601000  0.00000000  0.14987000  1.0

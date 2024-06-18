@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na8Bi8CO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.99788000
+_cell_length_b   6.99788000
+_cell_length_c   27.33890000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na8Bi8CO
+_chemical_formula_sum   'Na8 Bi8 C1 O1'
+_cell_volume   1338.79480432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.90165000  1.0
+  Na  Na1  1  0.99508000  0.99510000  0.08053000  1.0
+  Na  Na2  1  0.00000000  0.50000000  0.90165000  1.0
+  Na  Na3  1  0.00365000  0.50455000  0.08073000  1.0
+  Na  Na4  1  0.50000000  0.00000000  0.90165000  1.0
+  Na  Na5  1  0.50464000  0.00351000  0.08070000  1.0
+  Na  Na6  1  0.50000000  0.50000000  0.90165000  1.0
+  Na  Na7  1  0.49590000  0.49585000  0.08089000  1.0
+  Bi  Bi8  1  0.25000000  0.25000000  0.99113000  1.0
+  Bi  Bi9  1  0.22427000  0.22410000  0.17103000  1.0
+  Bi  Bi10  1  0.25000000  0.75000000  0.99113000  1.0
+  Bi  Bi11  1  0.27473000  0.77561000  0.17167000  1.0
+  Bi  Bi12  1  0.75000000  0.25000000  0.99113000  1.0
+  Bi  Bi13  1  0.77569000  0.27465000  0.17167000  1.0
+  Bi  Bi14  1  0.75000000  0.75000000  0.99113000  1.0
+  Bi  Bi15  1  0.72546000  0.72536000  0.17119000  1.0
+  C  C16  1  0.25197000  0.25389000  0.32930000  1.0
+  O  O17  1  0.24894000  0.24839000  0.37078000  1.0

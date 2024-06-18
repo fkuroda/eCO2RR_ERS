@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li4V4Ge4Pd4C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68832000
+_cell_length_b   6.38622000
+_cell_length_c   24.77250000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4V4Ge4Pd4C
+_chemical_formula_sum   'Li4 V4 Ge4 Pd4 C1'
+_cell_volume   899.90721244
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25000000  0.72886000  0.96789000  1.0
+  Li  Li1  1  0.23609000  0.28129000  0.11891000  1.0
+  Li  Li2  1  0.75000000  0.72886000  0.96789000  1.0
+  Li  Li3  1  0.76393000  0.28124000  0.11887000  1.0
+  V  V4  1  0.25000000  0.22886000  0.96789000  1.0
+  V  V5  1  0.23501000  0.71567000  0.08697000  1.0
+  V  V6  1  0.75000000  0.22886000  0.96789000  1.0
+  V  V7  1  0.76500000  0.71564000  0.08695000  1.0
+  Ge  Ge8  1  0.00000000  0.00000000  0.90367000  1.0
+  Ge  Ge9  1  0.99992000  0.46787000  0.02565000  1.0
+  Ge  Ge10  1  0.50000000  0.00000000  0.90367000  1.0
+  Ge  Ge11  1  0.50003000  0.45917000  0.03433000  1.0
+  Pd  Pd12  1  0.00000000  0.50000000  0.90367000  1.0
+  Pd  Pd13  1  0.00002000  0.03542000  0.04694000  1.0
+  Pd  Pd14  1  0.50000000  0.50000000  0.90367000  1.0
+  Pd  Pd15  1  0.50002000  0.04037000  0.05405000  1.0
+  C  C16  1  0.99999000  0.57839000  0.12687000  1.0

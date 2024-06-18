@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ga8Ag8CO
+_chemical_formula_sum              "Ga8 Ag8 C1 O1"
+_cell_length_a       6.7051
+_cell_length_b       6.7051
+_cell_length_c       25.0288
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.25000  0.25000  0.97371  1.0000
+  Ga  Ga2       1.0  0.24881  0.24887  0.08253  1.0000
+  Ga  Ga3       1.0  0.25000  0.75000  0.97371  1.0000
+  Ga  Ga4       1.0  0.25202  0.74794  0.11455  1.0000
+  Ga  Ga5       1.0  0.75000  0.25000  0.97371  1.0000
+  Ga  Ga6       1.0  0.74797  0.25205  0.11453  1.0000
+  Ga  Ga7       1.0  0.75000  0.75000  0.97371  1.0000
+  Ga  Ga8       1.0  0.74763  0.74758  0.13077  1.0000
+  Ag  Ag1       1.0  0.00000  0.00000  0.90673  1.0000
+  Ag  Ag2       1.0  0.97745  0.97753  0.04504  1.0000
+  Ag  Ag3       1.0  0.00000  0.50000  0.90673  1.0000
+  Ag  Ag4       1.0  0.97924  0.52163  0.04459  1.0000
+  Ag  Ag5       1.0  0.50000  0.00000  0.90673  1.0000
+  Ag  Ag6       1.0  0.52173  0.97926  0.04457  1.0000
+  Ag  Ag7       1.0  0.50000  0.50000  0.90673  1.0000
+  Ag  Ag8       1.0  0.52004  0.51999  0.04413  1.0000
+  C   C1        1.0  0.27692  0.27688  0.21556  1.0000
+  O   O1        1.0  0.22715  0.22722  0.25692  1.0000

@@ -1,0 +1,2354 @@
+{
+    "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG": [
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/hollow_C_1_1/output.28738211/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/hollow_C_1_1/output.28738211",
+                "n_electrons": 260.0,
+                "number_KS_states": 156,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 30,
+                "Times_converged_SCF": 30,
+                "iterations_SCF": 11,
+                "estimated_scf_accuracy_Ry": 6.5e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -37183.593245707125,
+                "FERMI_ENERGY": -4.3196,
+                "TOTAL_MAGMOM": 18.33,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.03511061,
+                "FORCES": [
+                    [
+                        0.0008412,
+                        0.00072024,
+                        -0.02400044
+                    ],
+                    [
+                        -9.012e-05,
+                        0.00038112,
+                        -3.717e-05
+                    ],
+                    [
+                        0.00084197,
+                        -0.00071973,
+                        -0.02400241
+                    ],
+                    [
+                        -9.086e-05,
+                        -0.00037797,
+                        -4.072e-05
+                    ],
+                    [
+                        -0.00084199,
+                        0.00071392,
+                        -0.02399744
+                    ],
+                    [
+                        8.965e-05,
+                        0.00035761,
+                        -5.333e-05
+                    ],
+                    [
+                        -0.00084099,
+                        -0.00071353,
+                        -0.02399485
+                    ],
+                    [
+                        9.221e-05,
+                        -0.00035808,
+                        -5.9e-05
+                    ],
+                    [
+                        2.44e-06,
+                        5.4e-07,
+                        0.01660301
+                    ],
+                    [
+                        1.26e-05,
+                        5e-08,
+                        0.00095696
+                    ],
+                    [
+                        -4.66e-06,
+                        -1e-07,
+                        0.025614
+                    ],
+                    [
+                        -1.179e-05,
+                        1.93e-06,
+                        -0.00017109
+                    ],
+                    [
+                        -2.28e-06,
+                        -3e-08,
+                        0.03511061
+                    ],
+                    [
+                        -8.2e-07,
+                        -1.7e-07,
+                        4.441e-05
+                    ],
+                    [
+                        4.28e-06,
+                        4.9e-07,
+                        0.02222742
+                    ],
+                    [
+                        1.992e-05,
+                        9.7e-07,
+                        -0.00028697
+                    ],
+                    [
+                        0.01110976,
+                        -1.49e-06,
+                        0.01654048
+                    ],
+                    [
+                        -0.00043517,
+                        3e-06,
+                        0.0001569
+                    ],
+                    [
+                        -0.00409445,
+                        1.16e-06,
+                        0.02716194
+                    ],
+                    [
+                        0.00028412,
+                        -1.4e-07,
+                        8.717e-05
+                    ],
+                    [
+                        -0.01114369,
+                        3.99e-06,
+                        0.01648511
+                    ],
+                    [
+                        0.0004428,
+                        -1.12e-05,
+                        4.583e-05
+                    ],
+                    [
+                        0.00408501,
+                        4.38e-06,
+                        0.02714443
+                    ],
+                    [
+                        -0.00027174,
+                        -3.59e-06,
+                        1.448e-05
+                    ],
+                    [
+                        -9.95e-06,
+                        0.01136813,
+                        -0.02775248
+                    ],
+                    [
+                        5.72e-06,
+                        -0.00024144,
+                        -0.00016272
+                    ],
+                    [
+                        -8.95e-06,
+                        -0.01136862,
+                        -0.0277495
+                    ],
+                    [
+                        3.48e-06,
+                        0.00023899,
+                        -0.00016843
+                    ],
+                    [
+                        1.223e-05,
+                        -0.00843159,
+                        -0.02081513
+                    ],
+                    [
+                        -1.08e-06,
+                        0.0003302,
+                        0.00048253
+                    ],
+                    [
+                        1.103e-05,
+                        0.00843288,
+                        -0.02081242
+                    ],
+                    [
+                        -4.61e-06,
+                        -0.00033325,
+                        0.00047943
+                    ],
+                    [
+                        -5.26e-06,
+                        1.3e-06,
+                        -0.00039382
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0263,
+                    -0.0357,
+                    -0.0263,
+                    -0.0357,
+                    -0.0263,
+                    -0.0357,
+                    -0.0263,
+                    -0.0357,
+                    -0.0475,
+                    -0.0412,
+                    -0.0327,
+                    -0.0394,
+                    -0.0354,
+                    -0.0258,
+                    -0.0365,
+                    -0.0391,
+                    2.0407,
+                    2.1886,
+                    2.1436,
+                    2.566,
+                    2.0408,
+                    2.1888,
+                    2.1436,
+                    2.5662,
+                    -0.0056,
+                    -0.0423,
+                    -0.0056,
+                    -0.0423,
+                    0.0084,
+                    0.0174,
+                    0.0084,
+                    0.0174,
+                    -0.1804
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "hollow_C_1_1"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/hollow_C_1_2/output.28738212/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/hollow_C_1_2/output.28738212",
+                "n_electrons": 260.0,
+                "number_KS_states": 156,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 27,
+                "Times_converged_SCF": 27,
+                "iterations_SCF": 16,
+                "estimated_scf_accuracy_Ry": 9.9e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -37183.93884459842,
+                "FERMI_ENERGY": -4.3499,
+                "TOTAL_MAGMOM": 18.55,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.03222382,
+                "FORCES": [
+                    [
+                        -8.3e-07,
+                        -8.7e-07,
+                        -0.03222382
+                    ],
+                    [
+                        -1e-08,
+                        -1.635e-05,
+                        0.00060615
+                    ],
+                    [
+                        -6.3e-07,
+                        -3.5e-07,
+                        -0.02153633
+                    ],
+                    [
+                        -5e-08,
+                        9.06e-06,
+                        -0.00065881
+                    ],
+                    [
+                        -3e-08,
+                        -1.587e-05,
+                        -0.02558982
+                    ],
+                    [
+                        5.5e-07,
+                        -2.84e-05,
+                        0.00019023
+                    ],
+                    [
+                        -6.5e-07,
+                        1.212e-05,
+                        -0.02699519
+                    ],
+                    [
+                        2.45e-06,
+                        3.111e-05,
+                        0.00011138
+                    ],
+                    [
+                        4.682e-05,
+                        0.00051005,
+                        0.02804177
+                    ],
+                    [
+                        -0.00022328,
+                        0.00032805,
+                        7.843e-05
+                    ],
+                    [
+                        3.174e-05,
+                        -0.00050992,
+                        0.02804656
+                    ],
+                    [
+                        -0.00023363,
+                        -0.00032885,
+                        6.609e-05
+                    ],
+                    [
+                        -4.677e-05,
+                        0.00050964,
+                        0.02804276
+                    ],
+                    [
+                        0.00022492,
+                        0.00032827,
+                        7.538e-05
+                    ],
+                    [
+                        -3.141e-05,
+                        -0.00050928,
+                        0.02804759
+                    ],
+                    [
+                        0.00023079,
+                        -0.00032873,
+                        6.375e-05
+                    ],
+                    [
+                        1.24e-06,
+                        -0.00795998,
+                        0.02140658
+                    ],
+                    [
+                        -6.2e-07,
+                        0.00059182,
+                        0.00017103
+                    ],
+                    [
+                        2.74e-06,
+                        0.00796759,
+                        0.02141812
+                    ],
+                    [
+                        -4e-07,
+                        -0.00060598,
+                        0.00018392
+                    ],
+                    [
+                        1.23e-06,
+                        0.00333521,
+                        0.02753303
+                    ],
+                    [
+                        1.24e-06,
+                        0.00023563,
+                        -0.00026243
+                    ],
+                    [
+                        1.9e-07,
+                        -0.00334394,
+                        0.02749884
+                    ],
+                    [
+                        7.8e-07,
+                        -0.00023082,
+                        -0.00020225
+                    ],
+                    [
+                        -0.0109788,
+                        -1.667e-05,
+                        -0.03017718
+                    ],
+                    [
+                        0.00051136,
+                        -1.842e-05,
+                        -0.00012038
+                    ],
+                    [
+                        0.00965474,
+                        2.277e-05,
+                        -0.0214337
+                    ],
+                    [
+                        0.00012945,
+                        1.591e-05,
+                        -0.00081004
+                    ],
+                    [
+                        0.01097789,
+                        -1.753e-05,
+                        -0.03017566
+                    ],
+                    [
+                        -0.00051101,
+                        -2.101e-05,
+                        -0.00012318
+                    ],
+                    [
+                        -0.0096565,
+                        2.375e-05,
+                        -0.02143551
+                    ],
+                    [
+                        -0.00013155,
+                        1.641e-05,
+                        -0.00080668
+                    ],
+                    [
+                        -1.97e-06,
+                        1.556e-05,
+                        -0.00032823
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0113,
+                    -0.0285,
+                    -0.0107,
+                    -0.0069,
+                    -0.0118,
+                    -0.0185,
+                    -0.0126,
+                    -0.0174,
+                    -0.0624,
+                    -0.0657,
+                    -0.0624,
+                    -0.0657,
+                    -0.0624,
+                    -0.0657,
+                    -0.0624,
+                    -0.0657,
+                    2.1175,
+                    2.0603,
+                    2.1176,
+                    2.0602,
+                    2.1428,
+                    2.5224,
+                    2.1424,
+                    2.5224,
+                    0.016,
+                    -0.0606,
+                    0.0305,
+                    0.0219,
+                    0.016,
+                    -0.0606,
+                    0.0305,
+                    0.0219,
+                    -0.2095
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "hollow_C_1_2"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/hollow_C_2_1/output.28738213/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/hollow_C_2_1/output.28738213",
+                "n_electrons": 260.0,
+                "number_KS_states": 156,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 16,
+                "Times_converged_SCF": 16,
+                "iterations_SCF": 13,
+                "estimated_scf_accuracy_Ry": 9.4e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -37184.43549294238,
+                "FERMI_ENERGY": -4.1167,
+                "TOTAL_MAGMOM": 20.48,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.02120991,
+                "FORCES": [
+                    [
+                        1.87e-06,
+                        0.00035142,
+                        -0.00077527
+                    ],
+                    [
+                        1.2e-06,
+                        0.00434112,
+                        0.0045253
+                    ],
+                    [
+                        1.09e-06,
+                        -0.00034987,
+                        -0.00077651
+                    ],
+                    [
+                        -2.29e-06,
+                        -0.00434112,
+                        0.00452349
+                    ],
+                    [
+                        1.4e-07,
+                        -9.587e-05,
+                        0.00025991
+                    ],
+                    [
+                        9.9e-07,
+                        -0.0019113,
+                        0.00141419
+                    ],
+                    [
+                        -8.2e-07,
+                        9.211e-05,
+                        0.00026758
+                    ],
+                    [
+                        -9.2e-07,
+                        0.00191265,
+                        0.00141422
+                    ],
+                    [
+                        -0.00058041,
+                        -2.23e-06,
+                        0.00019045
+                    ],
+                    [
+                        -0.00967112,
+                        3.1e-07,
+                        -0.01498436
+                    ],
+                    [
+                        0.00024702,
+                        7.8e-07,
+                        -0.00013132
+                    ],
+                    [
+                        0.0015585,
+                        -5.8e-07,
+                        -0.02120862
+                    ],
+                    [
+                        0.00058204,
+                        -1.11e-06,
+                        0.00019119
+                    ],
+                    [
+                        0.00966987,
+                        1.44e-06,
+                        -0.01498553
+                    ],
+                    [
+                        -0.0002462,
+                        1.34e-06,
+                        -0.00013052
+                    ],
+                    [
+                        -0.00155843,
+                        3.6e-07,
+                        -0.02120991
+                    ],
+                    [
+                        3.6e-07,
+                        -1.4e-07,
+                        -3.188e-05
+                    ],
+                    [
+                        6e-07,
+                        1.24e-06,
+                        0.00461312
+                    ],
+                    [
+                        -2.28e-06,
+                        -5.8e-07,
+                        -0.00021061
+                    ],
+                    [
+                        2.07e-06,
+                        4.5e-07,
+                        0.01320038
+                    ],
+                    [
+                        3.42e-06,
+                        -1.91e-06,
+                        0.00018062
+                    ],
+                    [
+                        -5.2e-07,
+                        -5.4e-07,
+                        0.01303021
+                    ],
+                    [
+                        1.55e-06,
+                        1.67e-06,
+                        3.665e-05
+                    ],
+                    [
+                        -1.94e-06,
+                        1.05e-06,
+                        0.01389557
+                    ],
+                    [
+                        -9.855e-05,
+                        0.00024916,
+                        0.00014581
+                    ],
+                    [
+                        -0.00080846,
+                        0.00012157,
+                        0.00472231
+                    ],
+                    [
+                        -9.892e-05,
+                        -0.00024559,
+                        0.00015135
+                    ],
+                    [
+                        -0.00080318,
+                        -0.00012229,
+                        0.00472095
+                    ],
+                    [
+                        9.684e-05,
+                        0.00024523,
+                        0.00014899
+                    ],
+                    [
+                        0.00080135,
+                        0.00012245,
+                        0.00471962
+                    ],
+                    [
+                        9.77e-05,
+                        -0.0002481,
+                        0.00014856
+                    ],
+                    [
+                        0.0008095,
+                        -0.00012182,
+                        0.0047232
+                    ],
+                    [
+                        -2.05e-06,
+                        -1.3e-06,
+                        -0.00081177
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0054,
+                    -0.0192,
+                    -0.0054,
+                    -0.0192,
+                    -0.0136,
+                    -0.0184,
+                    -0.0136,
+                    -0.0184,
+                    -0.0076,
+                    -0.0346,
+                    -0.027,
+                    -0.0372,
+                    -0.0076,
+                    -0.0346,
+                    -0.027,
+                    -0.0372,
+                    1.6299,
+                    2.53,
+                    2.0444,
+                    2.5979,
+                    2.2501,
+                    2.5992,
+                    2.1489,
+                    2.5974,
+                    0.015,
+                    0.0448,
+                    0.015,
+                    0.0448,
+                    0.015,
+                    0.0448,
+                    0.015,
+                    0.0448,
+                    -0.0479
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "hollow_C_2_1"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/hollow_C_2_2/output.28738214/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/hollow_C_2_2/output.28738214",
+                "n_electrons": 260.0,
+                "number_KS_states": 156,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 16,
+                "Times_converged_SCF": 16,
+                "iterations_SCF": 11,
+                "estimated_scf_accuracy_Ry": 8.5e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -37183.105587188846,
+                "FERMI_ENERGY": -4.1994,
+                "TOTAL_MAGMOM": 21.4,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.02448991,
+                "FORCES": [
+                    [
+                        0.00078091,
+                        1.7e-06,
+                        0.00044882
+                    ],
+                    [
+                        0.01256854,
+                        4.83e-06,
+                        -0.0002494
+                    ],
+                    [
+                        3.515e-05,
+                        -2.87e-06,
+                        0.00037488
+                    ],
+                    [
+                        -0.00354432,
+                        -5.02e-06,
+                        0.00471814
+                    ],
+                    [
+                        -0.00077991,
+                        2.85e-06,
+                        0.00045116
+                    ],
+                    [
+                        -0.01256779,
+                        1.001e-05,
+                        -0.00026139
+                    ],
+                    [
+                        -3.918e-05,
+                        -7.5e-07,
+                        0.00037898
+                    ],
+                    [
+                        0.00354452,
+                        -8.64e-06,
+                        0.00471
+                    ],
+                    [
+                        -3.62e-06,
+                        9.15e-06,
+                        7.432e-05
+                    ],
+                    [
+                        2.93e-06,
+                        -0.02448633,
+                        -0.0153449
+                    ],
+                    [
+                        -5.02e-06,
+                        -9.11e-06,
+                        7.392e-05
+                    ],
+                    [
+                        -2e-06,
+                        0.02448991,
+                        -0.01534508
+                    ],
+                    [
+                        4.88e-06,
+                        0.00017011,
+                        -0.00033885
+                    ],
+                    [
+                        -3.46e-06,
+                        0.00212687,
+                        -0.01909788
+                    ],
+                    [
+                        6.24e-06,
+                        -0.00016922,
+                        -0.00034992
+                    ],
+                    [
+                        1.43e-06,
+                        -0.00212602,
+                        -0.01908907
+                    ],
+                    [
+                        -3.72e-05,
+                        -0.00046003,
+                        -6.529e-05
+                    ],
+                    [
+                        0.00148096,
+                        -0.00192139,
+                        0.0167001
+                    ],
+                    [
+                        -2.728e-05,
+                        0.00045661,
+                        -8.161e-05
+                    ],
+                    [
+                        0.0014823,
+                        0.00191918,
+                        0.01670725
+                    ],
+                    [
+                        2.959e-05,
+                        -0.00045467,
+                        -8.981e-05
+                    ],
+                    [
+                        -0.00147786,
+                        -0.00192015,
+                        0.01664979
+                    ],
+                    [
+                        2.248e-05,
+                        0.00045731,
+                        -0.00011282
+                    ],
+                    [
+                        -0.00148038,
+                        0.00191671,
+                        0.01665221
+                    ],
+                    [
+                        6.95e-06,
+                        4.07e-06,
+                        -0.00030816
+                    ],
+                    [
+                        1.95e-06,
+                        4.54e-06,
+                        -0.022277
+                    ],
+                    [
+                        8.23e-06,
+                        -2.86e-06,
+                        -2.596e-05
+                    ],
+                    [
+                        1.23e-06,
+                        -5.28e-06,
+                        0.0122531
+                    ],
+                    [
+                        -7.47e-06,
+                        9.01e-06,
+                        -0.00054344
+                    ],
+                    [
+                        1.35e-06,
+                        8.25e-06,
+                        0.00374261
+                    ],
+                    [
+                        -6.7e-06,
+                        -8.16e-06,
+                        -0.00050251
+                    ],
+                    [
+                        2.11e-06,
+                        -6.97e-06,
+                        0.00509898
+                    ],
+                    [
+                        4.3e-07,
+                        -3.61e-06,
+                        -0.00028332
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0038,
+                    -0.0188,
+                    -0.0127,
+                    -0.0187,
+                    -0.0038,
+                    -0.0188,
+                    -0.0127,
+                    -0.0187,
+                    -0.0206,
+                    -0.0378,
+                    -0.0206,
+                    -0.0378,
+                    -0.0307,
+                    -0.0364,
+                    -0.0307,
+                    -0.0364,
+                    2.4888,
+                    3.0271,
+                    2.4889,
+                    3.0271,
+                    2.4886,
+                    3.0271,
+                    2.4887,
+                    3.0272,
+                    0.0582,
+                    0.0604,
+                    -0.0058,
+                    0.0359,
+                    0.006,
+                    0.0492,
+                    0.0072,
+                    0.0531,
+                    0.1587
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "hollow_C_2_2"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/ontop_CO_1_1/output.28738215/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/ontop_CO_1_1/output.28738215",
+                "n_electrons": 266.0,
+                "number_KS_states": 160,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "O": {
+                        "Element": "O",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/O.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 8,
+                "Times_converged_SCF": 7,
+                "iterations_SCF": 39,
+                "estimated_scf_accuracy_Ry": 1.646e-05,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -37629.58508473096,
+                "FERMI_ENERGY": -4.5222,
+                "TOTAL_MAGMOM": 18.05,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.03305834,
+                "FORCES": [
+                    [
+                        -3.27e-06,
+                        0.00054763,
+                        -0.02497565
+                    ],
+                    [
+                        1.56e-06,
+                        0.00512293,
+                        0.00226727
+                    ],
+                    [
+                        5.2e-07,
+                        -0.00054898,
+                        -0.02497419
+                    ],
+                    [
+                        -3.57e-06,
+                        -0.00512159,
+                        0.00226846
+                    ],
+                    [
+                        2.66e-06,
+                        0.00121759,
+                        -0.02615171
+                    ],
+                    [
+                        -1.69e-06,
+                        0.00015708,
+                        0.005208
+                    ],
+                    [
+                        1.47e-06,
+                        -0.00121558,
+                        -0.02615153
+                    ],
+                    [
+                        2.8e-07,
+                        -0.00015421,
+                        0.0052068
+                    ],
+                    [
+                        0.00563413,
+                        -2e-08,
+                        0.02896494
+                    ],
+                    [
+                        -0.00432285,
+                        -8e-07,
+                        0.00693503
+                    ],
+                    [
+                        -0.00158839,
+                        1.9e-07,
+                        0.01819974
+                    ],
+                    [
+                        -0.00022992,
+                        1.27e-06,
+                        0.01558084
+                    ],
+                    [
+                        -0.005633,
+                        0.0,
+                        0.0289657
+                    ],
+                    [
+                        0.0043209,
+                        0.0,
+                        0.00693603
+                    ],
+                    [
+                        0.00158817,
+                        1.08e-06,
+                        0.01820031
+                    ],
+                    [
+                        0.00022991,
+                        1.16e-06,
+                        0.01557804
+                    ],
+                    [
+                        -6.63e-06,
+                        -1.03e-06,
+                        -0.00798871
+                    ],
+                    [
+                        1.267e-05,
+                        -1.2e-07,
+                        0.00229468
+                    ],
+                    [
+                        -1.075e-05,
+                        -2.12e-06,
+                        0.02628216
+                    ],
+                    [
+                        1.654e-05,
+                        -1.6e-07,
+                        0.00046878
+                    ],
+                    [
+                        3.75e-06,
+                        9.7e-07,
+                        0.03213932
+                    ],
+                    [
+                        -1.79e-06,
+                        4.64e-06,
+                        -0.00162904
+                    ],
+                    [
+                        5.33e-06,
+                        -3.67e-06,
+                        0.01941169
+                    ],
+                    [
+                        -7.2e-07,
+                        1.42e-06,
+                        0.00295308
+                    ],
+                    [
+                        -0.00022412,
+                        -0.00304315,
+                        -0.03305834
+                    ],
+                    [
+                        0.00066552,
+                        0.00195553,
+                        -0.00013727
+                    ],
+                    [
+                        -0.00021924,
+                        0.00304414,
+                        -0.03305643
+                    ],
+                    [
+                        0.00067078,
+                        -0.00196073,
+                        -0.00013472
+                    ],
+                    [
+                        0.00022081,
+                        -0.00304504,
+                        -0.03304588
+                    ],
+                    [
+                        -0.00067123,
+                        0.00196315,
+                        -0.00013194
+                    ],
+                    [
+                        0.0002194,
+                        0.00304559,
+                        -0.03304891
+                    ],
+                    [
+                        -0.00067508,
+                        -0.00196741,
+                        -0.00012177
+                    ],
+                    [
+                        -3.94e-06,
+                        9.9e-07,
+                        0.0047304
+                    ],
+                    [
+                        1.76e-06,
+                        -7.3e-07,
+                        -0.00065327
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.021,
+                    -0.0248,
+                    -0.021,
+                    -0.0248,
+                    -0.0223,
+                    -0.0327,
+                    -0.0223,
+                    -0.0327,
+                    -0.0766,
+                    -0.0636,
+                    -0.0567,
+                    -0.07,
+                    -0.0766,
+                    -0.0636,
+                    -0.0567,
+                    -0.07,
+                    1.8679,
+                    1.7716,
+                    2.1171,
+                    2.5309,
+                    2.0756,
+                    2.433,
+                    2.0388,
+                    2.5221,
+                    0.0047,
+                    0.0009,
+                    0.0047,
+                    0.0009,
+                    0.0047,
+                    0.0009,
+                    0.0047,
+                    0.0009,
+                    -0.0274,
+                    -0.0337
+                ],
+                "WARNING": true
+            },
+            "ABSITE_TYPE": "ontop_CO_1_1"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/ontop_CO_1_2/output.28738216/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/ontop_CO_1_2/output.28738216",
+                "n_electrons": 266.0,
+                "number_KS_states": 160,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "O": {
+                        "Element": "O",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/O.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 18,
+                "Times_converged_SCF": 18,
+                "iterations_SCF": 15,
+                "estimated_scf_accuracy_Ry": 5.4e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -37629.26846324488,
+                "FERMI_ENERGY": -4.3845,
+                "TOTAL_MAGMOM": 20.06,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.03561499,
+                "FORCES": [
+                    [
+                        0.00156795,
+                        6.3e-06,
+                        -0.0268006
+                    ],
+                    [
+                        0.00036978,
+                        2.063e-05,
+                        0.0003643
+                    ],
+                    [
+                        0.00079724,
+                        -6.13e-06,
+                        -0.02536732
+                    ],
+                    [
+                        -2.662e-05,
+                        -1.898e-05,
+                        -0.00021059
+                    ],
+                    [
+                        -0.0015685,
+                        3.4e-06,
+                        -0.02679804
+                    ],
+                    [
+                        -0.00036863,
+                        1.948e-05,
+                        0.00036017
+                    ],
+                    [
+                        -0.00079701,
+                        -5e-06,
+                        -0.02536843
+                    ],
+                    [
+                        2.659e-05,
+                        -2.009e-05,
+                        -0.00021055
+                    ],
+                    [
+                        2.56e-06,
+                        -0.00048079,
+                        0.0252578
+                    ],
+                    [
+                        3.97e-06,
+                        -0.00034286,
+                        7.287e-05
+                    ],
+                    [
+                        -2.58e-06,
+                        0.00047988,
+                        0.02525696
+                    ],
+                    [
+                        -2.61e-06,
+                        0.00034441,
+                        8.402e-05
+                    ],
+                    [
+                        -2.78e-06,
+                        -0.00045358,
+                        0.02220497
+                    ],
+                    [
+                        -4.34e-06,
+                        0.00023138,
+                        -0.00028502
+                    ],
+                    [
+                        1.85e-06,
+                        0.00045352,
+                        0.02219802
+                    ],
+                    [
+                        3.03e-06,
+                        -0.00023251,
+                        -0.0002704
+                    ],
+                    [
+                        -0.00060788,
+                        0.00160945,
+                        0.02713296
+                    ],
+                    [
+                        -8.344e-05,
+                        -0.00071454,
+                        -0.0006019
+                    ],
+                    [
+                        -0.00061206,
+                        -0.0016176,
+                        0.02718183
+                    ],
+                    [
+                        -8.224e-05,
+                        0.00071584,
+                        -0.00063142
+                    ],
+                    [
+                        0.00060666,
+                        0.00161479,
+                        0.02714424
+                    ],
+                    [
+                        8.625e-05,
+                        -0.00071411,
+                        -0.00059892
+                    ],
+                    [
+                        0.00060926,
+                        -0.00161764,
+                        0.0271737
+                    ],
+                    [
+                        8.248e-05,
+                        0.00071731,
+                        -0.00062827
+                    ],
+                    [
+                        -4.44e-06,
+                        1.199e-05,
+                        -0.01124374
+                    ],
+                    [
+                        -6e-07,
+                        1.754e-05,
+                        0.00035695
+                    ],
+                    [
+                        -2.68e-06,
+                        -8.13e-06,
+                        -0.03545932
+                    ],
+                    [
+                        -4.2e-06,
+                        -1.975e-05,
+                        0.00018501
+                    ],
+                    [
+                        2.07e-06,
+                        7.7e-06,
+                        -0.03561499
+                    ],
+                    [
+                        3.47e-06,
+                        1.566e-05,
+                        0.00072782
+                    ],
+                    [
+                        2.49e-06,
+                        -5.82e-06,
+                        -0.02703862
+                    ],
+                    [
+                        4.82e-06,
+                        -1.966e-05,
+                        -0.00010966
+                    ],
+                    [
+                        -1.46e-06,
+                        9.3e-07,
+                        9.702e-05
+                    ],
+                    [
+                        1.59e-06,
+                        7e-06,
+                        0.00018006
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0225,
+                    -0.0345,
+                    -0.0228,
+                    -0.0311,
+                    -0.0225,
+                    -0.0345,
+                    -0.0228,
+                    -0.0311,
+                    -0.0626,
+                    -0.0643,
+                    -0.0626,
+                    -0.0643,
+                    -0.0445,
+                    -0.0657,
+                    -0.0445,
+                    -0.0657,
+                    2.3725,
+                    2.8282,
+                    2.3726,
+                    2.8283,
+                    2.3726,
+                    2.8282,
+                    2.3726,
+                    2.8284,
+                    0.0106,
+                    0.0129,
+                    0.0132,
+                    -0.0124,
+                    0.0402,
+                    0.0283,
+                    0.0314,
+                    -0.0006,
+                    0.0023,
+                    0.0025
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "ontop_CO_1_2"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/ontop_CO_2_1/output.28738217/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/ontop_CO_2_1/output.28738217",
+                "n_electrons": 266.0,
+                "number_KS_states": 160,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "C": {
+                        "Element": "C",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/C.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "O": {
+                        "Element": "O",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/O.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 19,
+                "Times_converged_SCF": 19,
+                "iterations_SCF": 21,
+                "estimated_scf_accuracy_Ry": 5.7e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -37629.56536640809,
+                "FERMI_ENERGY": -4.2765,
+                "TOTAL_MAGMOM": 20.4,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.0225323,
+                "FORCES": [
+                    [
+                        0.00034556,
+                        -9.762e-05,
+                        -0.00012004
+                    ],
+                    [
+                        0.00096943,
+                        0.00030062,
+                        0.00251529
+                    ],
+                    [
+                        0.00034314,
+                        9.962e-05,
+                        -0.00011653
+                    ],
+                    [
+                        0.00096676,
+                        -0.00029905,
+                        0.00251471
+                    ],
+                    [
+                        -0.00036353,
+                        -0.00011704,
+                        -0.00010521
+                    ],
+                    [
+                        -0.0009646,
+                        0.00029477,
+                        0.00250049
+                    ],
+                    [
+                        -0.00036663,
+                        0.00012236,
+                        -9.971e-05
+                    ],
+                    [
+                        -0.00096615,
+                        -0.00029398,
+                        0.00250012
+                    ],
+                    [
+                        -4.22e-06,
+                        -2e-08,
+                        0.00033422
+                    ],
+                    [
+                        9e-08,
+                        -8e-08,
+                        -0.02023457
+                    ],
+                    [
+                        -1.051e-05,
+                        2.1e-07,
+                        -0.00010773
+                    ],
+                    [
+                        -6.35e-06,
+                        -9e-08,
+                        -0.02208584
+                    ],
+                    [
+                        4.48e-06,
+                        -9e-08,
+                        0.00010597
+                    ],
+                    [
+                        3.47e-06,
+                        -7.1e-07,
+                        -0.02125267
+                    ],
+                    [
+                        1.301e-05,
+                        4.4e-07,
+                        0.00028718
+                    ],
+                    [
+                        9.25e-06,
+                        -6e-07,
+                        -0.0225323
+                    ],
+                    [
+                        0.000117,
+                        -1.45e-06,
+                        -0.00024683
+                    ],
+                    [
+                        0.00259333,
+                        -1.88e-06,
+                        0.01675692
+                    ],
+                    [
+                        7.526e-05,
+                        -6.93e-06,
+                        -0.00016805
+                    ],
+                    [
+                        -0.00069671,
+                        1.98e-06,
+                        0.01396463
+                    ],
+                    [
+                        -0.00011069,
+                        1.15e-06,
+                        -0.00023976
+                    ],
+                    [
+                        -0.00259281,
+                        -1.81e-06,
+                        0.01673523
+                    ],
+                    [
+                        -6.385e-05,
+                        2.95e-06,
+                        -0.00017838
+                    ],
+                    [
+                        0.00069649,
+                        -4.8e-07,
+                        0.01389351
+                    ],
+                    [
+                        2.048e-05,
+                        6.952e-05,
+                        -9.538e-05
+                    ],
+                    [
+                        5.46e-06,
+                        0.00073569,
+                        0.00578853
+                    ],
+                    [
+                        2.087e-05,
+                        -7.082e-05,
+                        -9.593e-05
+                    ],
+                    [
+                        5.76e-06,
+                        -0.00073585,
+                        0.00578913
+                    ],
+                    [
+                        -1.95e-05,
+                        0.00022185,
+                        -0.00052448
+                    ],
+                    [
+                        -3.58e-06,
+                        -0.00010057,
+                        0.00400605
+                    ],
+                    [
+                        -1.818e-05,
+                        -0.00022272,
+                        -0.00052488
+                    ],
+                    [
+                        -3.9e-06,
+                        9.94e-05,
+                        0.00400604
+                    ],
+                    [
+                        -1.15e-06,
+                        1.7e-06,
+                        0.00041152
+                    ],
+                    [
+                        2.54e-06,
+                        -4.7e-07,
+                        0.00077586
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0262,
+                    -0.0322,
+                    -0.0262,
+                    -0.0322,
+                    -0.0262,
+                    -0.0322,
+                    -0.0262,
+                    -0.0322,
+                    -0.0232,
+                    -0.0343,
+                    -0.0275,
+                    -0.0331,
+                    -0.0252,
+                    -0.0294,
+                    -0.0292,
+                    -0.0334,
+                    2.4009,
+                    3.0167,
+                    2.3859,
+                    3.0272,
+                    2.4008,
+                    3.0166,
+                    2.3857,
+                    3.0273,
+                    0.0134,
+                    0.0412,
+                    0.0134,
+                    0.0412,
+                    -0.002,
+                    0.0466,
+                    -0.002,
+                    0.0466,
+                    0.0012,
+                    0.0042
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "ontop_CO_2_1"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/slab_1/output.28738220/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/slab_1/output.28738220",
+                "n_electrons": 256.0,
+                "number_KS_states": 154,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 15,
+                "Times_converged_SCF": 15,
+                "iterations_SCF": 12,
+                "estimated_scf_accuracy_Ry": 9.4e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -37012.97127164651,
+                "FERMI_ENERGY": -4.3251,
+                "TOTAL_MAGMOM": 19.42,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.03055293,
+                "FORCES": [
+                    [
+                        -7.2e-07,
+                        7.9e-07,
+                        -0.02582785
+                    ],
+                    [
+                        -3.86e-06,
+                        4.67e-06,
+                        0.00023324
+                    ],
+                    [
+                        3.3e-07,
+                        -7.2e-07,
+                        -0.02582924
+                    ],
+                    [
+                        -4.67e-06,
+                        -5.74e-06,
+                        0.0002358
+                    ],
+                    [
+                        -4.4e-07,
+                        -3.36e-06,
+                        -0.02583844
+                    ],
+                    [
+                        3.2e-06,
+                        4.61e-06,
+                        0.00024909
+                    ],
+                    [
+                        -7e-08,
+                        3e-06,
+                        -0.02583908
+                    ],
+                    [
+                        1.81e-06,
+                        -4.51e-06,
+                        0.00024575
+                    ],
+                    [
+                        -8.7e-06,
+                        -2.6e-07,
+                        0.02339078
+                    ],
+                    [
+                        -6e-07,
+                        -1.6e-07,
+                        -0.00070231
+                    ],
+                    [
+                        -1.035e-05,
+                        6.3e-07,
+                        0.02339442
+                    ],
+                    [
+                        -6.24e-06,
+                        5.3e-07,
+                        -0.00070696
+                    ],
+                    [
+                        8.51e-06,
+                        1.4e-07,
+                        0.02338894
+                    ],
+                    [
+                        1.19e-06,
+                        8.4e-07,
+                        -0.00069758
+                    ],
+                    [
+                        1.028e-05,
+                        5.5e-07,
+                        0.02338912
+                    ],
+                    [
+                        4.97e-06,
+                        -4.2e-07,
+                        -0.00070514
+                    ],
+                    [
+                        -1.72e-06,
+                        1.92e-06,
+                        0.02904422
+                    ],
+                    [
+                        2.2e-07,
+                        2.32e-06,
+                        0.00019812
+                    ],
+                    [
+                        -1.16e-06,
+                        -8.7e-07,
+                        0.02907055
+                    ],
+                    [
+                        -3.41e-06,
+                        -4.03e-06,
+                        0.00019927
+                    ],
+                    [
+                        4.63e-06,
+                        -1.96e-06,
+                        0.02904993
+                    ],
+                    [
+                        2.07e-06,
+                        1.78e-06,
+                        0.00022712
+                    ],
+                    [
+                        6.36e-06,
+                        5.2e-07,
+                        0.02907287
+                    ],
+                    [
+                        4.28e-06,
+                        -1.99e-06,
+                        0.00025161
+                    ],
+                    [
+                        2.581e-05,
+                        -2.88e-06,
+                        -0.0305473
+                    ],
+                    [
+                        8.28e-06,
+                        6.49e-06,
+                        0.00098799
+                    ],
+                    [
+                        2.255e-05,
+                        3.1e-06,
+                        -0.03054776
+                    ],
+                    [
+                        8.81e-06,
+                        -6.72e-06,
+                        0.0009899
+                    ],
+                    [
+                        -2.752e-05,
+                        -4.49e-06,
+                        -0.03055135
+                    ],
+                    [
+                        -1.014e-05,
+                        1.055e-05,
+                        0.00098416
+                    ],
+                    [
+                        -2.416e-05,
+                        4.63e-06,
+                        -0.03055293
+                    ],
+                    [
+                        -9.51e-06,
+                        -8.96e-06,
+                        0.0009831
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0239,
+                    -0.0332,
+                    -0.0239,
+                    -0.0332,
+                    -0.0239,
+                    -0.0332,
+                    -0.0239,
+                    -0.0332,
+                    -0.0611,
+                    -0.0714,
+                    -0.0611,
+                    -0.0714,
+                    -0.0611,
+                    -0.0714,
+                    -0.0611,
+                    -0.0714,
+                    2.3735,
+                    2.8141,
+                    2.3735,
+                    2.8142,
+                    2.3733,
+                    2.8142,
+                    2.3733,
+                    2.8143,
+                    0.0103,
+                    -0.0215,
+                    0.0104,
+                    -0.0215,
+                    0.0104,
+                    -0.0214,
+                    0.0104,
+                    -0.0214
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "slab_1"
+        },
+        {
+            "PARAMETERS": {
+                "QE_version": "v.7.1",
+                "outfile": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/slab_2/output.28738221/0/1/stdout.1.0",
+                "outfile_path": "./QFCC_MAG_CYCLE1_100/AlFeLiPd_MAG/slab_2/output.28738221",
+                "n_electrons": 256.0,
+                "number_KS_states": 154,
+                "convergence_threshold": 1e-06,
+                "kinetic_energy_cutoff": 50.0,
+                "charge_density_cutoff": 400.0,
+                "number_of_irreducible_kpoints": 20,
+                "kpoint_integration_type": "Methfessel-Paxton",
+                "smearing_width": 0.01,
+                "pseudo_potential": {
+                    "Al": {
+                        "Element": "Al",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Al.pbe-nl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Fe": {
+                        "Element": "Fe",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/fe_pbe_v1.5.uspp.F.UPF"
+                    },
+                    "Li": {
+                        "Element": "Li",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Li.pbe-sl-rrkjus_psl.1.0.0.UPF"
+                    },
+                    "Pd": {
+                        "Element": "Pd",
+                        "PSEUDO_POT_FILE": "/vol0403/data/hp230205/u10028/POT_HYBRID_KKJUS_GBRV/Pd.pbe-n-rrkjus_psl.1.0.0.UPF"
+                    }
+                }
+            },
+            "RESULT_DATA": {
+                "JOB_DONE": true,
+                "Times_SCF": 20,
+                "Times_converged_SCF": 20,
+                "iterations_SCF": 15,
+                "estimated_scf_accuracy_Ry": 8.9e-07,
+                "Band_calculation": false,
+                "SPIN_POL_CAL": true,
+                "FORCE_CAL": true,
+                "STRESS_CAL": false,
+                "TOTAL_ENERGY": -37013.708394085676,
+                "FERMI_ENERGY": -4.0951,
+                "TOTAL_MAGMOM": 20.61,
+                "STRESS": [
+                    false
+                ],
+                "MAX_STRESS": false,
+                "MAX_FORCE": 0.02165052,
+                "FORCES": [
+                    [
+                        2.47e-06,
+                        -1.045e-05,
+                        0.00045608
+                    ],
+                    [
+                        -2.1e-07,
+                        4.06e-06,
+                        0.00360046
+                    ],
+                    [
+                        3.7e-07,
+                        8.09e-06,
+                        0.00044487
+                    ],
+                    [
+                        -2.4e-07,
+                        -2.83e-06,
+                        0.00359997
+                    ],
+                    [
+                        1.48e-06,
+                        -2.52e-06,
+                        0.00049041
+                    ],
+                    [
+                        -1.9e-07,
+                        -3.38e-06,
+                        0.00360163
+                    ],
+                    [
+                        6.7e-07,
+                        7.41e-06,
+                        0.0004612
+                    ],
+                    [
+                        -1.8e-07,
+                        1.57e-06,
+                        0.00359748
+                    ],
+                    [
+                        9.49e-06,
+                        5.86e-06,
+                        0.00017615
+                    ],
+                    [
+                        -1.403e-05,
+                        2.52e-06,
+                        -0.0216189
+                    ],
+                    [
+                        1.07e-06,
+                        -3.6e-07,
+                        0.00017839
+                    ],
+                    [
+                        8.33e-06,
+                        -1.15e-06,
+                        -0.02162202
+                    ],
+                    [
+                        -1.323e-05,
+                        7.59e-06,
+                        0.00021501
+                    ],
+                    [
+                        8.64e-06,
+                        2.53e-06,
+                        -0.02165052
+                    ],
+                    [
+                        -7.4e-07,
+                        8.5e-07,
+                        0.00013749
+                    ],
+                    [
+                        -8.07e-06,
+                        -1.5e-06,
+                        -0.02158922
+                    ],
+                    [
+                        -3.578e-05,
+                        2.02e-06,
+                        0.0007464
+                    ],
+                    [
+                        -4.58e-06,
+                        -4.32e-06,
+                        0.01320598
+                    ],
+                    [
+                        4.059e-05,
+                        -1.35e-06,
+                        0.00072075
+                    ],
+                    [
+                        5.63e-06,
+                        3.79e-06,
+                        0.01317893
+                    ],
+                    [
+                        4.436e-05,
+                        5.3e-06,
+                        0.00070265
+                    ],
+                    [
+                        3.98e-06,
+                        -4.27e-06,
+                        0.01314683
+                    ],
+                    [
+                        -4.104e-05,
+                        -4.18e-06,
+                        0.00070929
+                    ],
+                    [
+                        -5.36e-06,
+                        3.7e-06,
+                        0.01315074
+                    ],
+                    [
+                        -2.08e-06,
+                        -2.77e-05,
+                        -0.00027523
+                    ],
+                    [
+                        -1.489e-05,
+                        -1.78e-05,
+                        0.00472636
+                    ],
+                    [
+                        1.119e-05,
+                        2.001e-05,
+                        -0.00027566
+                    ],
+                    [
+                        -1.087e-05,
+                        1.741e-05,
+                        0.00472233
+                    ],
+                    [
+                        8.1e-07,
+                        5.903e-05,
+                        -0.00027589
+                    ],
+                    [
+                        1.464e-05,
+                        5.73e-06,
+                        0.00472602
+                    ],
+                    [
+                        -1.279e-05,
+                        -6.957e-05,
+                        -0.00027581
+                    ],
+                    [
+                        1.056e-05,
+                        -6.08e-06,
+                        0.00472341
+                    ]
+                ],
+                "MAGMONS": [
+                    -0.0257,
+                    -0.0299,
+                    -0.0257,
+                    -0.0299,
+                    -0.0257,
+                    -0.0299,
+                    -0.0257,
+                    -0.0299,
+                    -0.06,
+                    -0.0752,
+                    -0.06,
+                    -0.0752,
+                    -0.06,
+                    -0.0752,
+                    -0.06,
+                    -0.0752,
+                    2.4202,
+                    3.0549,
+                    2.4202,
+                    3.0549,
+                    2.4199,
+                    3.055,
+                    2.4199,
+                    3.055,
+                    -0.0047,
+                    0.0395,
+                    -0.0047,
+                    0.0395,
+                    -0.0047,
+                    0.0395,
+                    -0.0047,
+                    0.0395
+                ],
+                "WARNING": false
+            },
+            "ABSITE_TYPE": "slab_2"
+        }
+    ]
+}
